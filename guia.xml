@@ -516,11 +516,6 @@
   <channel id="Zoom.co">
     <display-name lang="es">Zoom</display-name>
   </channel>
-  <programme start="20261023063000 -0500" stop="20261023084500 -0500" channel="24Horas.co">
-    <title lang="es">La mañana informativa</title>
-    <desc lang="es">Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023090000 -0500" channel="24Horas.co">
     <title lang="es">Entrevistas 24 horas</title>
     <desc lang="es">Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.</desc>
@@ -2586,12 +2581,6 @@
     <desc lang="es">Dos clientes confrontan a los empleados de una tienda de sándwiches por su comida; Un hombre paga un precio muy alto después de intentar arrebatarle el bolso a un pasajero de autobús.</desc>
     <category lang="es">Temporada 4 Episodio 6 - Descontrol minorista</category>
   </programme>
-  <programme start="20261023074700 -0500" stop="20261023081200 -0500" channel="AdultSwim.co">
-    <title lang="es">Justice League</title>
-  </programme>
-  <programme start="20261023081200 -0500" stop="20261023083900 -0500" channel="AdultSwim.co">
-    <title lang="es">Justice League</title>
-  </programme>
   <programme start="20261023083900 -0500" stop="20261023090500 -0500" channel="AdultSwim.co">
     <title lang="es">Bravest Warriors</title>
   </programme>
@@ -3017,11 +3006,6 @@
   </programme>
   <programme start="20261025184700 -0500" stop="20261025191400 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="AlientoVision.co">
-    <title lang="es">Reflexión espiritual</title>
-    <desc lang="es">Desde la Iglesia Fraternidad Cristiana en Guatemala, enseñanzas la Biblia con el Dr. Jorge H. López.</desc>
-    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="AlientoVision.co">
     <title lang="es">Deditos</title>
@@ -3878,11 +3862,6 @@
     <desc lang="es">Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="AMC.co">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="AMC.co">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
@@ -4233,9 +4212,6 @@
     <desc lang="es">Cuando una alpinista queda atrapada en una tormenta de nieve, encuentra un extraño corriendo el mismo peligro y ahora debe luchar por ambos para ir montaña abajo antes del anochecer.</desc>
     <category lang="es">Infinite StormDrama / 2022 / 5.2</category>
   </programme>
-  <programme start="20261023073000 -0500" stop="20261023082000 -0500" channel="AMCSeries.co">
-    <title lang="es">Edgewater, Florida</title>
-  </programme>
   <programme start="20261023082000 -0500" stop="20261023091000 -0500" channel="AMCSeries.co">
     <title lang="es">Benton, MO</title>
   </programme>
@@ -4541,11 +4517,6 @@
   </programme>
   <programme start="20261026185000 -0500" stop="20261026194000 -0500" channel="AMCSeries.co">
     <title lang="es">Wahpeton, ND</title>
-  </programme>
-  <programme start="20261023073600 -0500" stop="20261023082400 -0500" channel="AnimalPlanet.co">
-    <title lang="es">Animales en riesgo: Miami</title>
-    <desc lang="es">Los investigadores que combaten la crueldad contra los animales en Miami encuentran dos perros adoptados deambulando por la ciudad que precisan ayuda.</desc>
-    <category lang="es">Temporada 16 Episodio 3 - Colección de miniaturas</category>
   </programme>
   <programme start="20261023082400 -0500" stop="20261023091200 -0500" channel="AnimalPlanet.co">
     <title lang="es">Animales en riesgo: Miami</title>
@@ -5097,11 +5068,6 @@
     <desc lang="es">Los dueños de un perro se cuestionan su inteligencia, una bulldog cree que todo lo que ve le pertenece, un gato se dedica a robar en su vecindario, un perro saquea una cocina y se come los dulces.</desc>
     <category lang="es">Temporada 3 Episodio 2 - ¡No lo toque!</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023084500 -0500" channel="Antena3.co">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Un espacio que cuenta con las últimas noticias y toda la actualidad nacional e internacional de la mano de Vicente Vallés y Esther Vaquero.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023114500 -0500" channel="Antena3.co">
     <title lang="es">Espejo público</title>
     <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social.</desc>
@@ -5407,9 +5373,6 @@
     <desc lang="es">Todos los días el mejor equipo técnico y de redacción presenta un análisis informativo correspondiente a la actualidad nacional e internacional con seriedad e imparcialidad.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261023071400 -0500" stop="20261023083000 -0500" channel="Atreseries.co">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023123900 -0500" channel="Atreseries.co">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
@@ -5560,35 +5523,35 @@
   <programme start="20261026055700 -0500" stop="20261026061100 -0500" channel="Atreseries.co">
     <title lang="es">Más de series</title>
   </programme>
-  <programme start="20261026061100 -0500" stop="20261026080000 -0500" channel="Atreseries.co">
+  <programme start="20261026061100 -0500" stop="20261026072000 -0500" channel="Atreseries.co">
     <title lang="es">Perdida</title>
   </programme>
-  <programme start="20261026080000 -0500" stop="20261026093000 -0500" channel="Atreseries.co">
+  <programme start="20261026072000 -0500" stop="20261026083000 -0500" channel="Atreseries.co">
     <title lang="es">El secreto de Puente Viejo</title>
   </programme>
-  <programme start="20261026093000 -0500" stop="20261026113000 -0500" channel="Atreseries.co">
+  <programme start="20261026083000 -0500" stop="20261026124600 -0500" channel="Atreseries.co">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-  <programme start="20261026113000 -0500" stop="20261026124500 -0500" channel="Atreseries.co">
-    <title lang="es">Travesía</title>
+  <programme start="20261026124600 -0500" stop="20261026133700 -0500" channel="Atreseries.co">
+    <title lang="es">Sólo confía</title>
   </programme>
-  <programme start="20261026124500 -0500" stop="20261026141500 -0500" channel="Atreseries.co">
-    <title lang="es">El tiempo entre costuras</title>
+  <programme start="20261026133700 -0500" stop="20261026144500 -0500" channel="Atreseries.co">
+    <title lang="es">Las hijas de Eva</title>
   </programme>
-  <programme start="20261026141500 -0500" stop="20261026151500 -0500" channel="Atreseries.co">
-    <title lang="es">Dulce ambición</title>
+  <programme start="20261026144500 -0500" stop="20261026150700 -0500" channel="Atreseries.co">
+    <title lang="es">Más de series</title>
   </programme>
-  <programme start="20261026151500 -0500" stop="20261026163000 -0500" channel="Atreseries.co">
-    <title lang="es">Amar es para siempre</title>
+  <programme start="20261026150700 -0500" stop="20261026160000 -0500" channel="Atreseries.co">
+    <title lang="es">Sol naciente</title>
   </programme>
-  <programme start="20261026163000 -0500" stop="20261026173000 -0500" channel="Atreseries.co">
+  <programme start="20261026160000 -0500" stop="20261026165500 -0500" channel="Atreseries.co">
+    <title lang="es">La venganza</title>
+  </programme>
+  <programme start="20261026165500 -0500" stop="20261026175600 -0500" channel="Atreseries.co">
     <title lang="es">Sueños de libertad</title>
   </programme>
-  <programme start="20261026173000 -0500" stop="20261026184500 -0500" channel="Atreseries.co">
+  <programme start="20261026175600 -0500" stop="20261026190000 -0500" channel="Atreseries.co">
     <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20261026184500 -0500" stop="20261026194500 -0500" channel="Atreseries.co">
-    <title lang="es">Travesía</title>
   </programme>
   <programme start="20261023080000 -0500" stop="20261023090000 -0500" channel="AXN.co">
     <title lang="es">CSI: Miami</title>
@@ -6089,21 +6052,6 @@
     <title lang="es">CSI</title>
     <desc lang="es">Mientras trabajaban en una patrulla a pie en la franja, los CSI se topan con una víctima de asesinato, y varios de sus sospechosos ya están bajo custodia policial por cargos menores.</desc>
     <category lang="es">Temporada 13 Episodio 9 - La calle Strip</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023081200 -0500" channel="AzCorazon.co">
-    <title lang="es">UEPA - Un escenario para amar</title>
-    <desc lang="es">Paloma no logra vender enciclopedias y su situación económica empeora.</desc>
-    <category lang="es">Temporada 1 Episodio 115</category>
-  </programme>
-  <programme start="20261023081200 -0500" stop="20261023082400 -0500" channel="AzCorazon.co">
-    <title lang="es">UEPA - Un escenario para amar</title>
-    <desc lang="es">Berenice asegura que todo está bajo control gracias a su embarazo.</desc>
-    <category lang="es">Temporada 1 Episodio 116</category>
-  </programme>
-  <programme start="20261023082400 -0500" stop="20261023083600 -0500" channel="AzCorazon.co">
-    <title lang="es">UEPA - Un escenario para amar</title>
-    <desc lang="es">Berenice se siente satisfecha de controlar a Diego y planea reiniciar su matrimonio.</desc>
-    <category lang="es">Temporada 1 Episodio 117</category>
   </programme>
   <programme start="20261023083600 -0500" stop="20261023084800 -0500" channel="AzCorazon.co">
     <title lang="es">UEPA - Un escenario para amar</title>
@@ -6905,27 +6853,6 @@
     <title lang="es">FIA: Carolina Rocha</title>
     <desc lang="es">A lo largo de su Carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, ella se encarga de relatar sobre gastronomía, folklore e historias de vida.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023080500 -0500" stop="20261023081000 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la ciudad</title>
-  </programme>
-  <programme start="20261023081000 -0500" stop="20261023081500 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la ciudad</title>
-  </programme>
-  <programme start="20261023081500 -0500" stop="20261023082000 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la ciudad</title>
-  </programme>
-  <programme start="20261023082000 -0500" stop="20261023082600 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la granja</title>
-  </programme>
-  <programme start="20261023082600 -0500" stop="20261023083200 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la granja</title>
-  </programme>
-  <programme start="20261023083200 -0500" stop="20261023083800 -0500" channel="BabyTV.co">
-    <title lang="es">La pequeña Lola visita la granja</title>
-  </programme>
-  <programme start="20261023083800 -0500" stop="20261023084300 -0500" channel="BabyTV.co">
-    <title lang="es">Rastro de caracol</title>
   </programme>
   <programme start="20261023084300 -0500" stop="20261023084800 -0500" channel="BabyTV.co">
     <title lang="es">Rastro de caracol</title>
@@ -10242,16 +10169,6 @@
   <programme start="20261026185800 -0500" stop="20261026190400 -0500" channel="BabyTV.co">
     <title lang="es">Los Cuddlies</title>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="BBCWorld.co">
-    <title lang="es">BBC News Now</title>
-    <desc lang="es">Toda la cobertura de las noticias e historias más importantes del día, con el estilo ágil y versátil de Lucy Hockins.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023083000 -0500" stop="20261023084500 -0500" channel="BBCWorld.co">
-    <title lang="es">Business Today - NYSE Opening Bell</title>
-    <desc lang="es">Un espacio informativo sobre las últimas noticias de negocios y análisis actualizados de Nueva York y el mundo. Entérate de lo más relevante sobre finanzas y economía mundial en un solo lugar.</desc>
-    <category lang="es">Economía</category>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023090000 -0500" channel="BBCWorld.co">
     <title lang="es">BBC News Now</title>
     <desc lang="es">Toda la cobertura de las noticias e historias más importantes del día, con el estilo ágil y versátil de Lucy Hockins.</desc>
@@ -11440,11 +11357,6 @@
     <title lang="es">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="es">La atención en el rápido crecimiento y los importantes acuerdos que se están produciendo en todo Oriente Medio y África. Vinculando los impulsores del mercado en EE. UU. y en toda Asia con un análisis profundo de las historias comerciales.</desc>
     <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Cablenoticias.co">
-    <title lang="es">Global Es</title>
-    <desc lang="es">Vivimos en un mundo interconectado y existen problemáticas como el cambio climático y la pérdida de biodiversidad que nos afectan a todos. Este ciclo plantea soluciones y nuevas perspectivas sobre estos temas a partir de la tecnología.</desc>
-    <category lang="es">Magazine</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Cablenoticias.co">
     <title lang="es">Especial de salud / Hoy en el mundo</title>
@@ -13536,11 +13448,6 @@
     <desc lang="es">El momento ideal para ir a un viaje al pasado, con este espacio que trae para ti las canciones más emblemáticas de los años setenta y ochenta. Con los mejores clásicos que algún día estuvieron de moda y que quieres volver a escuchar.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="CanalCapital.co">
-    <title lang="es">Rodando caminos</title>
-    <desc lang="es">Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios.</desc>
-    <category lang="es">Documental</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023093000 -0500" channel="CanalCapital.co">
     <title lang="es">Cazador de cascadas</title>
     <desc lang="es">Un programa que le permitirá a los televidentes conocer el esplendor oculto en cavernas, parajes y arboledas espesas en Colombia. El conductor Pedro Gilmore guiará a los televidentes por esta aventura única a través de diversas regiones.</desc>
@@ -14495,11 +14402,6 @@
     <desc lang="es">Entérate de los sucesos más relevantes de la actualidad en este segmento especial que te brinda un resumen general sobre los últimos acontecimientos ocurridos en México y el mundo.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="CanalInstitucional.co">
-    <title lang="es">Camino emprendedor</title>
-    <desc lang="es">Camino emprendedor es un proyecto en el que se busca exaltar a los emprendedores colombianos, retratar su perseverancia, fuerza mental y amor por lo que hacen, características que los han llevado a hacer realidad sus ideas.</desc>
-    <category lang="es">Documental</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="CanalInstitucional.co">
     <title lang="es">El mundo al vuelo</title>
     <desc lang="es">Serie documental dirigida y conducida por Héctor Mora que presentó distintos escenarios internacionales desde la óptica del turismo cultural.</desc>
@@ -15252,16 +15154,6 @@
     <title lang="es">Encuadre real</title>
     <desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261023070000 -0500" stop="20261023082500 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Playlist</title>
-    <desc lang="es">100% de música, 100% de vídeoclipes.</desc>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023082500 -0500" stop="20261023083000 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Trece flash</title>
-    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
-    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023100000 -0500" channel="CanalTR3CE.co">
     <title lang="es">Salió el sol</title>
@@ -16695,26 +16587,6 @@
     <title lang="es">Mi pecado</title>
     <desc lang="es">Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por su amor.</desc>
     <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023081000 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Escandalosos</title>
-    <desc lang="es">Los Osos bebé deben devolver una momia a su tumba para no ser víctimas de una maldición eterna.</desc>
-    <category lang="es">Temporada 4 Episodio 41 - La maldición de la momia</category>
-  </programme>
-  <programme start="20261023081000 -0500" stop="20261023082000 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Escandalosos</title>
-    <desc lang="es">Para ayudar a Panda a distraerse de sus problemas románticos, Pardo y Polar le regalan un paseo en limosina.</desc>
-    <category lang="es">Temporada 4 Episodio 13 - La limosna</category>
-  </programme>
-  <programme start="20261023082000 -0500" stop="20261023083000 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Escandalosos</title>
-    <desc lang="es">Una tormenta obliga a Chloe a pasar la noche en la cueva con los Osos. Cuando los padres de esta les piden a los Osos que la protejan, los hermanos se toman la tarea demasiado en serio.</desc>
-    <category lang="es">Temporada 2 Episodio 2 - Fiesta de pijamas</category>
-  </programme>
-  <programme start="20261023083000 -0500" stop="20261023084000 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Escandalosos</title>
-    <desc lang="es">Los Osos deben completar sus tareas de padrinos el día de la boda de Darrell.</desc>
-    <category lang="es">Temporada 4 Episodio 9 - Osos padrinos</category>
   </programme>
   <programme start="20261023084000 -0500" stop="20261023085000 -0500" channel="CartoonNetwork.co">
     <title lang="es">Escandalosos</title>
@@ -18750,21 +18622,6 @@
     <title lang="es">Escandalosos</title>
     <desc lang="es">Pardo y las Amapolas van a acampar a una isla, pero pronto quedan abandonados.</desc>
     <category lang="es">Temporada 4 Episodio 40 - El señor de las amapolas</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023081200 -0500" channel="Cartoonito.co">
-    <title lang="es">Batiautos</title>
-    <desc lang="es">Bibi está emocionada de usar su sidecar, en una misión con Batman y Batgirl. ¿Podrá adaptarse al voluminoso accesorio, a tiempo para detener a Joker y Harley?</desc>
-    <category lang="es">Temporada 3 Episodio 6 - Caos con el batiasiento</category>
-  </programme>
-  <programme start="20261023081200 -0500" stop="20261023082400 -0500" channel="Cartoonito.co">
-    <title lang="es">Batiautos</title>
-    <desc lang="es">Rey Tut roba un objeto milenario que acelera mágicamente su carcófago.</desc>
-    <category lang="es">Temporada 2 Episodio 30 - ¡El bati-propulsor!</category>
-  </programme>
-  <programme start="20261023082400 -0500" stop="20261023083600 -0500" channel="Cartoonito.co">
-    <title lang="es">Batiautos</title>
-    <desc lang="es">Badcomputer activa su propio satélite y asume el control de todas las computadoras de la Tierra. Luego, los Batwheels deben ir al espacio para detenerlo.</desc>
-    <category lang="es">Temporada 3 Episodio 1 - Gótica, tenemos un problema</category>
   </programme>
   <programme start="20261023083600 -0500" stop="20261023084800 -0500" channel="Cartoonito.co">
     <title lang="es">Batiautos</title>
@@ -21306,11 +21163,6 @@
     <desc lang="es">Joyce Smith y su familia creían que lo habían perdido todo cuando su hijo John cayó en un helado lago. Joyce no estaba dispuesta a renunciar por su hijo, y clamó a Dios por su salvación. Milagrosamente, el corazón de John volvió a latir.</desc>
     <category lang="es">BreakthroughDrama / 2019 / 5.7</category>
   </programme>
-  <programme start="20261023070000 -0500" stop="20261023081000 -0500" channel="Cinelatino.co">
-    <title lang="es">Septiembre, un llanto en silencio</title>
-    <desc lang="es">Un ataque de la guerrilla el 5 de septiembre de 1980 mata a una madre que iba con su hija de tres meses y deja sorda a la pequeña. Su padre realiza con ella un viaje para sobrevivir en medio del conflicto armado interno de Guatemala.</desc>
-    <category lang="es">Drama / 2017</category>
-  </programme>
   <programme start="20261023081000 -0500" stop="20261023093500 -0500" channel="Cinelatino.co">
     <title lang="es">Afuera del tiempo</title>
     <desc lang="es">Ricardo siempre ha terminado con todas sus relaciones, pero una mujer se le adelanta cuando él le propone matrimonio. Ahora, debe pasar por las peores rupturas de ella una y otra vez para darse cuenta de la realidad.</desc>
@@ -21687,11 +21539,6 @@
   <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="Cinema+.co">
     <title lang="es">Cinema +</title>
     <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261023064500 -0500" stop="20261023083500 -0500" channel="Cinemax.co">
-    <title lang="es">La gran apuesta</title>
-    <desc lang="es">Un policía investiga una red mafiosa ligada al negocio de la construcción en China cuando su amigo queda en coma tras resistir un desalojo. La pesquisa lo lleva ante el joven y violento CEO de una poderosa compañía.</desc>
-    <category lang="es">Da ren wuAcción / 2019 / 5.7</category>
   </programme>
   <programme start="20261023083500 -0500" stop="20261023104200 -0500" channel="Cinemax.co">
     <title lang="es">Everest</title>
@@ -22298,11 +22145,6 @@
     <title lang="es">Programación comercial</title>
     <desc lang="es">Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Click.co">
-    <title lang="es">Corte colombiano</title>
-    <desc lang="es">Podrás disfrutar de una serie de documentales realizados dentro del territorio colombiano, los cuales han sido ganadores del premio India Catalina a mejor producción universitaria.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023093000 -0500" channel="Click.co">
     <title lang="es">Documentales</title>
@@ -23002,11 +22844,6 @@
     <title lang="es">Propiedad pública</title>
     <desc lang="es">Proyecto multimedial educativo creado para comprender el quehacer investigativo en distintas áreas del conocimiento, fortaleciendo el sentido de lo público en la sociedad a través de la construcción de relatos épicos.</desc>
     <category lang="es">Educativo</category>
-  </programme>
-  <programme start="20261023073000 -0500" stop="20261023084500 -0500" channel="CNN.co">
-    <title lang="es">World Sport</title>
-    <desc lang="es">Los deportes son los protagonistas en cada edición de este noticiero. Desde fútbol hasta el béisbol, el tenis y mucho más. "World Sport" le da la vuelta al mundo para traer a su audiencia la pasión, la acción y las noticias más relevantes.</desc>
-    <category lang="es">World Sport</category>
   </programme>
   <programme start="20261023084500 -0500" stop="20261023090000 -0500" channel="CNN.co">
     <title lang="es">World Sport</title>
@@ -24020,11 +23857,6 @@
     <title lang="es">Directo USA</title>
     <desc lang="es">Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023080500 -0500" stop="20261023083000 -0500" channel="ComedyCentral.co">
-    <title lang="es">Frasier</title>
-    <desc lang="es">Frasier recibe boletos para el juego de los Sonics y va con Martin y Niles. Niles es seleccionado para intentar el tiro de media cancha del medio tiempo.</desc>
-    <category lang="es">Temporada 8 Episodio 15 - La gran canasta</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023085000 -0500" channel="ComedyCentral.co">
     <title lang="es">Frasier</title>
@@ -26005,11 +25837,6 @@
     <title lang="es">Nos cogió la noche</title>
     <desc lang="es">Se ponen sobre la mesa los temas más candentes del momento, los cuales son tratados por invitados con diferentes puntos de vista que marcan sus posiciones con argumentos de peso para conectarte con la realidad de los hechos.</desc>
     <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261023074000 -0500" stop="20261023083000 -0500" channel="Cristovision.co">
-    <title lang="es">Hora santa vocacional</title>
-    <desc lang="es">Momento de oración y adoración eucarística centrado en escuchar y responder al llamado de Dios.</desc>
-    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023092000 -0500" channel="Cristovision.co">
     <title lang="es">Sagrada eucaristía</title>
@@ -28834,16 +28661,6 @@
     <desc lang="es">El desafío consistió en presentar una propuesta libre y creativa, pero con una condición estricta: debían emplatar dos preparaciones exactamente idénticas. Los chefs aclararon que en este capítulo no se repartirían delantales negros.</desc>
     <category lang="es">Temporada 8 Episodio 68</category>
   </programme>
-  <programme start="20261023080500 -0500" stop="20261023081700 -0500" channel="DiscoveryKids.co">
-    <title lang="es">Hermanos constructores: fábrica de sueños</title>
-    <desc lang="es">Es el cumpleaños de los gemelos y el equipo de la fábrica de sueños está decidido a sorprender a Drew y Jonathan con sus propios regalos especiales, pero ¿podrán ocultarles el secreto a ambos hermanos al mismo tiempo?</desc>
-    <category lang="es">Temporada 1 Episodio 40 - El mejor regalo</category>
-  </programme>
-  <programme start="20261023081700 -0500" stop="20261023084000 -0500" channel="DiscoveryKids.co">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">¡Hoy, Abuela Oveja se mudará a la casa de Suzy Oveja! Abuela Oveja se va a quedar en el ático de su casa. Cuando llega, comienza a mover los muebles y reemplazar diferentes adornos.</desc>
-    <category lang="es">Temporada 10 Episodio 5 - La Abuela Oveja se muda</category>
-  </programme>
   <programme start="20261023084000 -0500" stop="20261023090300 -0500" channel="DiscoveryKids.co">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Peppa y sus amigos salen en busca de huevos de Pascua en la casa de la conejita Rebecca. ¿Podrán encontrar todos los huevos de chocolate?</desc>
@@ -30424,11 +30241,6 @@
     <desc lang="es">Al sentirse ignorada por Zonty, Frido decide huir de casa, pero por accidente se hace pequeña y se pierde. Kitty Detective debe descubrir qué fue lo que le sucedió a Frido para encontrarla.</desc>
     <category lang="es">Temporada 1 Episodio 4 - Frido diminuta</category>
   </programme>
-  <programme start="20261023073600 -0500" stop="20261023082400 -0500" channel="DiscoveryScience.co">
-    <title lang="es">Desenmascarando a Houdini</title>
-    <desc lang="es">Es posible que uno de los mayores escapes de Houdini haya sido una conspiración de espionaje para el gobierno de Estados Unidos, y los expertos recrean el truco en un transporte de una prisión de Siberia para entender el misterio.</desc>
-    <category lang="es">Temporada 1 Episodio 3 - Conspiración en la prisión de Siberia</category>
-  </programme>
   <programme start="20261023082400 -0500" stop="20261023091200 -0500" channel="DiscoveryScience.co">
     <title lang="es">Leyendas ocultas con Megan Fox</title>
     <desc lang="es">Megan Fox investiga si una de las más grandes leyendas griegas ocurrió o no.</desc>
@@ -30968,11 +30780,6 @@
     <title lang="es">Reyes de la construcción</title>
     <desc lang="es">Un equipo de expertos construye en Hong Kong un funicular que se extenderá por 5.8 km sobre el Mar de China y a través de las montañas de Lantau hasta llegar a los pies de la estatua de Buda.</desc>
     <category lang="es">Episodio 4 - El teleférico de Hong Kong</category>
-  </programme>
-  <programme start="20261023073200 -0500" stop="20261023081800 -0500" channel="DiscoveryTurbo.co">
-    <title lang="es">Máquinas renovadas</title>
-    <desc lang="es">Joe y Mike están trabajando en la sorpresa para el asistente, Pompa: ¡una Harley con un toque verde de Joe Martin!</desc>
-    <category lang="es">Temporada 7 Episodio 10 - La Harley sorpresa de Pompa - Parte 2</category>
   </programme>
   <programme start="20261023081800 -0500" stop="20261023090400 -0500" channel="DiscoveryTurbo.co">
     <title lang="es">Al estilo Kindig</title>
@@ -31553,11 +31360,6 @@
     <title lang="es">Al estilo Kindig</title>
     <desc lang="es">El primer ejercicio del día consiste en tomarse una hora para ver si tienen el estilo de Dave o de Kev. Luego, los directores de proyectos son elegidos del grupo para liderar un equipo y modificar un Camaro de 1968.</desc>
     <category lang="es">Episodio 4 - Camaro de 1968</category>
-  </programme>
-  <programme start="20261023073600 -0500" stop="20261023082400 -0500" channel="DiscoveryWorld.co">
-    <title lang="es">Casas rodantes increíbles</title>
-    <desc lang="es">Germany's Volkner Mobil es el único remolque que lleva un auto compacto dentro.</desc>
-    <category lang="es">Temporada 2 Episodio 5 - Marathon Coach, Volkner Mobil y un Airstream retro</category>
   </programme>
   <programme start="20261023082400 -0500" stop="20261023091200 -0500" channel="DiscoveryWorld.co">
     <title lang="es">Pioneros de Polonia</title>
@@ -32479,11 +32281,6 @@
     <desc lang="es">Explore un castillo con una fosa en Miami y un escondite en Los Hamptons.</desc>
     <category lang="es">Temporada 1 Episodio 1 - Miami, Barbados, Los Hamptons y Laguna Beach</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="DisneyChannel.co">
-    <title lang="es">Hamster &amp; Gretel</title>
-    <desc lang="es">Gretel intenta pasar el tiempo con los chicos populares, mientras a su vez, debe protegerlos de una mascota caída en desgracia. / El deseo de Kevin y Anthony, es estar en un show de bromas. Pero este proyecto termina arriesgando su amistad.</desc>
-    <category lang="es">Temporada 2 Episodio 7 - Pienso, por tanto, golpeo / No más bromas, gracias</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="DisneyChannel.co">
     <title lang="es">El fantasma y Molly McGee</title>
     <desc lang="es">Una ola de recuerdos perdidos fuerzan a Scratch a tomar decisiones importantes sobre su vida después de la muerte.</desc>
@@ -33308,11 +33105,6 @@
     <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
     <desc lang="es">Como hijo de una celebridad, Luka adopta un interés particular por Bob Roth, quien haría lo que fuera por dinero. Pero Luka haría lo que fuera por defender sus valores y sus amigos.</desc>
     <category lang="es">Temporada 5 Episodio 13 - Migración</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="DisneyJunior.co">
-    <title lang="es">La casa de Mickey Mouse de Disney</title>
-    <desc lang="es">When Goofy loses his hat, he doesn't feel "Goofy" anymore - and we help Mickey and his friends find Goofy's signature chapeau before the Goof loses his self-confidence, too.</desc>
-    <category lang="es">Temporada 2 Episodio 8 - El sombrero de Goofy</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="DisneyJunior.co">
     <title lang="es">Spidey y sus sorprendentes amigos</title>
@@ -34314,9 +34106,6 @@
     <desc lang="es">Los pugs intentan devolver un huevo grande antes de que eclosione. Por otro lado, cuando Chloe y Keia pierden un remo especial de la canoa, los cachorros se embarcan en una aventura en el desierto para encontrarlo.</desc>
     <category lang="es">Temporada 2 Episodio 23 - Qué esperar cuando esperas / Arrúgalo</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="DSports.co">
-    <title lang="es">Juan Sebastián Verón</title>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="DSports.co">
     <title lang="es">CONMEBOL Sudamericana: Vasco Da Gama vs. Boca Juniors</title>
   </programme>
@@ -34435,7 +34224,7 @@
     <title lang="es">Fútbol: Previa</title>
   </programme>
   <programme start="20261025075500 -0500" stop="20261025100000 -0500" channel="DSports.co">
-    <title lang="es">Athletic de Bilbao vs. Getafe CF</title>
+    <title lang="es">Athletic Club vs. Getafe CF</title>
   </programme>
   <programme start="20261025100000 -0500" stop="20261025101000 -0500" channel="DSports.co">
     <title lang="es">LaLiga: Celta vs. Real Betis</title>
@@ -34940,9 +34729,6 @@
     <title lang="es">Deutsche Welle</title>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261023075000 -0500" stop="20261023084000 -0500" channel="E!.co">
-    <title lang="es">Keeping Up with the Kardashians</title>
-  </programme>
   <programme start="20261023084000 -0500" stop="20261023093000 -0500" channel="E!.co">
     <title lang="es">Keeping Up with the Kardashians</title>
   </programme>
@@ -35155,11 +34941,6 @@
   </programme>
   <programme start="20261025185000 -0500" stop="20261025194000 -0500" channel="E!.co">
     <title lang="es">Vanderpump Rules</title>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="ElGourmet.co">
-    <title lang="es">Abuela querida</title>
-    <desc lang="es">La abuela Nina Andersen de origen danés, abre las puertas de su hogar para compartir sus recetas. Prepara sus clásicos sándwiches daneses y frikadeller con papas agridulces. Para la tarde llega de la tarta de ruibarbo, infaltable a la hora</desc>
-    <category lang="es">Temporada 1 Episodio 6 - Abuela Nina - Necochea</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="ElGourmet.co">
     <title lang="es">La cocina de Sonia Ortiz</title>
@@ -36476,16 +36257,6 @@
     <desc lang="es">Esta crónica documental ha hecho. a través de los años, un extenso recorrido por los lugares más emblemáticos de Colombia, mostrando su riqueza cultural y natural.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Enlace.co">
-    <title lang="es">Enlace Ora</title>
-    <desc lang="es">Espacio dedicado a las peticiones, el cual permite iniciar el día con oraciones, plegarias y bendiciones, creyendo que Dios responde a nuestro clamor con paz y sanidad total.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261023083000 -0500" stop="20261023084500 -0500" channel="Enlace.co">
-    <title lang="es">Ministración del Espíritu Santo</title>
-    <desc lang="es">Serie que muestra el poder de Dios alrededor del mundo con un mensaje explícito sobre la unción del Espíritu Santo.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023090000 -0500" channel="Enlace.co">
     <title lang="es">Fe heroica</title>
     <desc lang="es">Un programa que cuenta las historias de los cristianos perseguidos y cómo encuentran la fe para seguir la palabra de Dios. El público podrá disfrutar de un espacio de adoración y reflexión espiritual para reforzar el vínculo con Jesús.</desc>
@@ -37499,12 +37270,6 @@
     <desc lang="es">Espacio para disfrutar dos canciones de un mismo artista. De esta manera escucha los grandes temas de tus intérpretes favoritos.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023060211 -0500" stop="20261023081444 -0500" channel="entchannel.cl">
-    <title lang="es">Rápidos y Furiosos: Hobbs y Shaw</title>
-    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenét...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51c08365c90c12c599e1f249e6e19d66?w=400" />
-  </programme>
   <programme start="20261023081444 -0500" stop="20261023103540 -0500" channel="entchannel.cl">
     <title lang="es">Capitán América: Civil War</title>
     <desc lang="es">Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes....</desc>
@@ -38157,13 +37922,7 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74c47f9377ac2a49ec28900007adceac?w=400" />
   </programme>
-  <programme start="20261023075753 -0500" stop="20261023082943 -0500" channel="entfamily.cl">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">Vagos paralizados, Chantaje, Agua helada</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e03cb369b965b05f136cb167845afdc?w=400" />
-  </programme>
-  <programme start="20261023082943 -0500" stop="20261023085950 -0500" channel="entfamily.cl">
+  <programme start="20261023082928 -0500" stop="20261023085950 -0500" channel="entfamily.cl">
     <title lang="es">ALF</title>
     <sub-title lang="es">Eres alguien fuera de este mundo</sub-title>
     <desc lang="es">ALF develops a crush on Lynn and starts to sabotage the dates with her boyfriend Scott while trying to come up with something to impress her.</desc>
@@ -39007,14 +38766,11 @@
   <programme start="20261025112500 -0500" stop="20261025132500 -0500" channel="ESPN.co">
     <title lang="es">SC Freiburg vs. Bayern Munich</title>
   </programme>
-  <programme start="20261025132500 -0500" stop="20261025135500 -0500" channel="ESPN.co">
-    <title lang="es">SportsCenter+</title>
-  </programme>
-  <programme start="20261025135500 -0500" stop="20261025143000 -0500" channel="ESPN.co">
+  <programme start="20261025132500 -0500" stop="20261025143000 -0500" channel="ESPN.co">
     <title lang="es">SportsCenter</title>
   </programme>
   <programme start="20261025143000 -0500" stop="20261025164000 -0500" channel="ESPN.co">
-    <title lang="es">Paris Saint-Germain vs. Olympique Lyonnais</title>
+    <title lang="es">Udinese vs. AC Milan</title>
   </programme>
   <programme start="20261025164000 -0500" stop="20261025170000 -0500" channel="ESPN.co">
     <title lang="es">SportsCenter</title>
@@ -39073,13 +38829,16 @@
   <programme start="20261026110000 -0500" stop="20261026120000 -0500" channel="ESPN.co">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20261026120000 -0500" stop="20261026150000 -0500" channel="ESPN.co">
+  <programme start="20261026120000 -0500" stop="20261026142000 -0500" channel="ESPN.co">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20261026150000 -0500" stop="20261026170000 -0500" channel="ESPN.co">
+  <programme start="20261026142000 -0500" stop="20261026163000 -0500" channel="ESPN.co">
+    <title lang="es">Paris Saint-Germain vs. Olympique Lyonnais</title>
+  </programme>
+  <programme start="20261026163000 -0500" stop="20261026173000 -0500" channel="ESPN.co">
     <title lang="es">Balón dividido</title>
   </programme>
-  <programme start="20261026170000 -0500" stop="20261026190000 -0500" channel="ESPN.co">
+  <programme start="20261026173000 -0500" stop="20261026190000 -0500" channel="ESPN.co">
     <title lang="es">ESPN F360</title>
   </programme>
   <programme start="20261023073000 -0500" stop="20261023092500 -0500" channel="ESPN2.co">
@@ -39098,7 +38857,7 @@
     <title lang="es">Cleveland Cavaliers vs. Philadelphia 76ers</title>
   </programme>
   <programme start="20261023155500 -0500" stop="20261023170500 -0500" channel="ESPN2.co">
-    <title lang="es">Gran Premio de Estados Unidos: Práctica 2</title>
+    <title lang="es">United States Grand Prix, Practice 2</title>
   </programme>
   <programme start="20261023170500 -0500" stop="20261023175500 -0500" channel="ESPN2.co">
     <title lang="es">SportsCenter</title>
@@ -39187,11 +38946,11 @@
   <programme start="20261025092000 -0500" stop="20261025112500 -0500" channel="ESPN2.co">
     <title lang="es">TSG 1899 Hoffenheim vs. Bayer 04 Leverkusen</title>
   </programme>
-  <programme start="20261025112500 -0500" stop="20261025115000 -0500" channel="ESPN2.co">
+  <programme start="20261025112500 -0500" stop="20261025132500 -0500" channel="ESPN2.co">
     <title lang="es">SportsCenter+</title>
   </programme>
-  <programme start="20261025115000 -0500" stop="20261025135500 -0500" channel="ESPN2.co">
-    <title lang="es">Lecce vs. Juventus</title>
+  <programme start="20261025132500 -0500" stop="20261025135500 -0500" channel="ESPN2.co">
+    <title lang="es">ATP Tour: This Week</title>
   </programme>
   <programme start="20261025135500 -0500" stop="20261025145500 -0500" channel="ESPN2.co">
     <title lang="es">MotoGP: Gran Premio de Australia</title>
@@ -39265,143 +39024,206 @@
   <programme start="20261026183000 -0500" stop="20261026190000 -0500" channel="ESPN2.co">
     <title lang="es">Béisbol esta noche</title>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="ESPN3.co">
-    <title lang="es">Acción de la NBA</title>
-    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
-    <category lang="es">Acción de la NBA</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023103000 -0500" channel="ESPN3.co">
-    <title lang="es">Ararat-Armenia (Arm) vs. AZ (Ned)</title>
-    <desc lang="es">Vive los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.</desc>
-    <category lang="es">Fecha 3, Vazgen Sargsyan Republican Stadium</category>
+    <title lang="es">FC Ararat-Armenia vs. AZ</title>
   </programme>
   <programme start="20261023103000 -0500" stop="20261023123000 -0500" channel="ESPN3.co">
-    <title lang="es">Hoffenheim (Ale) vs. Olympique Lyon (Fra)</title>
-    <desc lang="es">Vive los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.</desc>
-    <category lang="es">Fecha 3, SNP Arena</category>
+    <title lang="es">TSG 1899 Hoffenheim vs. Olympique Lyonnais</title>
   </programme>
   <programme start="20261023123000 -0500" stop="20261023133000 -0500" channel="ESPN3.co">
     <title lang="es">Goles de la UEFA Europa League</title>
-    <desc lang="es">Los mejores momentos de la UEFA Europa League, el segundo torneo de clubes más importante del Viejo Continente.</desc>
-    <category lang="es">Goles de la UEFA Europa League</category>
   </programme>
-  <programme start="20261023133000 -0500" stop="20261023140000 -0500" channel="ESPN3.co">
-    <title lang="es">ATP Tour Uncovered</title>
-    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
-    <category lang="es">ATP Tour Uncovered</category>
+  <programme start="20261023133000 -0500" stop="20261023135000 -0500" channel="ESPN3.co">
+    <title lang="es">Aston Villa: Campeón de la UEFA Europa League 2025-26</title>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="ESPN3.co">
-    <title lang="es">Final</title>
-    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
-    <category lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</category>
-  </programme>
-  <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="ESPN3.co">
-    <title lang="es">PGA Tour Highlights - FedExCup Playoffs Official Film</title>
-    <desc lang="es">Disftuta lo mejor de las jornadas de playoffs de la FedExCup 2026. Los amants del deporte podrán ser parte de una serie de tres torneos de golf que determinaron al campeón de la temporada 2026 del PGA Tour con sede en Estados Unidos.</desc>
-    <category lang="es">PGA Tour Highlights - FedExCup Playoffs Official Film</category>
+  <programme start="20261023135000 -0500" stop="20261023160000 -0500" channel="ESPN3.co">
+    <title lang="es">Deportivo Alavés vs. Málaga CF</title>
   </programme>
   <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="ESPN3.co">
-    <title lang="es">Goles de la Eredivisie</title>
-    <desc lang="es">Los goles del fútbol holandés.</desc>
-    <category lang="es">Goles de la Eredivisie</category>
+    <title lang="es">Dutch League Highlights</title>
   </programme>
   <programme start="20261023170000 -0500" stop="20261023173000 -0500" channel="ESPN3.co">
     <title lang="es">Aguas arriba</title>
-    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
-    <category lang="es">Aguas arriba</category>
   </programme>
   <programme start="20261023173000 -0500" stop="20261023174500 -0500" channel="ESPN3.co">
-    <title lang="es">Manchester City campeón - Carabao Cup 2025-2026</title>
-    <desc lang="es">Mira la celebración por la victoria del club Manchester City en la Carabao Cup 2025-2026.</desc>
-    <category lang="es">Manchester City campeón - Carabao Cup 2025-2026</category>
+    <title lang="es">Manchester City: Campeón de la EFL Cup 2025-26</title>
   </programme>
   <programme start="20261023174500 -0500" stop="20261023183000 -0500" channel="ESPN3.co">
-    <title lang="es">GP Austin - Carrera 1</title>
-    <desc lang="es">La F1 Academy es una competición de automovilismo de velocidad femenino de monoplazas. La categoría otorga a las cinco primeras clasificadas de la clasificación puntos para la superlicencia de la FIA, 10, 7, 5, 3 y 1 puntos respectivamente.</desc>
-    <category lang="es">Fórmula 1 Academy</category>
+    <title lang="es">Austin: Carrera 1</title>
   </programme>
   <programme start="20261023183000 -0500" stop="20261023190000 -0500" channel="ESPN3.co">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
-    <category lang="es">UEFA Champions League Weekly</category>
+    <title lang="es">UEFA Champions League Semanal</title>
   </programme>
   <programme start="20261023190000 -0500" stop="20261023200000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN Knockout, el show</title>
-    <desc lang="es">El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana.</desc>
-    <category lang="es">ESPN Knockout, el show</category>
+    <title lang="es">ESPN KnockOut</title>
   </programme>
   <programme start="20261023200000 -0500" stop="20261023230000 -0500" channel="ESPN3.co">
-    <title lang="es">Legacy Fighting Alliance: 244</title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
-    <category lang="es">ESPN Knockout</category>
+    <title lang="es">Legacy Fighting Alliance 244: Jake Woodley vs. Zayne Havener</title>
   </programme>
-  <programme start="20261023230000 -0500" stop="20261024000000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261023230000 -0500" stop="20261023233000 -0500" channel="ESPN3.co">
+    <title lang="es">Premier League Preview</title>
   </programme>
-  <programme start="20261024000000 -0500" stop="20261024010000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
-  </programme>
-  <programme start="20261024010000 -0500" stop="20261024013000 -0500" channel="ESPN3.co">
-    <title lang="es">Aguas arriba</title>
-    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
-    <category lang="es">Aguas arriba</category>
+  <programme start="20261023233000 -0500" stop="20261024013000 -0500" channel="ESPN3.co">
+    <title lang="es">Torino vs. Monza</title>
   </programme>
   <programme start="20261024013000 -0500" stop="20261024020000 -0500" channel="ESPN3.co">
-    <title lang="es">La previa - Premier League</title>
-    <desc lang="es">Antesala a los encuentros de la liga de fútbol de Inglaterra. Además, se presentan novedades e información sobre los equipos y jugadores que conforman la Premier League.</desc>
-    <category lang="es">La previa - Premier League</category>
+    <title lang="es">Triple Corona 2026</title>
   </programme>
-  <programme start="20261024020000 -0500" stop="20261024140000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261024020000 -0500" stop="20261024040000 -0500" channel="ESPN3.co">
+    <title lang="es">Ipswich Town vs. Nottingham Forest</title>
   </programme>
-  <programme start="20261024140000 -0500" stop="20261024150000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261024040000 -0500" stop="20261024050000 -0500" channel="ESPN3.co">
+    <title lang="es">Goles de la UEFA Europa League</title>
   </programme>
-  <programme start="20261025140000 -0500" stop="20261026020000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261024050000 -0500" stop="20261024053000 -0500" channel="ESPN3.co">
+    <title lang="es">EFL Highlights</title>
   </programme>
-  <programme start="20261026020000 -0500" stop="20261026140000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261024053000 -0500" stop="20261024063500 -0500" channel="ESPN3.co">
+    <title lang="es">Gran Premio de Australia: Carrera principal</title>
   </programme>
-  <programme start="20261026140000 -0500" stop="20261026170000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
+  <programme start="20261024063500 -0500" stop="20261024075000 -0500" channel="ESPN3.co">
+    <title lang="es">Gran Premio de Australia: Carrera esprint</title>
   </programme>
-  <programme start="20261026170000 -0500" stop="20261026173000 -0500" channel="ESPN3.co">
-    <title lang="es">Winter News</title>
-    <desc lang="es">¡Enterate todas las novedades del invierno! Turismo, gastronomía, actividades, personajes y toda la información de la mejor estación del año. Si pasa en el invierno, pasa en Winter News.</desc>
-    <category lang="es">Winter News</category>
+  <programme start="20261024075000 -0500" stop="20261024095500 -0500" channel="ESPN3.co">
+    <title lang="es">Como vs. Sassuolo</title>
   </programme>
-  <programme start="20261026173000 -0500" stop="20261026180000 -0500" channel="ESPN3.co">
-    <title lang="es">Béisbol esta noche</title>
-    <desc lang="es">"Béisbol esta noche" ofrece a los amantes de este deporte las mejores jugadas, reportajes, invitados especiales y entrevistas.</desc>
-    <category lang="es">Béisbol esta noche</category>
+  <programme start="20261024095500 -0500" stop="20261024105000 -0500" channel="ESPN3.co">
+    <title lang="es">SportsCenter+</title>
+  </programme>
+  <programme start="20261024105000 -0500" stop="20261024130000 -0500" channel="ESPN3.co">
+    <title lang="es">Napoli vs. Roma</title>
+  </programme>
+  <programme start="20261024130000 -0500" stop="20261024133000 -0500" channel="ESPN3.co">
+    <title lang="es">Acción de la NBA</title>
+  </programme>
+  <programme start="20261024133000 -0500" stop="20261024154500 -0500" channel="ESPN3.co">
+    <title lang="es">Lazio vs. Parma</title>
+  </programme>
+  <programme start="20261024154500 -0500" stop="20261024174500 -0500" channel="ESPN3.co">
+    <title lang="es">Chelsea vs. Tottenham Hotspur</title>
+  </programme>
+  <programme start="20261024174500 -0500" stop="20261024175500 -0500" channel="ESPN3.co">
+    <title lang="es">Manchester City: Campeón de la EFL Cup 2025-26</title>
+  </programme>
+  <programme start="20261024175500 -0500" stop="20261024184000 -0500" channel="ESPN3.co">
+    <title lang="es">Austin: Carrera de pista invertida</title>
+  </programme>
+  <programme start="20261024184000 -0500" stop="20261024231500 -0500" channel="ESPN3.co">
+    <title lang="es">Gran Premio de Australia: Carrera principal</title>
+  </programme>
+  <programme start="20261024231500 -0500" stop="20261025001500 -0500" channel="ESPN3.co">
+    <title lang="es">Atlético de Madrid vs. Deportivo de La Coruña</title>
+  </programme>
+  <programme start="20261025001500 -0500" stop="20261025011500 -0500" channel="ESPN3.co">
+    <title lang="es">Premier League: Aston Villa vs. Manchester City</title>
+  </programme>
+  <programme start="20261025011500 -0500" stop="20261025021500 -0500" channel="ESPN3.co">
+    <title lang="es">Pretoria, Men's &amp; Women's Final (Secondary Court)</title>
+  </programme>
+  <programme start="20261025021500 -0500" stop="20261025041500 -0500" channel="ESPN3.co">
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+  </programme>
+  <programme start="20261025041500 -0500" stop="20261025044500 -0500" channel="ESPN3.co">
+    <title lang="es">Acción de la NBA</title>
+  </programme>
+  <programme start="20261025044500 -0500" stop="20261025054500 -0500" channel="ESPN3.co">
+    <title lang="es">Premier League: Aston Villa vs. Manchester City</title>
+  </programme>
+  <programme start="20261025054500 -0500" stop="20261025074500 -0500" channel="ESPN3.co">
+    <title lang="es">RC Vannes vs. ASM Clermont</title>
+  </programme>
+  <programme start="20261025074500 -0500" stop="20261025081500 -0500" channel="ESPN3.co">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20261025081500 -0500" stop="20261025082000 -0500" channel="ESPN3.co">
+    <title lang="es">ESPN 3 Sur</title>
+  </programme>
+  <programme start="20261025082000 -0500" stop="20261025103000 -0500" channel="ESPN3.co">
+    <title lang="es">PSV vs. Feyenoord</title>
+  </programme>
+  <programme start="20261025103000 -0500" stop="20261025110000 -0500" channel="ESPN3.co">
+    <title lang="es">ATP Tour: This Week</title>
+  </programme>
+  <programme start="20261025110000 -0500" stop="20261025112000 -0500" channel="ESPN3.co">
+    <title lang="es">Manchester City: Campeón de la EFL Cup 2025-26</title>
+  </programme>
+  <programme start="20261025112000 -0500" stop="20261025122000 -0500" channel="ESPN3.co">
+    <title lang="es">Atlético de Madrid vs. Deportivo de La Coruña</title>
+  </programme>
+  <programme start="20261025122000 -0500" stop="20261025135000 -0500" channel="ESPN3.co">
+    <title lang="es">Independiente del Valle U16 vs. Inter Miami U16</title>
+  </programme>
+  <programme start="20261025135000 -0500" stop="20261025152000 -0500" channel="ESPN3.co">
+    <title lang="es">FC Barcelona U16 vs. Palmeiras U16</title>
+  </programme>
+  <programme start="20261025152000 -0500" stop="20261025170000 -0500" channel="ESPN3.co">
+    <title lang="es">Manchester City U16 vs. Boca Juniors U16</title>
+  </programme>
+  <programme start="20261025170000 -0500" stop="20261025175500 -0500" channel="ESPN3.co">
+    <title lang="es">Messi Cup 2026</title>
+  </programme>
+  <programme start="20261025175500 -0500" stop="20261025191500 -0500" channel="ESPN3.co">
+    <title lang="es">River Plate U16 vs. Chelsea U16</title>
+  </programme>
+  <programme start="20261025191500 -0500" stop="20261025194500 -0500" channel="ESPN3.co">
+    <title lang="es">ATP Tour: This Week</title>
+  </programme>
+  <programme start="20261025194500 -0500" stop="20261025195000 -0500" channel="ESPN3.co">
+    <title lang="es">FA Community Shield 2026: Arsenal Campeón</title>
+  </programme>
+  <programme start="20261025195000 -0500" stop="20261025202000 -0500" channel="ESPN3.co">
+    <title lang="es">UEFA Champions League Semanal</title>
+  </programme>
+  <programme start="20261025202000 -0500" stop="20261025212000 -0500" channel="ESPN3.co">
+    <title lang="es">Serie A Italia: Inter vs. Fiorentina</title>
+  </programme>
+  <programme start="20261025212000 -0500" stop="20261025222000 -0500" channel="ESPN3.co">
+    <title lang="es">Premier League: Manchester United vs. Bournemouth</title>
+  </programme>
+  <programme start="20261025222000 -0500" stop="20261025230000 -0500" channel="ESPN3.co">
+    <title lang="es">Austin: Carrera 3</title>
+  </programme>
+  <programme start="20261025230000 -0500" stop="20261026010000 -0500" channel="ESPN3.co">
+    <title lang="es">Lecce vs. Juventus</title>
+  </programme>
+  <programme start="20261026010000 -0500" stop="20261026020000 -0500" channel="ESPN3.co">
+    <title lang="es">Serie A Italia: Inter vs. Fiorentina</title>
+  </programme>
+  <programme start="20261026020000 -0500" stop="20261026040000 -0500" channel="ESPN3.co">
+    <title lang="es">Real Racing vs. Espanyol</title>
+  </programme>
+  <programme start="20261026040000 -0500" stop="20261026060000 -0500" channel="ESPN3.co">
+    <title lang="es">Como vs. Sassuolo</title>
+  </programme>
+  <programme start="20261026060000 -0500" stop="20261026080000 -0500" channel="ESPN3.co">
+    <title lang="es">Napoli vs. Roma</title>
+  </programme>
+  <programme start="20261026080000 -0500" stop="20261026100000 -0500" channel="ESPN3.co">
+    <title lang="es">Arsenal vs. Everton</title>
+  </programme>
+  <programme start="20261026100000 -0500" stop="20261026120000 -0500" channel="ESPN3.co">
+    <title lang="es">Chelsea vs. Tottenham Hotspur</title>
+  </programme>
+  <programme start="20261026120000 -0500" stop="20261026130000 -0500" channel="ESPN3.co">
+    <title lang="es">Premier League: Aston Villa vs. Manchester City</title>
+  </programme>
+  <programme start="20261026130000 -0500" stop="20261026151500 -0500" channel="ESPN3.co">
+    <title lang="es">Al Qadsiah vs. Al Sadd</title>
+  </programme>
+  <programme start="20261026151500 -0500" stop="20261026153000 -0500" channel="ESPN3.co">
+    <title lang="es">Aston Villa: Campeón de la UEFA Europa League 2025-26</title>
+  </programme>
+  <programme start="20261026153000 -0500" stop="20261026160000 -0500" channel="ESPN3.co">
+    <title lang="es">Triple Corona 2026</title>
+  </programme>
+  <programme start="20261026160000 -0500" stop="20261026170000 -0500" channel="ESPN3.co">
+    <title lang="es">MotoGP: Gran Premio de Australia</title>
+  </programme>
+  <programme start="20261026170000 -0500" stop="20261026180000 -0500" channel="ESPN3.co">
+    <title lang="es">SportsCenter</title>
   </programme>
   <programme start="20261026180000 -0500" stop="20261026190000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
-  </programme>
-  <programme start="20261027050000 -0500" stop="20261027170000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
-  </programme>
-  <programme start="20261027170000 -0500" stop="20261027183000 -0500" channel="ESPN3.co">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">Resumen informativo del acontecer deportivo a nivel mundial.</desc>
-    <category lang="es">SportsCenter</category>
-  </programme>
-  <programme start="20261027183000 -0500" stop="20261027193000 -0500" channel="ESPN3.co">
-    <title lang="es">ESPN 3</title>
-    <category lang="es">ESPN 3</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="ESPN4.co">
-    <title lang="es">Aguas Arriba</title>
+    <title lang="es">Premier League: Aston Villa vs. Manchester City</title>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="ESPN4.co">
     <title lang="es">Acción de la NBA</title>
@@ -39595,6 +39417,9 @@
   <programme start="20261026233000 -0500" stop="20261027000000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
+  <programme start="20261027000000 -0500" stop="20261027020000 -0500" channel="ESPN4.co">
+    <title lang="es">Sevilla vs. Osasuna</title>
+  </programme>
   <programme start="20261023080000 -0500" stop="20261023090000 -0500" channel="ESPN5.co">
     <title lang="es">UEFA Europa League: Juventus vs. Stade Rennais</title>
   </programme>
@@ -39623,7 +39448,7 @@
     <title lang="es">Gran Premio de Estados Unidos: Práctica 1</title>
   </programme>
   <programme start="20261023211000 -0500" stop="20261023222000 -0500" channel="ESPN5.co">
-    <title lang="es">Gran Premio de Estados Unidos: Práctica 2</title>
+    <title lang="es">United States Grand Prix, Practice 2</title>
   </programme>
   <programme start="20261023222000 -0500" stop="20261024002500 -0500" channel="ESPN5.co">
     <title lang="es">Deportivo Alavés vs. Málaga CF</title>
@@ -39713,7 +39538,7 @@
     <title lang="es">SC Freiburg vs. Bayern Munich</title>
   </programme>
   <programme start="20261025210000 -0500" stop="20261025230000 -0500" channel="ESPN5.co">
-    <title lang="es">Paris Saint-Germain vs. Olympique Lyonnais</title>
+    <title lang="es">Rayo Vallecano vs. Elche</title>
   </programme>
   <programme start="20261025230000 -0500" stop="20261026000000 -0500" channel="ESPN5.co">
     <title lang="es">Premier League: Manchester United vs. Bournemouth</title>
@@ -39737,7 +39562,7 @@
     <title lang="es">Chelsea vs. Tottenham Hotspur</title>
   </programme>
   <programme start="20261026080000 -0500" stop="20261026100000 -0500" channel="ESPN5.co">
-    <title lang="es">Paris Saint-Germain vs. Olympique Lyonnais</title>
+    <title lang="es">Como vs. Sassuolo</title>
   </programme>
   <programme start="20261026100000 -0500" stop="20261026115500 -0500" channel="ESPN5.co">
     <title lang="es">Emmanuel Navarrete vs. O'Shaquie Foster</title>
@@ -39748,8 +39573,11 @@
   <programme start="20261026135000 -0500" stop="20261026145000 -0500" channel="ESPN5.co">
     <title lang="es">Atlético de Madrid vs. Deportivo de La Coruña</title>
   </programme>
-  <programme start="20261026145000 -0500" stop="20261026170000 -0500" channel="ESPN5.co">
-    <title lang="es">Sevilla vs. Osasuna</title>
+  <programme start="20261026145000 -0500" stop="20261026150000 -0500" channel="ESPN5.co">
+    <title lang="es">Aston Villa: Campeón de la UEFA Europa League 2025-26</title>
+  </programme>
+  <programme start="20261026150000 -0500" stop="20261026170000 -0500" channel="ESPN5.co">
+    <title lang="es">Napoli vs. Roma</title>
   </programme>
   <programme start="20261026170000 -0500" stop="20261026190000 -0500" channel="ESPN5.co">
     <title lang="es">SC Freiburg vs. Bayern Munich</title>
@@ -39940,17 +39768,17 @@
   <programme start="20261024040000 -0500" stop="20261024060000 -0500" channel="ESPN7.co">
     <title lang="es">Flamengo vs. Estudiantes</title>
   </programme>
-  <programme start="20261024060000 -0500" stop="20261024080000 -0500" channel="ESPN7.co">
-    <title lang="es">Real Madrid vs. RB Leipzig</title>
+  <programme start="20261024060000 -0500" stop="20261024070000 -0500" channel="ESPN7.co">
+    <title lang="es">Pretoria, Men's &amp; Women's Final (Secondary Court)</title>
   </programme>
-  <programme start="20261024080000 -0500" stop="20261024090000 -0500" channel="ESPN7.co">
-    <title lang="es">Grandes Partidos de la UEFA</title>
+  <programme start="20261024070000 -0500" stop="20261024072000 -0500" channel="ESPN7.co">
+    <title lang="es">PSG: Campeón UEFA Champions League 2025-2026</title>
   </programme>
-  <programme start="20261024090000 -0500" stop="20261024110000 -0500" channel="ESPN7.co">
+  <programme start="20261024072000 -0500" stop="20261024093000 -0500" channel="ESPN7.co">
+    <title lang="es">RC Vannes vs. ASM Clermont</title>
+  </programme>
+  <programme start="20261024093000 -0500" stop="20261024113000 -0500" channel="ESPN7.co">
     <title lang="es">Juventus vs. Stade Rennais</title>
-  </programme>
-  <programme start="20261024110000 -0500" stop="20261024113000 -0500" channel="ESPN7.co">
-    <title lang="es">UEFA Champions League Semanal</title>
   </programme>
   <programme start="20261024113000 -0500" stop="20261024143000 -0500" channel="ESPN7.co">
     <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
@@ -40038,11 +39866,6 @@
   </programme>
   <programme start="20261026180000 -0500" stop="20261026200000 -0500" channel="ESPN7.co">
     <title lang="es">Al Qadsiah vs. Al Sadd</title>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="ESPNExtra.co">
-    <title lang="es">Aguas arriba</title>
-    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
-    <category lang="es">Aguas arriba</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="ESPNExtra.co">
     <title lang="es">Acción de la NBA</title>
@@ -40822,11 +40645,6 @@
     <desc lang="es">Tristan Delmas, joven abogado ambicioso, es designado defensor de oficio para defender a Marc Lagnier. Éste es acusado del homicidio de su hijo, pero se niega a defenderse, se declara culpable y quiere que lo condenen.</desc>
     <category lang="es">La mort dans l'âmeDrama / 2017</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="EWTN.co">
-    <title lang="es">Santo Rosario - Misterios dolorosos</title>
-    <desc lang="es">Sé parte de esta meditación sobre la vida de Jesús desde su oración en el Huerto de Getsemaní hasta su crucifixión y muerte.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023085000 -0500" channel="EWTN.co">
     <title lang="es">Coronilla de la Divina Misericordia - Latinoamérica</title>
     <desc lang="es">El Padre Luís Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.</desc>
@@ -41492,11 +41310,6 @@
     <desc lang="es">Mediante un análisis práctico de la historia, no tan infantil, de Pinocho recordamos la importancia de la conciencia bien formada para encontrar la verdadera felicidad.</desc>
     <category lang="es">Temporada 1 - Ser feliz no es para marionetas</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="film&amp;arts.co">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="film&amp;arts.co">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
@@ -41907,9 +41720,6 @@
     <desc lang="es">Una tímida joven de 17 años que toca el piano clásico descubre la música soul a través de una extraña amistad con un viejo rockero en un verano impensado que termina cambiando su vida para abrazar aún más fuerte el amor por sus pasiones.</desc>
     <category lang="es">Drama / 2022</category>
   </programme>
-  <programme start="20261023072400 -0500" stop="20261023081000 -0500" channel="FoodNetwork.co">
-    <title lang="es">Titanes vs. Jose Garces</title>
-  </programme>
   <programme start="20261023081000 -0500" stop="20261023085300 -0500" channel="FoodNetwork.co">
     <title lang="es">Archie</title>
   </programme>
@@ -42156,118 +41966,118 @@
   <programme start="20261025031500 -0500" stop="20261025040000 -0500" channel="FoodNetwork.co">
     <title lang="es">Paddington</title>
   </programme>
-  <programme start="20261025040000 -0500" stop="20261025042100 -0500" channel="FoodNetwork.co">
+  <programme start="20261025040000 -0500" stop="20261025043700 -0500" channel="FoodNetwork.co">
     <title lang="es">Sopas y pijamada</title>
   </programme>
-  <programme start="20261025042100 -0500" stop="20261025044300 -0500" channel="FoodNetwork.co">
+  <programme start="20261025043700 -0500" stop="20261025045800 -0500" channel="FoodNetwork.co">
     <title lang="es">La costa del Golfo del Mississippi</title>
   </programme>
-  <programme start="20261025044300 -0500" stop="20261025050400 -0500" channel="FoodNetwork.co">
+  <programme start="20261025045800 -0500" stop="20261025052000 -0500" channel="FoodNetwork.co">
     <title lang="es">Cenando... con estilo</title>
   </programme>
-  <programme start="20261025050400 -0500" stop="20261025054900 -0500" channel="FoodNetwork.co">
+  <programme start="20261025052000 -0500" stop="20261025060200 -0500" channel="FoodNetwork.co">
     <title lang="es">Postres de verano</title>
   </programme>
-  <programme start="20261025054900 -0500" stop="20261025063200 -0500" channel="FoodNetwork.co">
+  <programme start="20261025060200 -0500" stop="20261025064700 -0500" channel="FoodNetwork.co">
     <title lang="es">Senegal</title>
   </programme>
-  <programme start="20261025063200 -0500" stop="20261025071700 -0500" channel="FoodNetwork.co">
+  <programme start="20261025064700 -0500" stop="20261025073100 -0500" channel="FoodNetwork.co">
     <title lang="es">Alex vs. postres helados</title>
   </programme>
-  <programme start="20261025071700 -0500" stop="20261025080200 -0500" channel="FoodNetwork.co">
+  <programme start="20261025073100 -0500" stop="20261025081700 -0500" channel="FoodNetwork.co">
     <title lang="es">Titanes vs. Mei Lin</title>
   </programme>
-  <programme start="20261025080200 -0500" stop="20261025084700 -0500" channel="FoodNetwork.co">
+  <programme start="20261025081700 -0500" stop="20261025090000 -0500" channel="FoodNetwork.co">
     <title lang="es">Alicia en el País de las Maravillas</title>
   </programme>
-  <programme start="20261025084700 -0500" stop="20261025093000 -0500" channel="FoodNetwork.co">
+  <programme start="20261025090000 -0500" stop="20261025094600 -0500" channel="FoodNetwork.co">
     <title lang="es">Alex vs. Winners</title>
   </programme>
-  <programme start="20261025093000 -0500" stop="20261025095300 -0500" channel="FoodNetwork.co">
+  <programme start="20261025094600 -0500" stop="20261025100700 -0500" channel="FoodNetwork.co">
     <title lang="es">Viaje de carretera</title>
   </programme>
-  <programme start="20261025095300 -0500" stop="20261025101500 -0500" channel="FoodNetwork.co">
+  <programme start="20261025100700 -0500" stop="20261025103000 -0500" channel="FoodNetwork.co">
     <title lang="es">Comida sureña para veganos</title>
   </programme>
-  <programme start="20261025101500 -0500" stop="20261025103800 -0500" channel="FoodNetwork.co">
+  <programme start="20261025103000 -0500" stop="20261025105300 -0500" channel="FoodNetwork.co">
     <title lang="es">San Valentín</title>
   </programme>
-  <programme start="20261025103800 -0500" stop="20261025112300 -0500" channel="FoodNetwork.co">
+  <programme start="20261025105300 -0500" stop="20261025113400 -0500" channel="FoodNetwork.co">
     <title lang="es">Pasteles</title>
   </programme>
-  <programme start="20261025112300 -0500" stop="20261025114500 -0500" channel="FoodNetwork.co">
+  <programme start="20261025113400 -0500" stop="20261025115500 -0500" channel="FoodNetwork.co">
     <title lang="es">Atlanta</title>
   </programme>
-  <programme start="20261025114500 -0500" stop="20261025122800 -0500" channel="FoodNetwork.co">
+  <programme start="20261025115500 -0500" stop="20261025124100 -0500" channel="FoodNetwork.co">
     <title lang="es">Food Truck: La gran carrera</title>
   </programme>
-  <programme start="20261025122800 -0500" stop="20261025131300 -0500" channel="FoodNetwork.co">
+  <programme start="20261025124100 -0500" stop="20261025132400 -0500" channel="FoodNetwork.co">
     <title lang="es">WWE Summerslam</title>
   </programme>
-  <programme start="20261025131300 -0500" stop="20261025135800 -0500" channel="FoodNetwork.co">
+  <programme start="20261025132400 -0500" stop="20261025140800 -0500" channel="FoodNetwork.co">
     <title lang="es">Desierto a la toscana</title>
   </programme>
-  <programme start="20261025135800 -0500" stop="20261025144300 -0500" channel="FoodNetwork.co">
+  <programme start="20261025140800 -0500" stop="20261025145000 -0500" channel="FoodNetwork.co">
     <title lang="es">Postres de verano</title>
   </programme>
-  <programme start="20261025144300 -0500" stop="20261025152600 -0500" channel="FoodNetwork.co">
+  <programme start="20261025145000 -0500" stop="20261025153400 -0500" channel="FoodNetwork.co">
     <title lang="es">Shark Lagoon</title>
   </programme>
-  <programme start="20261025152600 -0500" stop="20261025161100 -0500" channel="FoodNetwork.co">
+  <programme start="20261025153400 -0500" stop="20261025161900 -0500" channel="FoodNetwork.co">
     <title lang="es">Titanes contra Marcus Samuelsson</title>
   </programme>
-  <programme start="20261025161100 -0500" stop="20261025165600 -0500" channel="FoodNetwork.co">
+  <programme start="20261025161900 -0500" stop="20261025170400 -0500" channel="FoodNetwork.co">
     <title lang="es">Alex vs. los ganadores del desafío de chefs</title>
   </programme>
-  <programme start="20261025165600 -0500" stop="20261025171900 -0500" channel="FoodNetwork.co">
+  <programme start="20261025170400 -0500" stop="20261025172500 -0500" channel="FoodNetwork.co">
     <title lang="es">Confía en mí, pollo frito</title>
   </programme>
-  <programme start="20261025171900 -0500" stop="20261025174100 -0500" channel="FoodNetwork.co">
+  <programme start="20261025172500 -0500" stop="20261025174600 -0500" channel="FoodNetwork.co">
     <title lang="es">Vacaciones en la bahía</title>
   </programme>
-  <programme start="20261025174100 -0500" stop="20261025190900 -0500" channel="FoodNetwork.co">
+  <programme start="20261025174600 -0500" stop="20261025190900 -0500" channel="FoodNetwork.co">
     <title lang="es">El doctor te verá ahora</title>
   </programme>
-  <programme start="20261025190900 -0500" stop="20261025195400 -0500" channel="FoodNetwork.co">
+  <programme start="20261025190900 -0500" stop="20261025195100 -0500" channel="FoodNetwork.co">
     <title lang="es">Otoño a la carga</title>
   </programme>
-  <programme start="20261025195400 -0500" stop="20261025203900 -0500" channel="FoodNetwork.co">
+  <programme start="20261025195100 -0500" stop="20261025203700 -0500" channel="FoodNetwork.co">
     <title lang="es">Casa de campo elegante</title>
   </programme>
-  <programme start="20261025203900 -0500" stop="20261025210100 -0500" channel="FoodNetwork.co">
+  <programme start="20261025203700 -0500" stop="20261025205900 -0500" channel="FoodNetwork.co">
     <title lang="es">Clásicos italianos</title>
   </programme>
-  <programme start="20261025210100 -0500" stop="20261025212200 -0500" channel="FoodNetwork.co">
+  <programme start="20261025205900 -0500" stop="20261025212200 -0500" channel="FoodNetwork.co">
     <title lang="es">Selena + Alta Adams</title>
   </programme>
-  <programme start="20261025212200 -0500" stop="20261025214500 -0500" channel="FoodNetwork.co">
+  <programme start="20261025212200 -0500" stop="20261025214200 -0500" channel="FoodNetwork.co">
     <title lang="es">Washington, D.C.</title>
   </programme>
-  <programme start="20261025214500 -0500" stop="20261025220700 -0500" channel="FoodNetwork.co">
+  <programme start="20261025214200 -0500" stop="20261025220300 -0500" channel="FoodNetwork.co">
     <title lang="es">Cocina para principiantes</title>
   </programme>
-  <programme start="20261025220700 -0500" stop="20261025225200 -0500" channel="FoodNetwork.co">
+  <programme start="20261025220300 -0500" stop="20261025224700 -0500" channel="FoodNetwork.co">
     <title lang="es">El cumpleaños ochentero de Taylor Dayne</title>
   </programme>
-  <programme start="20261025225200 -0500" stop="20261025231500 -0500" channel="FoodNetwork.co">
+  <programme start="20261025224700 -0500" stop="20261025230800 -0500" channel="FoodNetwork.co">
     <title lang="es">Actividades invernales en la granja</title>
   </programme>
-  <programme start="20261025231500 -0500" stop="20261025233700 -0500" channel="FoodNetwork.co">
+  <programme start="20261025230800 -0500" stop="20261025232900 -0500" channel="FoodNetwork.co">
     <title lang="es">Favoritos de la ciudad natal</title>
   </programme>
-  <programme start="20261025233700 -0500" stop="20261026002000 -0500" channel="FoodNetwork.co">
+  <programme start="20261025232900 -0500" stop="20261026001200 -0500" channel="FoodNetwork.co">
     <title lang="es">Encúentrame en San Luis</title>
   </programme>
-  <programme start="20261026002000 -0500" stop="20261026010400 -0500" channel="FoodNetwork.co">
+  <programme start="20261026001200 -0500" stop="20261026005500 -0500" channel="FoodNetwork.co">
     <title lang="es">Electricidad</title>
   </programme>
-  <programme start="20261026010400 -0500" stop="20261026014800 -0500" channel="FoodNetwork.co">
+  <programme start="20261026005500 -0500" stop="20261026014000 -0500" channel="FoodNetwork.co">
     <title lang="es">Alex vs. huevos</title>
   </programme>
-  <programme start="20261026014800 -0500" stop="20261026023200 -0500" channel="FoodNetwork.co">
+  <programme start="20261026014000 -0500" stop="20261026022300 -0500" channel="FoodNetwork.co">
     <title lang="es">¡Pasteleros a la vista!</title>
   </programme>
-  <programme start="20261026023200 -0500" stop="20261026031600 -0500" channel="FoodNetwork.co">
+  <programme start="20261026022300 -0500" stop="20261026031600 -0500" channel="FoodNetwork.co">
     <title lang="es">Las chicas superpoderosas</title>
   </programme>
   <programme start="20261026031600 -0500" stop="20261026040000 -0500" channel="FoodNetwork.co">
@@ -43411,11 +43221,6 @@
     <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
     <category lang="es">A confirmar</category>
   </programme>
-  <programme start="20261023060100 -0500" stop="20261023081700 -0500" channel="FX.co">
-    <title lang="es">La playa</title>
-    <desc lang="es">Richard y sus compañeros llegan a una playa tan bella como se la habían descrito. Pero, tras establecerse allí, descubren que hay un ejército de nativos que plantan marihuana y no están muy contentos con la presencia de estos visitantes.</desc>
-    <category lang="es">The BeachDrama / 2000 / 6.6</category>
-  </programme>
   <programme start="20261023081700 -0500" stop="20261023102400 -0500" channel="FX.co">
     <title lang="es">Una intrusa en la familia</title>
     <desc lang="es">Peter Sanderson es un abogado nervioso y deprimido que sigue enamorado de su ex mujer. Sin embargo, intenta seguir adelante y conoce en un chat a Charlene, una inteligente y explosiva abogada.</desc>
@@ -43645,11 +43450,6 @@
     <title lang="es">Estado mental</title>
     <desc lang="es">El Dr. Alan Stone trata a tres pacientes esquizofrénicos paranoicos en el Hospital Estatal de Ypsilanti en Michigan, cada uno de los cuales se cree Jesucristo.</desc>
     <category lang="es">Three ChristsDrama / 2017 / 6.2</category>
-  </programme>
-  <programme start="20261023073000 -0500" stop="20261023083000 -0500" channel="Globovision.co">
-    <title lang="es">El solidario GV</title>
-    <desc lang="es">Las noticias más relevantes serán interpretadas de manera sencilla y efectiva, evidenciando las problemáticas a resolver a lo largo y ancho de Venezuela.</desc>
-    <category lang="es">Interés general</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Globovision.co">
     <title lang="es">AM con Beatriz Lugo</title>
@@ -44260,11 +44060,6 @@
     <title lang="es">Himno Nacional</title>
     <desc lang="es">Versión del Himno Nacional de Colombia.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023061800 -0500" stop="20261023081500 -0500" channel="Golden.co">
-    <title lang="es">Querido John</title>
-    <desc lang="es">Un joven rebelde abandona sus estudios y se alista en el ejército, sin saber qué hacer con su vida, hasta que conoce a la chica de sus sueños, Savannah, con la que mantendrá una irregular relación marcada por los acontecimientos.</desc>
-    <category lang="es">Dear JohnDrama / 2010 / 6.3</category>
   </programme>
   <programme start="20261023081500 -0500" stop="20261023101500 -0500" channel="Golden.co">
     <title lang="es">Serena</title>
@@ -45829,11 +45624,6 @@
     <title lang="es">M3GAN 2.0</title>
     <desc lang="es">Dos años después del incidente M3GAN, Gemma revive su muñeca AI para enfrentar a Amelia, un robot militar creado por contratistas que robaron y utilizaron indebidamente la tecnología de M3GAN.</desc>
     <category lang="es">Acción / 2025 / 6.0</category>
-  </programme>
-  <programme start="20261023070000 -0500" stop="20261023083700 -0500" channel="HBOFamily.co">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Shrek y Fiona, convertida en ogro por amor, viajan a conocer a los padres de la joven, reyes de la mágica tierra de Muy, muy lejano. Horrorizados por el yerno, el rey prepara un complot para deshacerse de él.</desc>
-    <category lang="es">Animación / 2004 / 7.3</category>
   </programme>
   <programme start="20261023083700 -0500" stop="20261023101500 -0500" channel="HBOFamily.co">
     <title lang="es">Kung Fu Panda 3</title>
@@ -48109,10 +47899,10 @@
   <programme start="20261025031500 -0500" stop="20261025040000 -0500" channel="HGTV.co">
     <title lang="es">Comida casera</title>
   </programme>
-  <programme start="20261025040000 -0500" stop="20261025042100 -0500" channel="HGTV.co">
+  <programme start="20261025040000 -0500" stop="20261025042200 -0500" channel="HGTV.co">
     <title lang="es">Búsqueda de un hogar en Estes Park, Colorado</title>
   </programme>
-  <programme start="20261025042100 -0500" stop="20261025044400 -0500" channel="HGTV.co">
+  <programme start="20261025042200 -0500" stop="20261025044400 -0500" channel="HGTV.co">
     <title lang="es">Espacios en Los Ángeles</title>
   </programme>
   <programme start="20261025044400 -0500" stop="20261025050400 -0500" channel="HGTV.co">
@@ -48121,121 +47911,121 @@
   <programme start="20261025050400 -0500" stop="20261025054900 -0500" channel="HGTV.co">
     <title lang="es">Amor a primera visita en el lago Tillery</title>
   </programme>
-  <programme start="20261025054900 -0500" stop="20261025063200 -0500" channel="HGTV.co">
+  <programme start="20261025054900 -0500" stop="20261025063400 -0500" channel="HGTV.co">
     <title lang="es">Habitaciones de Interior Exterior</title>
   </programme>
-  <programme start="20261025063200 -0500" stop="20261025071700 -0500" channel="HGTV.co">
+  <programme start="20261025063400 -0500" stop="20261025071600 -0500" channel="HGTV.co">
     <title lang="es">Piedra, zancos, fortaleza</title>
   </programme>
-  <programme start="20261025071700 -0500" stop="20261025073900 -0500" channel="HGTV.co">
+  <programme start="20261025071600 -0500" stop="20261025073800 -0500" channel="HGTV.co">
     <title lang="es">Casa en Bountiful, Utah</title>
   </programme>
-  <programme start="20261025073900 -0500" stop="20261025080200 -0500" channel="HGTV.co">
+  <programme start="20261025073800 -0500" stop="20261025075800 -0500" channel="HGTV.co">
     <title lang="es">Escapada al sur de los Apalaches</title>
   </programme>
-  <programme start="20261025080200 -0500" stop="20261025084700 -0500" channel="HGTV.co">
+  <programme start="20261025075800 -0500" stop="20261025084400 -0500" channel="HGTV.co">
     <title lang="es">Siendo generosos en Texas</title>
   </programme>
-  <programme start="20261025084700 -0500" stop="20261025093000 -0500" channel="HGTV.co">
+  <programme start="20261025084400 -0500" stop="20261025092800 -0500" channel="HGTV.co">
     <title lang="es">Habitaciones de Interior Exterior</title>
   </programme>
-  <programme start="20261025093000 -0500" stop="20261025101500 -0500" channel="HGTV.co">
+  <programme start="20261025092800 -0500" stop="20261025101400 -0500" channel="HGTV.co">
     <title lang="es">De garaje lleno a lugar de fiestas</title>
   </programme>
-  <programme start="20261025101500 -0500" stop="20261025103800 -0500" channel="HGTV.co">
+  <programme start="20261025101400 -0500" stop="20261025103500 -0500" channel="HGTV.co">
     <title lang="es">Celebrando con Jamie Foxx, Patti Stanger y Cesar Millan</title>
   </programme>
-  <programme start="20261025103800 -0500" stop="20261025110000 -0500" channel="HGTV.co">
+  <programme start="20261025103500 -0500" stop="20261025105500 -0500" channel="HGTV.co">
     <title lang="es">Seguir creciendo</title>
   </programme>
-  <programme start="20261025110000 -0500" stop="20261025112300 -0500" channel="HGTV.co">
+  <programme start="20261025105500 -0500" stop="20261025111800 -0500" channel="HGTV.co">
     <title lang="es">Negocios en juego</title>
   </programme>
-  <programme start="20261025112300 -0500" stop="20261025114500 -0500" channel="HGTV.co">
+  <programme start="20261025111800 -0500" stop="20261025114000 -0500" channel="HGTV.co">
     <title lang="es">Espacios en Los Ángeles</title>
   </programme>
-  <programme start="20261025114500 -0500" stop="20261025122800 -0500" channel="HGTV.co">
+  <programme start="20261025114000 -0500" stop="20261025122300 -0500" channel="HGTV.co">
     <title lang="es">¿Quién es el diseñador estrella?</title>
   </programme>
-  <programme start="20261025122800 -0500" stop="20261025131300 -0500" channel="HGTV.co">
+  <programme start="20261025122300 -0500" stop="20261025130800 -0500" channel="HGTV.co">
     <title lang="es">Todo lo viejo es nuevo otra vez</title>
   </programme>
-  <programme start="20261025131300 -0500" stop="20261025133600 -0500" channel="HGTV.co">
+  <programme start="20261025130800 -0500" stop="20261025133100 -0500" channel="HGTV.co">
     <title lang="es">De Maine a Puerto Rico</title>
   </programme>
-  <programme start="20261025133600 -0500" stop="20261025135800 -0500" channel="HGTV.co">
+  <programme start="20261025133100 -0500" stop="20261025135300 -0500" channel="HGTV.co">
     <title lang="es">The Shores of Lake Michigan</title>
   </programme>
-  <programme start="20261025135800 -0500" stop="20261025144300 -0500" channel="HGTV.co">
+  <programme start="20261025135300 -0500" stop="20261025143900 -0500" channel="HGTV.co">
     <title lang="es">La que tiene doble escalera</title>
   </programme>
-  <programme start="20261025144300 -0500" stop="20261025152600 -0500" channel="HGTV.co">
+  <programme start="20261025143900 -0500" stop="20261025152200 -0500" channel="HGTV.co">
     <title lang="es">¿Quién es el diseñador estrella?</title>
   </programme>
-  <programme start="20261025152600 -0500" stop="20261025154900 -0500" channel="HGTV.co">
+  <programme start="20261025152200 -0500" stop="20261025154500 -0500" channel="HGTV.co">
     <title lang="es">Cocina francesa</title>
   </programme>
-  <programme start="20261025154900 -0500" stop="20261025161100 -0500" channel="HGTV.co">
+  <programme start="20261025154500 -0500" stop="20261025160600 -0500" channel="HGTV.co">
     <title lang="es">Es hora de volver a casa</title>
   </programme>
-  <programme start="20261025161100 -0500" stop="20261025165600 -0500" channel="HGTV.co">
+  <programme start="20261025160600 -0500" stop="20261025165100 -0500" channel="HGTV.co">
     <title lang="es">Amor a primera visita en el lago Tillery</title>
   </programme>
-  <programme start="20261025165600 -0500" stop="20261025174100 -0500" channel="HGTV.co">
+  <programme start="20261025165100 -0500" stop="20261025173700 -0500" channel="HGTV.co">
     <title lang="es">Complejo escondido</title>
   </programme>
-  <programme start="20261025174100 -0500" stop="20261025182400 -0500" channel="HGTV.co">
+  <programme start="20261025173700 -0500" stop="20261025182000 -0500" channel="HGTV.co">
     <title lang="es">Habitaciones de Interior Exterior</title>
   </programme>
-  <programme start="20261025182400 -0500" stop="20261025190900 -0500" channel="HGTV.co">
+  <programme start="20261025182000 -0500" stop="20261025190500 -0500" channel="HGTV.co">
     <title lang="es">La de la ventana de vidrio</title>
   </programme>
-  <programme start="20261025190900 -0500" stop="20261025195400 -0500" channel="HGTV.co">
+  <programme start="20261025190500 -0500" stop="20261025195000 -0500" channel="HGTV.co">
     <title lang="es">Complejo escondido</title>
   </programme>
-  <programme start="20261025195400 -0500" stop="20261025201700 -0500" channel="HGTV.co">
+  <programme start="20261025195000 -0500" stop="20261025201300 -0500" channel="HGTV.co">
     <title lang="es">Cocina francesa</title>
   </programme>
-  <programme start="20261025201700 -0500" stop="20261025203900 -0500" channel="HGTV.co">
+  <programme start="20261025201300 -0500" stop="20261025203500 -0500" channel="HGTV.co">
     <title lang="es">Espacios en Los Ángeles</title>
   </programme>
-  <programme start="20261025203900 -0500" stop="20261025212200 -0500" channel="HGTV.co">
+  <programme start="20261025203500 -0500" stop="20261025211700 -0500" channel="HGTV.co">
     <title lang="es">Dragones, naves espaciales y tipis</title>
   </programme>
-  <programme start="20261025212200 -0500" stop="20261025214400 -0500" channel="HGTV.co">
+  <programme start="20261025211700 -0500" stop="20261025213900 -0500" channel="HGTV.co">
     <title lang="es">Casa en Bountiful, Utah</title>
   </programme>
-  <programme start="20261025214400 -0500" stop="20261025220700 -0500" channel="HGTV.co">
+  <programme start="20261025213900 -0500" stop="20261025220000 -0500" channel="HGTV.co">
     <title lang="es">Una casa con buena vista en Park City</title>
   </programme>
-  <programme start="20261025220700 -0500" stop="20261025225200 -0500" channel="HGTV.co">
+  <programme start="20261025220000 -0500" stop="20261025224500 -0500" channel="HGTV.co">
     <title lang="es">Amor a primera visita en el lago Tillery</title>
   </programme>
-  <programme start="20261025225200 -0500" stop="20261025231400 -0500" channel="HGTV.co">
+  <programme start="20261025224500 -0500" stop="20261025230700 -0500" channel="HGTV.co">
     <title lang="es">Una casa para una familia grande en Park City</title>
   </programme>
-  <programme start="20261025231400 -0500" stop="20261025233700 -0500" channel="HGTV.co">
+  <programme start="20261025230700 -0500" stop="20261025232900 -0500" channel="HGTV.co">
     <title lang="es">Rudy Gay y David Wells</title>
   </programme>
-  <programme start="20261025233700 -0500" stop="20261026002000 -0500" channel="HGTV.co">
+  <programme start="20261025232900 -0500" stop="20261026001400 -0500" channel="HGTV.co">
     <title lang="es">Cocinas deslumbrantes</title>
   </programme>
-  <programme start="20261026002000 -0500" stop="20261026010400 -0500" channel="HGTV.co">
+  <programme start="20261026001400 -0500" stop="20261026005900 -0500" channel="HGTV.co">
     <title lang="es">Todo lo viejo es nuevo otra vez</title>
   </programme>
-  <programme start="20261026010400 -0500" stop="20261026014800 -0500" channel="HGTV.co">
+  <programme start="20261026005900 -0500" stop="20261026014200 -0500" channel="HGTV.co">
     <title lang="es">Vino, nieve, luz solar</title>
   </programme>
-  <programme start="20261026014800 -0500" stop="20261026021000 -0500" channel="HGTV.co">
+  <programme start="20261026014200 -0500" stop="20261026020400 -0500" channel="HGTV.co">
     <title lang="es">Negocios en juego</title>
   </programme>
-  <programme start="20261026021000 -0500" stop="20261026023200 -0500" channel="HGTV.co">
+  <programme start="20261026020400 -0500" stop="20261026022600 -0500" channel="HGTV.co">
     <title lang="es">Espacios en Los Ángeles</title>
   </programme>
-  <programme start="20261026023200 -0500" stop="20261026031600 -0500" channel="HGTV.co">
+  <programme start="20261026022600 -0500" stop="20261026031300 -0500" channel="HGTV.co">
     <title lang="es">Siendo generosos en Texas</title>
   </programme>
-  <programme start="20261026031600 -0500" stop="20261026040000 -0500" channel="HGTV.co">
+  <programme start="20261026031300 -0500" stop="20261026040000 -0500" channel="HGTV.co">
     <title lang="es">Todo lo viejo es nuevo otra vez</title>
   </programme>
   <programme start="20261026040000 -0500" stop="20261026042100 -0500" channel="HGTV.co">
@@ -49364,11 +49154,6 @@
     <desc lang="es">De las grandes civilizaciones de la antigüedad a las primeras potencias mundiales de nuestros días, esta serie repasa el legado que nos han dejado los grandes imperios que han escrito la historia de la humanidad.</desc>
     <category lang="es">Temporada 3 Episodio 12 - Sicilia conquistada - Parte 2</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="HOLATV.co">
-    <title lang="es">Coronas y palacios</title>
-    <desc lang="es">Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
-    <category lang="es">Temporada 1 Episodio 324</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="HOLATV.co">
     <title lang="es">Cóctel de noticias</title>
     <desc lang="es">Un toque de celebridades, un poco de realeza, destellos de moda... los ingredientes imprescindibles para el coctel de noticias perfecto. Un resumen semanal de las noticias más destacadas de la realeza, la moda y las celebridades.</desc>
@@ -50068,11 +49853,6 @@
     <title lang="es">HTV</title>
     <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023073600 -0500" stop="20261023082600 -0500" channel="InvestigationDiscovery.co">
-    <title lang="es">Unmasking a Monster: Aileen Wuornos</title>
-    <desc lang="es">Trabajando con su exnovia, los detectives tienden una trampa a Wuornos. Al entrar al interrogatorio, su historia impacta. Con entrevistas exclusivas a sus amigos, se revela cómo se convirtió en la asesina que conocemos hoy.</desc>
-    <category lang="es">Temporada 1 Episodio 2 - Soy una buena chica</category>
   </programme>
   <programme start="20261023082600 -0500" stop="20261023091600 -0500" channel="InvestigationDiscovery.co">
     <title lang="es">Víctimas del amor</title>
@@ -51476,11 +51256,6 @@
     <desc lang="es">A medida que avanza la enfermedad de su madre, un joven adinerado contrata a una cuidadora. Sus vidas comienzan a convertirse en una aventura mortal cuando la cuidadora intenta convertirse en una faceta permanente de la familia adinerada.</desc>
     <category lang="es">Danger in the HouseSuspenso / 2022 / 6.4</category>
   </programme>
-  <programme start="20261023073000 -0500" stop="20261023082000 -0500" channel="MasChic.co">
-    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
-    <desc lang="es">En Florida, un dentista es asesinado por un tirador enmascarado. Medios de comunicación vinculan a la esposa y al hijastro del dentista con el crimen. Sin embargo, un investigador privado presenta una teoría diferente sobre el asesinato.</desc>
-    <category lang="es">Temporada 1 Episodio 14 - Edgewater, Florida</category>
-  </programme>
   <programme start="20261023082000 -0500" stop="20261023091000 -0500" channel="MasChic.co">
     <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
     <desc lang="es">Benton, Misuri. Tras el hallazgo de una adolescente asesinada en su coche al borde de una carretera, un desconocido de afuera es condenado por su asesinato.</desc>
@@ -52460,11 +52235,6 @@
     <title lang="es">Play List - Franjas musicales</title>
     <desc lang="es">Grupos de canciones de artistas clasificados por género.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023080500 -0500" stop="20261023083000 -0500" channel="MTV.co">
-    <title lang="es">Ridiculousness</title>
-    <desc lang="es">Rob, Steelo y Carly Aquilino prueban algunos movimientos nuevos y lucen impecables.</desc>
-    <category lang="es">Temporada 42 Episodio 439 - Sterling y Carly Aquilino LXIII</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023085000 -0500" channel="MTV.co">
     <title lang="es">Ridiculousness</title>
@@ -53936,11 +53706,6 @@
     <desc lang="es">El chef Ramsay viaja al gélido invierno vikingo de Noruega para pescar mariscos en los fiordos y arrear renos salvajes con los nativos. Todo antes de preparar un banquete de Navidad con el chef lugareño Christopher Haatuft.</desc>
     <category lang="es">Temporada 2 Episodio 2 - Noruega</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="NBATV.co">
-    <title lang="es">Full Court</title>
-    <desc lang="es">Vive las emociones de Full Court.</desc>
-    <category lang="es">Full Court</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="NBATV.co">
     <title lang="es">Full Court</title>
     <desc lang="es">Vive las emociones de Full Court.</desc>
@@ -54495,12 +54260,6 @@
     <title lang="es">Full Court</title>
     <desc lang="es">Vive las emociones de Full Court.</desc>
     <category lang="es">Full Court</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023082000 -0500" channel="Nick.co">
-    <title lang="es">The Loud House</title>
-  </programme>
-  <programme start="20261023082000 -0500" stop="20261023084500 -0500" channel="Nick.co">
-    <title lang="es">The Loud House</title>
   </programme>
   <programme start="20261023084500 -0500" stop="20261023091000 -0500" channel="Nick.co">
     <title lang="es">The Loud House</title>
@@ -55216,15 +54975,23 @@
   <programme start="20261026233500 -0500" stop="20261027000000 -0500" channel="Nick.co">
     <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
   </programme>
-  <programme start="20261023074500 -0500" stop="20261023081000 -0500" channel="NickJr.co">
-    <title lang="es">Rubble y equipo</title>
-    <desc lang="es">El abuelo Gravel le enseña a Charger sus mejores movimientos de bapara el gran concurso de baile.</desc>
-    <category lang="es">Temporada 1 Episodio 18 - ¡El equipo construye una biblioteca tetería! / ¡El quipo construye una pista de baile!</category>
+  <programme start="20261027000000 -0500" stop="20261027002000 -0500" channel="Nick.co">
+    <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
   </programme>
-  <programme start="20261023081000 -0500" stop="20261023083000 -0500" channel="NickJr.co">
-    <title lang="es">Rubble y equipo</title>
-    <desc lang="es">Rubble y su equipo ayudan a Karima y Shelley con la apertura de su primera tienda de artículos deportivos de Caleta Constructor. / Los cachorros mueven una sandía gigante, pero unas ardillas se interponen en su camino.</desc>
-    <category lang="es">Temporada 4 Episodio 13 - El equipo construye una tienda de artículos deportivos / El equipo juega al fútbol con vehículos de</category>
+  <programme start="20261027002000 -0500" stop="20261027004500 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20261027004500 -0500" stop="20261027011000 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20261027011000 -0500" stop="20261027013500 -0500" channel="Nick.co">
+    <title lang="es">The Marsupilamis</title>
+  </programme>
+  <programme start="20261027013500 -0500" stop="20261027015500 -0500" channel="Nick.co">
+    <title lang="es">Best and Bester</title>
+  </programme>
+  <programme start="20261027015500 -0500" stop="20261027022000 -0500" channel="Nick.co">
+    <title lang="es">Best and Bester</title>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023085500 -0500" channel="NickJr.co">
     <title lang="es">Patrulla canina</title>
@@ -59223,11 +58990,6 @@
     <desc lang="es">Una rotación continua de videos musicales programados de forma especial para satisfacer a personas de todas las edades con los éxitos del momento y los videos más destacados de años anteriores.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="RussiaToday.co">
-    <title lang="es">RT reporta</title>
-    <desc lang="es">Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.</desc>
-    <category lang="es">- Medellín: entre estigmas y futuro</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="RussiaToday.co">
     <title lang="es">El zoom</title>
     <desc lang="es">Nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos.</desc>
@@ -60803,11 +60565,6 @@
     <desc lang="es">Programación a confirmar.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Sony.co">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">Un espacio que presenta información sobre el producto Audio Calm V2 AXN de Swiss Nature Labs. El suplemento desarrollado con ingredientes naturales ayuda a brindar alivio y paz a quienes sufren de molestias otológicas.</desc>
-    <category lang="es">Temporada 1 - Audio Calm V2 AXN</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Sony.co">
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">Un espacio que presenta información sobre el producto Audio Calm V2 AXN de Swiss Nature Labs. El suplemento desarrollado con ingredientes naturales ayuda a brindar alivio y paz a quienes sufren de molestias otológicas.</desc>
@@ -61208,9 +60965,6 @@
     <desc lang="es">Gemma se convierte de forma inesperada en la cuidadora de su sobrina de 8 años y decide emparejar a la niña con un prototipo de M3GAN, una muñeca realista, lo que acarrea consecuencias inimaginables.</desc>
     <category lang="es">Terror / 2022 / 6.4</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="SonyMovies.co">
-    <title lang="es">Flowers for Barry</title>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023100500 -0500" channel="SonyMovies.co">
     <title lang="es">Misterio en el set: Asesinato a la carta</title>
   </programme>
@@ -61414,9 +61168,6 @@
   </programme>
   <programme start="20261026180500 -0500" stop="20261026200000 -0500" channel="SonyMovies.co">
     <title lang="es">La noche del demonio: La puerta roja</title>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="SonyMovies.uy">
-    <title lang="es">The Goldbergs</title>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023100500 -0500" channel="SonyMovies.uy">
     <title lang="es">Morning Show Mysteries: Murder on the Menu</title>
@@ -61646,6 +61397,9 @@
   <programme start="20261026234400 -0500" stop="20261027013400 -0500" channel="SonyMovies.uy">
     <title lang="es">El Exorcista del Papa</title>
     <desc lang="es">Mientras investiga la posesión de un niño, un padre descubre una conspiración de varios siglos de antigüedad que el Vaticano ha tratado de ocultar.</desc>
+  </programme>
+  <programme start="20261027013400 -0500" stop="20261027030900 -0500" channel="SonyMovies.uy">
+    <title lang="es">Cadáver</title>
   </programme>
   <programme start="20261023071300 -0500" stop="20261023092100 -0500" channel="Space.co">
     <title lang="es">El Hombre Araña 3</title>
@@ -62169,11 +61923,6 @@
     <desc lang="es">Guy trabaja como cajero de un banco y un día se da cuenta de que Free City no es exactamente la ciudad que él creía y que en realidad él es un personaje dentro de un brutal videojuego de mundo abierto.</desc>
     <category lang="es">Free GuyAcción / 2021 / 7.1</category>
   </programme>
-  <programme start="20261023063000 -0500" stop="20261023081000 -0500" channel="StudioUniversal.co">
-    <title lang="es">Un inesperado cuento de Navidad</title>
-    <desc lang="es">Talia y su mejor amigo de la infancia, Anderson, se reúnen inesperadamente en un pueblo familiar lleno de espíritu navideño que restaura a sus visitantes durante tiempos de profunda agitación.</desc>
-    <category lang="es">A Fabled HolidayComedia / 2022 / 6.6</category>
-  </programme>
   <programme start="20261023081000 -0500" stop="20261023095500 -0500" channel="StudioUniversal.co">
     <title lang="es">Nadando por el oro</title>
     <desc lang="es">Claire Carpenter se encuentra cara a cara con su rival Mikayla Michaels, y la noticia de que el campamento de natación se cerrará si su equipo pierde el próximo encuentro. Claire debe superar un miedo secreto y redescubrir su pasión.</desc>
@@ -62423,11 +62172,6 @@
     <title lang="es">Sangre, sudor y gloria</title>
     <desc lang="es">Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.</desc>
     <category lang="es">Pain and GainComedia / 2013 / 7.8</category>
-  </programme>
-  <programme start="20261023073000 -0500" stop="20261023083000 -0500" channel="SunChannel.co">
-    <title lang="es">Patrimonio mundial</title>
-    <desc lang="es">En el centro de Nancy, Francia, se encuentra una de las plazas más bellas de Europa. Arquitectos, escultores y metalúrgicos lograron una de las hazañas más significativas del siglo XVIII.</desc>
-    <category lang="es">Episodio 21</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="SunChannel.co">
     <title lang="es">Tesoros del Golfo de California</title>
@@ -63454,11 +63198,6 @@
     <desc lang="es">Rusia, revolución bolchevique (1917). Zhivago, poeta y cirujano, marido y amante; cuya vida trastornada por la guerra afecta a las vidas de otros, incluida Tonya, la mujer con la que se casa y Lara, la mujer a la que no podrá olvidar.</desc>
     <category lang="es">Drama / 1965 / 7.9</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="TeleVid.co">
-    <title lang="es">Actívate con Tena</title>
-    <desc lang="es">Espacio para activar el cuerpo, estirar, fortalecer los músculos, mejorar el sistema cardiovascular y respiratorio. Mantenerse activo con ejercicios de motricidad, coordinación y habilidad; actividades que mejoran la vida del adulto mayor.</desc>
-    <category lang="es">Salud</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023092500 -0500" channel="TeleVid.co">
     <title lang="es">Compasión</title>
     <desc lang="es">Conoce y entérate de los proyectos y propuestas de la fundación Compasión en Colombia, quienes se encargan de tender una mano amiga a todas las personas necesitadas mediante ayudas económicas, viviendas dignas, alimentación y mucho más.</desc>
@@ -64425,11 +64164,6 @@
     <title lang="es">Ángelus</title>
     <desc lang="es">Momento para recordar la importancia de la anunciación y encarnación de Jesús, a través del rezo del Ángelus.</desc>
     <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="TeleAmiga.co">
-    <title lang="es">En tu cocina</title>
-    <desc lang="es">Creatividad, ingenio y sazón son los ingredientes principales que acompañan la elaboración de prácticas recetas que son presentadas al espectador, con lo más variado de la gastronomía colombiana para el deleite de su paladar.</desc>
-    <category lang="es">Cocina</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="TeleAmiga.co">
     <title lang="es">Redes abiertas</title>
@@ -65660,11 +65394,6 @@
     <desc lang="es">Un espacio seguro donde puedas aclarar tus dudas, expresar tus sentimientos y encontrar consuelo. En cada episodio exploraremos temas profundos de salud mental con claridad y cercanía, y estaremos listos para escucharte y apoyarte.</desc>
     <category lang="es">Salud</category>
   </programme>
-  <programme start="20261023070000 -0500" stop="20261023083000 -0500" channel="Telecafe.co">
-    <title lang="es">A primera hora</title>
-    <desc lang="es">Un programa que ofrece información actualizada y orientación de las agendas públicas, comunitarias, deportivas y culturales.</desc>
-    <category lang="es">Periodístico</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023100000 -0500" channel="Telecafe.co">
     <title lang="es">Mañana y café</title>
     <desc lang="es">Mañana y Café será la mejor compañía para empezar el día con información fresca, entretenimiento y ese toque especial que nos hace únicos.</desc>
@@ -66274,11 +66003,6 @@
     <title lang="es">Telecafé noticias</title>
     <desc lang="es">Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Telecaribe.co">
-    <title lang="es">Días saludables</title>
-    <desc lang="es">Espacio dedicado a temas relacionados con la salud, el bienestar y la recreación de las personas. Los televidentes podrán resolver en directo cualquier inquietud. Con invitados de diferentes ramas de la medicina.</desc>
-    <category lang="es">Salud</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023110000 -0500" channel="Telecaribe.co">
     <title lang="es">Nuestras mañanas</title>
@@ -67474,116 +67198,14 @@
   <programme start="20261024200500 -0500" stop="20261025040500 -0500" channel="Teleislas.co">
     <title lang="es">El mundo de Luna</title>
   </programme>
-  <programme start="20261025040500 -0500" stop="20261025060000 -0500" channel="Teleislas.co">
+  <programme start="20261025200500 -0500" stop="20261026040500 -0500" channel="Teleislas.co">
     <title lang="es">El mundo de Luna</title>
-  </programme>
-  <programme start="20261025060000 -0500" stop="20261025063000 -0500" channel="Teleislas.co">
-    <title lang="es">Rumba en casa</title>
-  </programme>
-  <programme start="20261025063000 -0500" stop="20261025073000 -0500" channel="Teleislas.co">
-    <title lang="es">Teleislas News</title>
-  </programme>
-  <programme start="20261025073000 -0500" stop="20261025083000 -0500" channel="Teleislas.co">
-    <title lang="es">Misa padre Marcelino</title>
-  </programme>
-  <programme start="20261025083000 -0500" stop="20261025084000 -0500" channel="Teleislas.co">
-    <title lang="es">Kriol Bible Stuoriz</title>
-  </programme>
-  <programme start="20261025084000 -0500" stop="20261025090000 -0500" channel="Teleislas.co">
-    <title lang="es">Burro y Cebra</title>
-  </programme>
-  <programme start="20261025090000 -0500" stop="20261025091500 -0500" channel="Teleislas.co">
-    <title lang="es">Misa British Virgin Islands</title>
-  </programme>
-  <programme start="20261025091500 -0500" stop="20261025093000 -0500" channel="Teleislas.co">
-    <title lang="es">Today's Piknini</title>
-  </programme>
-  <programme start="20261025093000 -0500" stop="20261025100000 -0500" channel="Teleislas.co">
-    <title lang="es">Jesus Stori Fi Piknini</title>
-  </programme>
-  <programme start="20261025100000 -0500" stop="20261025103000 -0500" channel="Teleislas.co">
-    <title lang="es">Al mundo del turismo desde</title>
-  </programme>
-  <programme start="20261025103000 -0500" stop="20261025103500 -0500" channel="Teleislas.co">
-    <title lang="es">Happy Reef</title>
-  </programme>
-  <programme start="20261025103500 -0500" stop="20261025104000 -0500" channel="Teleislas.co">
-    <title lang="es">Mek' a tell you</title>
-  </programme>
-  <programme start="20261025104000 -0500" stop="20261025110000 -0500" channel="Teleislas.co">
-    <title lang="es">Pequeñas estrellas</title>
-  </programme>
-  <programme start="20261025110000 -0500" stop="20261025113000 -0500" channel="Teleislas.co">
-    <title lang="es">Island Kids</title>
-  </programme>
-  <programme start="20261025113000 -0500" stop="20261025120000 -0500" channel="Teleislas.co">
-    <title lang="es">Fi Wi Future</title>
-  </programme>
-  <programme start="20261025120000 -0500" stop="20261025123000 -0500" channel="Teleislas.co">
-    <title lang="es">Entre Ojos</title>
-  </programme>
-  <programme start="20261025123000 -0500" stop="20261025130000 -0500" channel="Teleislas.co">
-    <title lang="es">Quick and Delicious</title>
-  </programme>
-  <programme start="20261025130000 -0500" stop="20261025133000 -0500" channel="Teleislas.co">
-    <title lang="es">Cuarentena musical Pacífico y Caribe</title>
-  </programme>
-  <programme start="20261025133000 -0500" stop="20261025140000 -0500" channel="Teleislas.co">
-    <title lang="es">Noticiero científico y cultural iberoamericano</title>
-  </programme>
-  <programme start="20261025140000 -0500" stop="20261025150000 -0500" channel="Teleislas.co">
-    <title lang="es">Recintos de fe</title>
-  </programme>
-  <programme start="20261025150000 -0500" stop="20261025153000 -0500" channel="Teleislas.co">
-    <title lang="es">Farm and Fish</title>
-  </programme>
-  <programme start="20261025153000 -0500" stop="20261025160000 -0500" channel="Teleislas.co">
-    <title lang="es">Caribbean culture</title>
-  </programme>
-  <programme start="20261025160000 -0500" stop="20261025163000 -0500" channel="Teleislas.co">
-    <title lang="es">Documental</title>
-  </programme>
-  <programme start="20261025163000 -0500" stop="20261025173000 -0500" channel="Teleislas.co">
-    <title lang="es">Creole Evening</title>
-  </programme>
-  <programme start="20261025173000 -0500" stop="20261025175700 -0500" channel="Teleislas.co">
-    <title lang="es">Misa padre Marcelino</title>
-  </programme>
-  <programme start="20261025175700 -0500" stop="20261025183000 -0500" channel="Teleislas.co">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20261025183000 -0500" stop="20261025190000 -0500" channel="Teleislas.co">
-    <title lang="es">Programa del MinTIC</title>
-  </programme>
-  <programme start="20261025190000 -0500" stop="20261025190200 -0500" channel="Teleislas.co">
-    <title lang="es">Espacio político</title>
-  </programme>
-  <programme start="20261025190200 -0500" stop="20261025193000 -0500" channel="Teleislas.co">
-    <title lang="es">Caribbean Week in Review</title>
-  </programme>
-  <programme start="20261025193000 -0500" stop="20261025195500 -0500" channel="Teleislas.co">
-    <title lang="es">Explorando San Andrés</title>
-  </programme>
-  <programme start="20261025195500 -0500" stop="20261025200000 -0500" channel="Teleislas.co">
-    <title lang="es">Gotas bíblicas</title>
-  </programme>
-  <programme start="20261025200000 -0500" stop="20261025203000 -0500" channel="Teleislas.co">
-    <title lang="es">Teleislas News</title>
-  </programme>
-  <programme start="20261025203000 -0500" stop="20261025214500 -0500" channel="Teleislas.co">
-    <title lang="es">Flora y fauna marina</title>
-  </programme>
-  <programme start="20261025214500 -0500" stop="20261025220000 -0500" channel="Teleislas.co">
-    <title lang="es">Peg + gato</title>
-  </programme>
-  <programme start="20261025220000 -0500" stop="20261025230000 -0500" channel="Teleislas.co">
-    <title lang="es">Hispana</title>
-  </programme>
-  <programme start="20261025230000 -0500" stop="20261026000000 -0500" channel="Teleislas.co">
-    <title lang="es">Old Providence Sport</title>
   </programme>
   <programme start="20261026000000 -0500" stop="20261026050000 -0500" channel="Teleislas.co">
     <title lang="es">El sabor de la pasión</title>
+  </programme>
+  <programme start="20261026040500 -0500" stop="20261026060000 -0500" channel="Teleislas.co">
+    <title lang="es">El mundo de Luna</title>
   </programme>
   <programme start="20261026050000 -0500" stop="20261026055700 -0500" channel="Teleislas.co">
     <title lang="es">Healthy Body</title>
@@ -67606,8 +67228,23 @@
   <programme start="20261026080000 -0500" stop="20261026100000 -0500" channel="Teleislas.co">
     <title lang="es">Mi mundo interior</title>
   </programme>
+  <programme start="20261026083000 -0500" stop="20261026084000 -0500" channel="Teleislas.co">
+    <title lang="es">Kriol Bible Stuoriz</title>
+  </programme>
+  <programme start="20261026084000 -0500" stop="20261026090000 -0500" channel="Teleislas.co">
+    <title lang="es">Burro y Cebra</title>
+  </programme>
+  <programme start="20261026090000 -0500" stop="20261026091500 -0500" channel="Teleislas.co">
+    <title lang="es">Misa British Virgin Islands</title>
+  </programme>
+  <programme start="20261026091500 -0500" stop="20261026093000 -0500" channel="Teleislas.co">
+    <title lang="es">Today's Piknini</title>
+  </programme>
+  <programme start="20261026093000 -0500" stop="20261026100000 -0500" channel="Teleislas.co">
+    <title lang="es">Jesus Stori Fi Piknini</title>
+  </programme>
   <programme start="20261026100000 -0500" stop="20261026103000 -0500" channel="Teleislas.co">
-    <title lang="es">Eureka</title>
+    <title lang="es">Al mundo del turismo desde</title>
   </programme>
   <programme start="20261026103000 -0500" stop="20261026103500 -0500" channel="Teleislas.co">
     <title lang="es">Happy Reef</title>
@@ -67625,19 +67262,25 @@
     <title lang="es">Fi Wi Future</title>
   </programme>
   <programme start="20261026120000 -0500" stop="20261026123000 -0500" channel="Teleislas.co">
-    <title lang="es">Culture and Taste</title>
+    <title lang="es">Entre Ojos</title>
   </programme>
   <programme start="20261026123000 -0500" stop="20261026130000 -0500" channel="Teleislas.co">
     <title lang="es">Quick and Delicious</title>
   </programme>
-  <programme start="20261026130000 -0500" stop="20261026140000 -0500" channel="Teleislas.co">
-    <title lang="es">Campeonas de la ciudad</title>
+  <programme start="20261026130000 -0500" stop="20261026133000 -0500" channel="Teleislas.co">
+    <title lang="es">Cuarentena musical Pacífico y Caribe</title>
   </programme>
-  <programme start="20261026140000 -0500" stop="20261026150000 -0500" channel="Teleislas.co">
+  <programme start="20261026133000 -0500" stop="20261026140000 -0500" channel="Teleislas.co">
     <title lang="es">Noticiero científico y cultural iberoamericano</title>
   </programme>
-  <programme start="20261026150000 -0500" stop="20261026160000 -0500" channel="Teleislas.co">
+  <programme start="20261026140000 -0500" stop="20261026150000 -0500" channel="Teleislas.co">
+    <title lang="es">Recintos de fe</title>
+  </programme>
+  <programme start="20261026150000 -0500" stop="20261026153000 -0500" channel="Teleislas.co">
     <title lang="es">Farm and Fish</title>
+  </programme>
+  <programme start="20261026153000 -0500" stop="20261026160000 -0500" channel="Teleislas.co">
+    <title lang="es">Caribbean culture</title>
   </programme>
   <programme start="20261026160000 -0500" stop="20261026163000 -0500" channel="Teleislas.co">
     <title lang="es">Documental</title>
@@ -67649,7 +67292,7 @@
     <title lang="es">Yo mujer</title>
   </programme>
   <programme start="20261026173000 -0500" stop="20261026175700 -0500" channel="Teleislas.co">
-    <title lang="es">Vida Marina</title>
+    <title lang="es">Misa padre Marcelino</title>
   </programme>
   <programme start="20261026175700 -0500" stop="20261026180000 -0500" channel="Teleislas.co">
     <title lang="es">Himno Nacional</title>
@@ -67657,10 +67300,38 @@
   <programme start="20261026180000 -0500" stop="20261026190200 -0500" channel="Teleislas.co">
     <title lang="es">Inteligencia artificial</title>
   </programme>
-  <programme start="20261023055900 -0500" stop="20261023084500 -0500" channel="Telemedellin.co">
-    <title lang="es">Noticias Telemedellín</title>
-    <desc lang="es">Este informativo hace un registro serio y responsable del acontecer de Medellín y el Área Metropolitana, así como también las reseñas regionales, nacionales e internacionales.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261026183000 -0500" stop="20261026190000 -0500" channel="Teleislas.co">
+    <title lang="es">Programa del MinTIC</title>
+  </programme>
+  <programme start="20261026190000 -0500" stop="20261026190200 -0500" channel="Teleislas.co">
+    <title lang="es">Espacio político</title>
+  </programme>
+  <programme start="20261026190200 -0500" stop="20261026193000 -0500" channel="Teleislas.co">
+    <title lang="es">Caribbean Week in Review</title>
+  </programme>
+  <programme start="20261026193000 -0500" stop="20261026195500 -0500" channel="Teleislas.co">
+    <title lang="es">Explorando San Andrés</title>
+  </programme>
+  <programme start="20261026195500 -0500" stop="20261026200000 -0500" channel="Teleislas.co">
+    <title lang="es">Gotas bíblicas</title>
+  </programme>
+  <programme start="20261026200000 -0500" stop="20261026203000 -0500" channel="Teleislas.co">
+    <title lang="es">Teleislas News</title>
+  </programme>
+  <programme start="20261026203000 -0500" stop="20261026214500 -0500" channel="Teleislas.co">
+    <title lang="es">Flora y fauna marina</title>
+  </programme>
+  <programme start="20261026214500 -0500" stop="20261026220000 -0500" channel="Teleislas.co">
+    <title lang="es">Peg + gato</title>
+  </programme>
+  <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="Teleislas.co">
+    <title lang="es">Hispana</title>
+  </programme>
+  <programme start="20261026230000 -0500" stop="20261027000000 -0500" channel="Teleislas.co">
+    <title lang="es">Old Providence Sport</title>
+  </programme>
+  <programme start="20261027000000 -0500" stop="20261027050000 -0500" channel="Teleislas.co">
+    <title lang="es">El sabor de la pasión</title>
   </programme>
   <programme start="20261023084500 -0500" stop="20261023085000 -0500" channel="Telemedellin.co">
     <title lang="es">Justo a tiempo</title>
@@ -68176,9 +67847,6 @@
     <desc lang="es">El espacio para todos aquellos realizadores audiovisuales nayaritas, en el que nos platican sus experiencias en producciones de cine, haciéndonos viajar con sus cortometrajes y documentales.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20261023075000 -0500" stop="20261023084000 -0500" channel="Telemundo.co">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
   <programme start="20261023084000 -0500" stop="20261023093000 -0500" channel="Telemundo.co">
     <title lang="es">Caso Cerrado</title>
   </programme>
@@ -68553,11 +68221,6 @@
     <title lang="es">Programación videos</title>
     <desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023080200 -0500" stop="20261023083000 -0500" channel="Telepacifico.co">
-    <title lang="es">Catadores de tierra</title>
-    <desc lang="es">Catadores de Tierra acompaña desde una mirada observacional el recorrido de los productos agropecuarios, a través de descubrir las rutinas de campesinos de los departamentos del Chocó, Valle, Cauca y Nariño</desc>
-    <category lang="es">Arte</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Telepacifico.co">
     <title lang="es">El fogón</title>
@@ -69341,11 +69004,6 @@
     <desc lang="es">Un espacio que brinda las últimas novedades de las distintas disciplinas deportivas a nivel regional, nacional e internacional.</desc>
     <category lang="es">Chiva deportes</category>
   </programme>
-  <programme start="20261023073700 -0500" stop="20261023082600 -0500" channel="TLC.co">
-    <title lang="es">Los Busby</title>
-    <desc lang="es">Una visita a la antigua casa de los Busby genera una sorpresa. Cambia la situación laboral de Adam. Mientras tanto, los Busby se preparan para recibir malas noticias sobre la vista de Hazel.</desc>
-    <category lang="es">Temporada 4 Episodio 26 - No hay lugar como el hogar</category>
-  </programme>
   <programme start="20261023082600 -0500" stop="20261023091500 -0500" channel="TLC.co">
     <title lang="es">Un gran mundo pequeño</title>
     <desc lang="es">Matt se enfrenta a su temporada de calabazas más estresante cuando intenta hacer todo sin Caryn. Chris recibe una lección de tractores de Matt y Amy se ve obligada a aceptar su amistad.</desc>
@@ -69875,11 +69533,6 @@
     <title lang="es">Mi gran boda gitana</title>
     <desc lang="es">Dos adolescentes de dos familias gitanas enemistadas están decididos a casarse a pesar de que sus madres hacen todo lo posible por separarlos. Un joven quiere transformarse en el primer gitano campeón de jiu jitsu.</desc>
     <category lang="es">Temporada 3 Episodio 3 - Un amor digno de pelearlo</category>
-  </programme>
-  <programme start="20261023065500 -0500" stop="20261023084000 -0500" channel="TLNovelas.co">
-    <title lang="es">Eternamente amándonos</title>
-    <desc lang="es">Paula y Rogelio se enamoran perdidamente y se casan en secreto. Sin embargo deben enfrentar los prejuicios de la familia Iturbide, que no acepta a la muchacha. Los jóvenes tendrán que atravesar duras pruebas para fortalecer su amor.</desc>
-    <category lang="es">- 72 y 73</category>
   </programme>
   <programme start="20261023084000 -0500" stop="20261023102000 -0500" channel="TLNovelas.co">
     <title lang="es">Vivo por Elena</title>
@@ -70941,11 +70594,6 @@
   <programme start="20261026184500 -0500" stop="20261026193600 -0500" channel="TNTNovelas.co">
     <title lang="es">El Chico De Oro</title>
   </programme>
-  <programme start="20261023070000 -0500" stop="20261023081800 -0500" channel="TNTSeries.co">
-    <title lang="es">CSI</title>
-    <desc lang="es">El C.S.I. se convierte en el protagonista de un reality televisivo mientras investigan a un violador en serie.</desc>
-    <category lang="es">Temporada 6 Episodio 17 - Me gusta mirar</category>
-  </programme>
   <programme start="20261023081800 -0500" stop="20261023090500 -0500" channel="TNTSeries.co">
     <title lang="es">CSI</title>
     <desc lang="es">Cuando encuentran muerta y encerrada en una jaula, con temperatura controlada, a una restauradora de libros, Grissom y Nick intentan determinar si se trata de un caso de suicidio o de homicidio.</desc>
@@ -71510,11 +71158,6 @@
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Mientras investigan una muerte relacionada con el virus de escherichia cole, el equipo se encuentra con las trabas impuestas por los intereses de una poderosa corporación, el caso resulta tener un serio costo emocional para Delko.</desc>
     <category lang="es">Temporada 8 Episodio 5 - Mala semilla</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Tooncast.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <desc lang="es">Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco, evitar los peligros y trampas que hay en la gran ciudad.</desc>
-    <category lang="es">Infantil</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Tooncast.co">
     <title lang="es">Escuadrón del tiempo</title>
@@ -73396,11 +73039,6 @@
     <desc lang="es">Silvestre y Taz se unen para ganar una carrera de autos de juguete.</desc>
     <category lang="es">Temporada 1 Episodio 7 - Cat-Taz-Trophy</category>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="TRACESportsStars.co">
-    <title lang="es">Bite Nite</title>
-    <desc lang="es">Una colección de películas premiadas que exploran el lado más oscuro de la historia del deporte. El público podra revalorizar las historias de diversos atletas y las injusticias que sufrieron o a las que se opusieron.</desc>
-    <category lang="es">Foul Play</category>
-  </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="TRACESportsStars.co">
     <title lang="es">Novias del deporte</title>
     <category lang="es">Sports Woman</category>
@@ -74175,11 +73813,6 @@
     <title lang="es">El mejor rendimiento en la Historia Olímpica.</title>
     <desc lang="es">Un espacio que explora las carreras, momentos decisivos e historias personales de destacados deportistas, ofreciendo una mirada a sus logros, desafíos y legados. El programa combina entrevistas, material de archivo y análisis.</desc>
     <category lang="es">Flashpoint</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="TvAgro.co">
-    <title lang="es">Huellas</title>
-    <desc lang="es">Un espacio dedicado a conocer sobre el correcto entrenamiento que debe tener cada mascota, su alimentación y cuidado. Una edición exclusiva para los amantes de los perros.</desc>
-    <category lang="es">Agro</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="TvAgro.co">
     <title lang="es">Transformadores de campo</title>
@@ -75060,11 +74693,6 @@
     <title lang="es">Cascos y riendas</title>
     <desc lang="es">Este espacio te muestra la interacción entre el hombre y el caballo.</desc>
     <category lang="es">Agro</category>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="TVC.co">
-    <title lang="es">Televenta</title>
-    <desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc>
-    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="TVC.co">
     <title lang="es">Televenta</title>
@@ -76036,21 +75664,6 @@
     <desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261023075500 -0500" stop="20261023083000 -0500" channel="TVE.co">
-    <title lang="es">Telediario 1º edición</title>
-    <desc lang="es">Programa de noticias diarias nacionales e internacionales, en directo desde la primera edición del día para que no te pierdas ninguna información.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023083000 -0500" stop="20261023083500 -0500" channel="TVE.co">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Un programa que ofrece las novedades de la actualidad deportiva diaria nacional e internacional.</desc>
-    <category lang="es">Teledeporte 1</category>
-  </programme>
-  <programme start="20261023083500 -0500" stop="20261023084000 -0500" channel="TVE.co">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Toda la información del tiempo, avalada por el Instituto Nacional de Meteorología.</desc>
-    <category lang="es">Episodio 468</category>
-  </programme>
   <programme start="20261023084000 -0500" stop="20261023085000 -0500" channel="TVE.co">
     <title lang="es">Aquí la tierra</title>
     <desc lang="es">A través de entrevistas a especialistas e imágenes representativas, "Aquí la tierra" analiza la forma en que el clima y los fenómenos asociados a él impactan en la población, los animales y en la naturaleza.</desc>
@@ -76821,10 +76434,6 @@
     <desc lang="es">El noticiero deportivo más completo con móviles en vivo, análisis, el día a día de los clubes argentinos, la previa de la actividad nocturna, entrevistas y especialistas en cada disciplina.</desc>
     <category lang="es">Sportia</category>
   </programme>
-  <programme start="20261023050000 -0500" stop="20261023084500 -0500" channel="UFCNetwork.co">
-    <title lang="es">12: Jorge Hernández / Sebastián Castella / Octavio García"El Payo" / Andrés Roca</title>
-    <category lang="es">Corrida de toros</category>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023102500 -0500" channel="UFCNetwork.co">
     <title lang="es">El inframundo</title>
     <desc lang="es">Cinco participantes inician un viaje hacía el inframundo para enfrentar sus más grandes miedos y temores, solo uno de ellos logrará sobrevivir a las pruebas que los esperan, una más extrema que la anterior.</desc>
@@ -77011,9 +76620,6 @@
     <title lang="es">Antonio Ferrera, Arturo Saldivar y Diego Silveto</title>
     <category lang="es">Corrida de toros</category>
   </programme>
-  <programme start="20261023055500 -0500" stop="20261023082500 -0500" channel="UniversalCinema.co">
-    <title lang="es">Transformers: El lado oscuro de la Luna</title>
-  </programme>
   <programme start="20261023082500 -0500" stop="20261023111000 -0500" channel="UniversalCinema.co">
     <title lang="es">Transformers: La era de la extinción</title>
   </programme>
@@ -77072,7 +76678,7 @@
     <title lang="es">Wonka</title>
   </programme>
   <programme start="20261024215500 -0500" stop="20261024233500 -0500" channel="UniversalCinema.co">
-    <title lang="es">El gato con botas: El último deseo</title>
+    <title lang="es">Gato con botas 2: El último deseo</title>
   </programme>
   <programme start="20261024233500 -0500" stop="20261025012000 -0500" channel="UniversalCinema.co">
     <title lang="es">Dora y la ciudad perdida</title>
@@ -77151,9 +76757,6 @@
   </programme>
   <programme start="20261026180000 -0500" stop="20261026200000 -0500" channel="UniversalCinema.co">
     <title lang="es">Uncharted</title>
-  </programme>
-  <programme start="20261023073000 -0500" stop="20261023083500 -0500" channel="UniversalCrime.co">
-    <title lang="es">Matthew Perry: Una tragedia de Hollywood</title>
   </programme>
   <programme start="20261023083500 -0500" stop="20261023092000 -0500" channel="UniversalCrime.co">
     <title lang="es">Carman y Clarence Jenkins</title>
@@ -77485,9 +77088,6 @@
   <programme start="20261026181500 -0500" stop="20261026190000 -0500" channel="UniversalCrime.co">
     <title lang="es">Fetiche asesino</title>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023084500 -0500" channel="UniversalPremiere.co">
-    <title lang="es">Dopesick</title>
-  </programme>
   <programme start="20261023084500 -0500" stop="20261023093000 -0500" channel="UniversalPremiere.co">
     <title lang="es">Defensa</title>
   </programme>
@@ -77799,11 +77399,6 @@
   </programme>
   <programme start="20261026181500 -0500" stop="20261026190000 -0500" channel="UniversalPremiere.co">
     <title lang="es">Fantasmas</title>
-  </programme>
-  <programme start="20261023075000 -0500" stop="20261023084000 -0500" channel="UniversalTV.co">
-    <title lang="es">Chicago Med</title>
-    <desc lang="es">El equipo se ocupa de las secuelas de un accidente de autobús escolar. Por otro lado, el Dr. Charles se preocupa de que el Dr. Halstead ponga en peligro su licencia médica, y Maggie ayuda a una amiga necesitada.</desc>
-    <category lang="es">Temporada 5 Episodio 12 - Dejemos que decida Salomón</category>
   </programme>
   <programme start="20261023084000 -0500" stop="20261023093000 -0500" channel="UniversalTV.co">
     <title lang="es">Chicago Fire</title>
@@ -78819,10 +78414,6 @@
     <title lang="es">Contacto deportivo</title>
     <desc lang="es">Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional.</desc>
     <category lang="es">Contacto deportivo</category>
-  </programme>
-  <programme start="20261023072000 -0500" stop="20261023081000 -0500" channel="USANetwork.co">
-    <title lang="es">The Rookie</title>
-    <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
   </programme>
   <programme start="20261023081000 -0500" stop="20261023090000 -0500" channel="USANetwork.co">
     <title lang="es">The Rookie</title>
@@ -80507,11 +80098,6 @@
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.</desc>
     <category lang="es">Talk Show</category>
   </programme>
-  <programme start="20261023080500 -0500" stop="20261023082800 -0500" channel="WarnerChannel.co">
-    <title lang="es">Dos hombres y medio</title>
-    <desc lang="es">Liz, la hermana siniestra pero sensual de Judith, planea venir al cumpleaños de Jake. Alan le pide a Charlie que se porte bien. Pero cuando Liz llega, ella ignora a Charlie y coquetea con Alan.</desc>
-    <category lang="es">Temporada 1 Episodio 19 - Irónico, ¿No?</category>
-  </programme>
   <programme start="20261023082800 -0500" stop="20261023085400 -0500" channel="WarnerChannel.co">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Jake toca la guitarra eléctrica todo el día y no quiere hacer nada más. Alan y Charlie no pueden entender por qué. Mientras tanto, Jake se niega a discutir cualquier cosa con nadie, incluida su abuela e incluso un psicólogo.</desc>
@@ -81384,11 +80970,6 @@
   </programme>
   <programme start="20261026183000 -0500" stop="20261026203000 -0500" channel="WinSports+.co">
     <title lang="es">Fútbol Colombiano Primera División</title>
-  </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="Zoom.co">
-    <title lang="es">Documental</title>
-    <desc lang="es">Una selección de los mejores documentales.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="Zoom.co">
     <title lang="es">NCC Salud</title>
