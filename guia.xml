@@ -2833,11 +2833,6 @@
   <programme start="20261025184700 -0500" stop="20261025191400 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="AlientoVision.co">
-    <title lang="es">Ciencia, diseño y creación</title>
-    <desc lang="es">Un espacio protagonizado por científicos y expositores de las diferentes ramas del saber, demostrando que la ciencia confirma lo que dice la Biblia.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="AlientoVision.co">
     <title lang="es">Beats</title>
     <desc lang="es">Espacio musical donde conocerás a tus cantantes favoritos de cerca, a través de una amena conversación donde expondrán sus secretos mejor guardados.</desc>
@@ -5501,11 +5496,6 @@
   <programme start="20261026175600 -0500" stop="20261026190000 -0500" channel="Atreseries.co">
     <title lang="es">El secreto de Puente Viejo</title>
   </programme>
-  <programme start="20261023141000 -0500" stop="20261023150000 -0500" channel="AXN.co">
-    <title lang="es">Criminal Minds</title>
-    <desc lang="es">Una serie de ataques con ácido atraen a los BAU a Filadelfia, mientras Reid se adapta a una nueva realidad.</desc>
-    <category lang="es">Temporada 12 Episodio 15 - Macho alfa</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023155000 -0500" channel="AXN.co">
     <title lang="es">Criminal Minds</title>
     <desc lang="es">Una madre asegura que su hijo está detrás de una serie de crímenes atroces en la ciudad de Nueva York.</desc>
@@ -5966,11 +5956,6 @@
     <desc lang="es">Mientras trabajaban en una patrulla a pie en la franja, los CSI se topan con una víctima de asesinato, y varios de sus sospechosos ya están bajo custodia policial por cargos menores.</desc>
     <category lang="es">Temporada 13 Episodio 9 - La calle Strip</category>
   </programme>
-  <programme start="20261023144800 -0500" stop="20261023150000 -0500" channel="AzCorazon.co">
-    <title lang="es">UEPA - Un escenario para amar</title>
-    <desc lang="es">Diego se comporta con cortesía frente a Berenice.</desc>
-    <category lang="es">Temporada 1 Episodio 119</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="AzCorazon.co">
     <title lang="es">Rutas de la vida</title>
     <desc lang="es">¿Qué tienen en común una modelo y una taxista? Las rutas de sus vidas se cruzaron en el momento que más lo necesitaban y al amanecer algo hermoso les ocurrió.</desc>
@@ -6331,11 +6316,6 @@
     <desc lang="es">Un programa que trata temas y problemas que se presentan en la vida diaria de personas comunes. Se relatan historias dramáticas, en donde sus protagonistas exponen sus casos conmovedores que llegan a tocar los corazones del público.</desc>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="AzMundo.co">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">En este espacio se conjugan la verdad, la crítica sin censura y la investigación periodística del mundo del espectáculo, con el profesionalismo de la experimentada periodista Pati Chapoy.</desc>
-    <category lang="es">Espectáculo</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="AzMundo.co">
     <title lang="es">Hechos meridiano</title>
     <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.</desc>
@@ -6509,11 +6489,6 @@
     <desc lang="es">A lo largo de su Carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, ella se encarga de relatar sobre gastronomía, folklore e historias de vida.</desc>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Azteca13.co">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">En este espacio se conjugan la verdad, la crítica sin censura y la investigación periodística del mundo del espectáculo, con el profesionalismo de la experimentada periodista Pati Chapoy.</desc>
-    <category lang="es">Espectáculo</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Azteca13.co">
     <title lang="es">Hechos meridiano</title>
     <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.</desc>
@@ -6686,9 +6661,6 @@
     <title lang="es">FIA: Carolina Rocha</title>
     <desc lang="es">A lo largo de su Carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, ella se encarga de relatar sobre gastronomía, folklore e historias de vida.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023145100 -0500" stop="20261023145800 -0500" channel="BabyTV.co">
-    <title lang="es">Charlie y los números</title>
   </programme>
   <programme start="20261023145800 -0500" stop="20261023150400 -0500" channel="BabyTV.co">
     <title lang="es">Charlie y las figuras</title>
@@ -9774,11 +9746,6 @@
   <programme start="20261026185800 -0500" stop="20261026190400 -0500" channel="BabyTV.co">
     <title lang="es">Los Cuddlies</title>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="BBCWorld.co">
-    <title lang="es">The Context USA</title>
-    <desc lang="es">Ofrecemos una cobertura especial desde Washington DC y Londres, centrándonos en el segundo mandato del presidente Trump.</desc>
-    <category lang="es">Político</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="BBCWorld.co">
     <title lang="es">The Context USA</title>
     <desc lang="es">Ofrecemos una cobertura especial desde Washington DC y Londres, centrándonos en el segundo mandato del presidente Trump.</desc>
@@ -10878,11 +10845,6 @@
     <desc lang="es">La atención en el rápido crecimiento y los importantes acuerdos que se están produciendo en todo Oriente Medio y África. Vinculando los impulsores del mercado en EE. UU. y en toda Asia con un análisis profundo de las historias comerciales.</desc>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Cablenoticias.co">
-    <title lang="es">Actualidad en análisis</title>
-    <desc lang="es">El mundo se enfrenta a una inestabilidad no vista en décadas. Un espacio para comprender el por qué de la actualidad informativa y analizar el acontecer geopolítico y geoeconómico global.</desc>
-    <category lang="es">Documental</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Cablenoticias.co">
     <title lang="es">Cable noticias a las 3</title>
     <desc lang="es">Conoce los hechos más importantes que marcan el interés de los televidentes. La jornada informativa de lo que sucede y los personajes más importantes en el desarrollo de los acontecimientos.</desc>
@@ -11922,11 +11884,6 @@
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261023140400 -0500" stop="20261023150000 -0500" channel="Canal1.co">
-    <title lang="es">Tú tienes la sazón</title>
-    <desc lang="es">Un emocionante viaje culinario que te llevará a explorar los sabores auténticos y la riqueza cultural de la gastronomía.</desc>
-    <category lang="es">Cocina</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023150400 -0500" channel="Canal1.co">
     <title lang="es">Noticentro 1 - En punto</title>
     <desc lang="es">Segmento de actualización informativa con cobertura dinámica y sintetizada de los acontecimientos más relevantes.</desc>
@@ -12432,11 +12389,6 @@
     <desc lang="es">Muchos andan en la oscuridad, sin rumbo y este programa se propone a revelar los misterios de la fe para vencer a las tinieblas.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="CanalC.co">
-    <title lang="es">Cali Directo</title>
-    <desc lang="es">Un espacio de contenido informativo con todo lo que necesitas saber sobre Santiago de Cali y el país.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="CanalC.co">
     <title lang="es">Tablero jurídico</title>
     <desc lang="es">Tus derechos, deberes, obligaciones y las normas son presentados en este espacio que educará al espectador acerca de los aspectos más importantes de la vida diaria en el ámbito legal, en compañía del Dr. Luis Ernelio Palacios.</desc>
@@ -12821,11 +12773,6 @@
     <desc lang="es">El momento ideal para ir a un viaje al pasado, con este espacio que trae para ti las canciones más emblemáticas de los años setenta y ochenta. Con los mejores clásicos que algún día estuvieron de moda y que quieres volver a escuchar.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="CanalCapital.co">
-    <title lang="es">Ahora 10:30 A.M.</title>
-    <desc lang="es">Un programa que aborda lo más destacado de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023170000 -0500" channel="CanalCapital.co">
     <title lang="es">Portal Eureka</title>
     <desc lang="es">El Portal Eureka es un mundo donde la imaginación no tiene límites y es la franja infantil de eureka en Canal Capital. Un espacio de entretenimiento para niños y jóvenes, donde se fomenta la creatividad.</desc>
@@ -13091,10 +13038,6 @@
     <desc lang="es">Fin de transmisión.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261023120000 -0500" stop="20261023150000 -0500" channel="CanalCartagena.co">
-    <title lang="es">Canal Cartagena</title>
-    <category lang="es">Variedades</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023180000 -0500" channel="CanalCartagena.co">
     <title lang="es">Canal Cartagena</title>
     <category lang="es">Variedades</category>
@@ -13206,9 +13149,6 @@
   <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="CanalCartagena.co">
     <title lang="es">Canal Cartagena</title>
     <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="CanalCongreso.co">
-    <title lang="es">En pocas palabras</title>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023173000 -0500" channel="CanalCongreso.co">
     <title lang="es">Comisión Sexta de Cámara</title>
@@ -13407,11 +13347,6 @@
   </programme>
   <programme start="20261026183000 -0500" stop="20261026190000 -0500" channel="CanalCongreso.co">
     <title lang="es">Pido la palabra</title>
-  </programme>
-  <programme start="20261023141000 -0500" stop="20261023150000 -0500" channel="CanaldelasEstrellas.co">
-    <title lang="es">Como dice el dicho</title>
-    <desc lang="es">Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.</desc>
-    <category lang="es">Drama</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023170000 -0500" channel="CanaldelasEstrellas.co">
     <title lang="es">El Chavo</title>
@@ -13682,11 +13617,6 @@
     <title lang="es">En punto con Enrique Acevedo</title>
     <desc lang="es">Entérate de los sucesos más relevantes de la actualidad en este segmento especial que te brinda un resumen general sobre los últimos acontecimientos ocurridos en México y el mundo.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="CanalInstitucional.co">
-    <title lang="es">Actualidad en análisis</title>
-    <desc lang="es">El mundo se enfrenta a una inestabilidad no vista en décadas. Un espacio para comprender el por qué de la actualidad informativa y analizar el acontecer geopolítico y geoeconómico global.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="CanalInstitucional.co">
     <title lang="es">Encuadre real</title>
@@ -14386,16 +14316,6 @@
     <title lang="es">Encuadre real</title>
     <desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023145500 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Ciencia y tecnología al descubierto</title>
-    <desc lang="es">Explora ideas, personas e innovaciones que están cambiando el mundo.</desc>
-    <category lang="es">Episodio 17</category>
-  </programme>
-  <programme start="20261023145500 -0500" stop="20261023150000 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Trece flash</title>
-    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
-    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023161000 -0500" channel="CanalTR3CE.co">
     <title lang="es">Playlist</title>
@@ -15729,11 +15649,6 @@
     <title lang="es">Mi pecado</title>
     <desc lang="es">Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por su amor.</desc>
     <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261023144500 -0500" stop="20261023150000 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Hora de aventura</title>
-    <desc lang="es">El Rey Helado crea un virus de computadora para eliminar a todos excepto a sí mismo y a Dulce Princesa.</desc>
-    <category lang="es">Temporada 5 Episodio 15 - Un bicho es un bicho</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="CartoonNetwork.co">
     <title lang="es">Un jefe en pañales: de vuelta en la cuna</title>
@@ -17594,11 +17509,6 @@
     <title lang="es">Escandalosos</title>
     <desc lang="es">Pardo y las Amapolas van a acampar a una isla, pero pronto quedan abandonados.</desc>
     <category lang="es">Temporada 4 Episodio 40 - El señor de las amapolas</category>
-  </programme>
-  <programme start="20261023145000 -0500" stop="20261023150000 -0500" channel="Cartoonito.co">
-    <title lang="es">Batiautos</title>
-    <desc lang="es">Batwing y Goldie participan en el Gotham Air-Show, pero cuando Batman necesita su ayuda, ellos deben decidir si elegir entre ganar la competencia o acudir ante sus responsabilidades.</desc>
-    <category lang="es">Temporada 2 Episodio 7 - El show aéreo</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Cartoonito.co">
     <title lang="es">Grizzy y los Lemmings</title>
@@ -20233,221 +20143,143 @@
     <title lang="es">Cinema +</title>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261023141800 -0500" stop="20261023161300 -0500" channel="Cinemax.co">
-    <title lang="es">El cazador y la reina de hielo</title>
-    <desc lang="es">Freya, la hermana de la reina Ravenna, que huyó del reino, descubre que un miembro de su legión de cazadores, Eric, y la guerrera Sara, han incumplido la única regla impuesta a los soldados: desterrar el amor eternamente de sus corazones.</desc>
-    <category lang="es">The Huntsman: Winter's WarFantasía / 2016 / 6.1</category>
+  <programme start="20261023132700 -0500" stop="20261023162800 -0500" channel="Cinemax.co">
+    <title lang="es">Tenet</title>
   </programme>
-  <programme start="20261023161300 -0500" stop="20261023182300 -0500" channel="Cinemax.co">
-    <title lang="es">Everest</title>
-    <desc lang="es">Inspirada en los hechos que tuvieron lugar durante un intento por alcanzar el pico más alto del mundo, narra las peripecias de dos expediciones que se enfrentan a la peor tormenta de nieve conocida.</desc>
-    <category lang="es">Aventura / 2015 / 7.1</category>
+  <programme start="20261023162800 -0500" stop="20261023183900 -0500" channel="Cinemax.co">
+    <title lang="es">DC Liga de supermascotas</title>
   </programme>
-  <programme start="20261023182300 -0500" stop="20261023200400 -0500" channel="Cinemax.co">
-    <title lang="es">La gran muralla</title>
-    <desc lang="es">En la Antigua China un grupo de mercenarios europeos se encuentra con un ejército secreto que mantiene y defiende la Gran Muralla China contra una horda de criaturas monstruosas.</desc>
-    <category lang="es">The Great WallAventura / 2016</category>
+  <programme start="20261023183900 -0500" stop="20261023201900 -0500" channel="Cinemax.co">
+    <title lang="es">Los pingüinos de Madagascar</title>
   </programme>
-  <programme start="20261023200400 -0500" stop="20261023220000 -0500" channel="Cinemax.co">
-    <title lang="es">La momia: La tumba del emperador Dragón</title>
-    <desc lang="es">Rick O"Connell deberá enfrentarse esta vez al resucitado emperador Han, en un cuento épico que empieza en las tumbas de la antigua China y acaba en las heladas cimas del Himalaya.</desc>
-    <category lang="es">The Mummy: Tomb of the Dragon EmperorFantasía / 2008 / 5.2</category>
+  <programme start="20261023201900 -0500" stop="20261023220000 -0500" channel="Cinemax.co">
+    <title lang="es">Los minions</title>
   </programme>
-  <programme start="20261023220000 -0500" stop="20261023230600 -0500" channel="Cinemax.co">
-    <title lang="es">Hysteria!</title>
-    <desc lang="es">La entrevista de Dylan con el jefe Dandridge revela un avance en el caso. Faith y Linda cuestionan sus experiencias recientes. Las sospechas sobre Dethkrunch aumentan mientras todo Happy Hollow se reúne para un evento en la iglesia.</desc>
-    <category lang="es">Temporada 1 Episodio 2 - Die Young</category>
+  <programme start="20261023220000 -0500" stop="20261024010200 -0500" channel="Cinemax.co">
+    <title lang="es">Tenet</title>
   </programme>
-  <programme start="20261023230600 -0500" stop="20261024004500 -0500" channel="Cinemax.co">
-    <title lang="es">Resident Evil 3: La extinción</title>
-    <desc lang="es">Alice y el resto de los supervivientes de la catástrofe de Raccoon se disponen a cruzar el desierto de Nevada con la esperanza de llegar a Alaska antes de que la Corporación Umbrella los alcance.</desc>
-    <category lang="es">Resident Evil: ExtinctionAcción / 2007 / 6.3</category>
+  <programme start="20261024010200 -0500" stop="20261024025700 -0500" channel="Cinemax.co">
+    <title lang="es">Ip Man 4: El final</title>
   </programme>
-  <programme start="20261024004500 -0500" stop="20261024014500 -0500" channel="Cinemax.co">
-    <title lang="es">Nosotros</title>
-    <desc lang="es">Adelaide decide pasar sus vacaciones en la casa de su infancia en la costa, junto a su marido y sus 2 hijos. Su tranquilidad se verá amenazada cuando cuatro figuras tomadas de la mano, y exactamente iguales a ellos, irrumpen en la vivienda.</desc>
-    <category lang="es">UsThriller / 2019 / 6.9</category>
+  <programme start="20261024025700 -0500" stop="20261024044000 -0500" channel="Cinemax.co">
+    <title lang="es">Al Límite del Honor</title>
   </programme>
-  <programme start="20261024024900 -0500" stop="20261024042300 -0500" channel="Cinemax.co">
-    <title lang="es">Resident Evil 3: La extinción</title>
-    <desc lang="es">Alice y el resto de los supervivientes de la catástrofe de Raccoon se disponen a cruzar el desierto de Nevada con la esperanza de llegar a Alaska antes de que la Corporación Umbrella los alcance.</desc>
-    <category lang="es">Resident Evil: ExtinctionAcción / 2007 / 6.3</category>
+  <programme start="20261024044000 -0500" stop="20261024052500 -0500" channel="Cinemax.co">
+    <title lang="es">7 días en el infierno</title>
   </programme>
-  <programme start="20261024042300 -0500" stop="20261024060000 -0500" channel="Cinemax.co">
-    <title lang="es">La profecía del no nacido</title>
-    <desc lang="es">Casey, una joven de diecinueve años, descubre una maldición que pesa sobre su familia y que se remonta a la época de la Alemania nazi. Ella deberá enfrentar una extraña criatura que quiere poseerla para poder salvarse.</desc>
-    <category lang="es">The UnbornTerror / 2009 / 4.7</category>
+  <programme start="20261024052500 -0500" stop="20261024055400 -0500" channel="Cinemax.co">
+    <title lang="es">El nuevo traje nuevo del emperador</title>
   </programme>
-  <programme start="20261024060000 -0500" stop="20261024070600 -0500" channel="Cinemax.co">
-    <title lang="es">Filler</title>
-    <category lang="es">Variedades</category>
+  <programme start="20261024055400 -0500" stop="20261024055700 -0500" channel="Cinemax.co">
+    <title lang="es">El Buzz</title>
   </programme>
-  <programme start="20261024070600 -0500" stop="20261024085900 -0500" channel="Cinemax.co">
-    <title lang="es">La supremacía de Bourne</title>
-    <desc lang="es">Jason Bourne pensaba que había dejado atrás su pasado. Durante un tiempo, atormentado por ciertas pesadillas y por un suceso que no consigue recordar, él y Marie se trasladan de una ciudad a otra, viviendo de manera anónima y clandestina.</desc>
-    <category lang="es">The Bourne SupremacyAcción / 2004 / 7.8</category>
+  <programme start="20261024055700 -0500" stop="20261024060000 -0500" channel="Cinemax.co">
+    <title lang="es">El Buzz</title>
   </programme>
-  <programme start="20261024085900 -0500" stop="20261024105700 -0500" channel="Cinemax.co">
-    <title lang="es">El robo del siglo</title>
-    <desc lang="es">Hasta ahora, los ingleses nunca habían hablado de las causas que hicieron del robo al Banco Baker Street, un caso no resuelto, lleno de sexo y corrupción ligado a la familia real. Esta es la historia.</desc>
-    <category lang="es">The Bank JobThriller / 2008 / 7.2</category>
+  <programme start="20261024060000 -0500" stop="20261024063900 -0500" channel="Cinemax.co">
+    <title lang="es">Hollywood One on One</title>
   </programme>
-  <programme start="20261024105700 -0500" stop="20261024123500 -0500" channel="Cinemax.co">
-    <title lang="es">Mi villano favorito</title>
-    <desc lang="es">El villano Gru planea el acto criminal más increíble de la historia: robar la luna. Sin embargo, se cruzan en su camino tres niñas huérfanas que ven en él un potencial padre. Margo, Edith y Agnes se convertirán en su mayor desafío.</desc>
-    <category lang="es">Despicable MeFamiliar / 2010 / 7.7</category>
+  <programme start="20261024063900 -0500" stop="20261024071700 -0500" channel="Cinemax.co">
+    <title lang="es">Hollywood One on One</title>
   </programme>
-  <programme start="20261024123500 -0500" stop="20261024143000 -0500" channel="Cinemax.co">
-    <title lang="es">Más rápido y más furioso</title>
-    <desc lang="es">Brian está de vuelta en Miami y, obviamente, regresa a las calles con las ya famosas picadas. Ahora, debe infiltrarse en una organización criminal y atrapar a un traficante de drogas para que su ex jefe de la policía borre sus antecedentes.</desc>
-    <category lang="es">2 Fast 2 FuriousAcción / 2003 / 5.7</category>
+  <programme start="20261024071700 -0500" stop="20261024071900 -0500" channel="Cinemax.co">
+    <title lang="es">El Buzz</title>
   </programme>
-  <programme start="20261024143000 -0500" stop="20261024162500 -0500" channel="Cinemax.co">
-    <title lang="es">La supremacía de Bourne</title>
-    <desc lang="es">Jason Bourne pensaba que había dejado atrás su pasado. Durante un tiempo, atormentado por ciertas pesadillas y por un suceso que no consigue recordar, él y Marie se trasladan de una ciudad a otra, viviendo de manera anónima y clandestina.</desc>
-    <category lang="es">The Bourne SupremacyAcción / 2004 / 7.8</category>
+  <programme start="20261024071900 -0500" stop="20261024093300 -0500" channel="Cinemax.co">
+    <title lang="es">Volver al futuro III</title>
   </programme>
-  <programme start="20261024162500 -0500" stop="20261024182400 -0500" channel="Cinemax.co">
-    <title lang="es">El robo del siglo</title>
-    <desc lang="es">Hasta ahora, los ingleses nunca habían hablado de las causas que hicieron del robo al Banco Baker Street, un caso no resuelto, lleno de sexo y corrupción ligado a la familia real. Esta es la historia.</desc>
-    <category lang="es">The Bank JobThriller / 2008 / 7.2</category>
+  <programme start="20261024093300 -0500" stop="20261024122100 -0500" channel="Cinemax.co">
+    <title lang="es">Dos policías rebeldes II</title>
   </programme>
-  <programme start="20261024182400 -0500" stop="20261024200200 -0500" channel="Cinemax.co">
-    <title lang="es">Mi villano favorito</title>
-    <desc lang="es">El villano Gru planea el acto criminal más increíble de la historia: robar la luna. Sin embargo, se cruzan en su camino tres niñas huérfanas que ven en él un potencial padre. Margo, Edith y Agnes se convertirán en su mayor desafío.</desc>
-    <category lang="es">Despicable MeFamiliar / 2010 / 7.7</category>
+  <programme start="20261024122100 -0500" stop="20261024145800 -0500" channel="Cinemax.co">
+    <title lang="es">Rápidos y furiosos 8</title>
   </programme>
-  <programme start="20261024200200 -0500" stop="20261024220000 -0500" channel="Cinemax.co">
-    <title lang="es">Más rápido y más furioso</title>
-    <desc lang="es">Brian está de vuelta en Miami y, obviamente, regresa a las calles con las ya famosas picadas. Ahora, debe infiltrarse en una organización criminal y atrapar a un traficante de drogas para que su ex jefe de la policía borre sus antecedentes.</desc>
-    <category lang="es">2 Fast 2 FuriousAcción / 2003 / 5.7</category>
+  <programme start="20261024145800 -0500" stop="20261024164000 -0500" channel="Cinemax.co">
+    <title lang="es">Kung Fu Panda 3</title>
   </programme>
-  <programme start="20261024220000 -0500" stop="20261024235800 -0500" channel="Cinemax.co">
-    <title lang="es">Aves de presa y la fantabulosa emancipación de una Harley Quinn</title>
-    <desc lang="es">Cuando Roman Sionis, un villano perverso, marca como objetivo a una joven llamada Cass, la ciudad entera se vuelca en su búsqueda. Harley, Cazadora, Canario Negro y Renée Montoya no tienen más remedio que formar un equipo para detenerlo.</desc>
-    <category lang="es">Birds of Prey: And the Fantabulous Emancipation of One Harley QuinnAcción / 2020</category>
+  <programme start="20261024164000 -0500" stop="20261024190300 -0500" channel="Cinemax.co">
+    <title lang="es">Volver al futuro III</title>
   </programme>
-  <programme start="20261024235800 -0500" stop="20261025005800 -0500" channel="Cinemax.co">
-    <title lang="es">12 horas para sobrevivir: El año de la elección</title>
-    <desc lang="es">Años después de perdonar al hombre que mató a su hijo, el ex sargento de la policía Barnes se ha convertido en jefe de seguridad de la senadora Charlie Roan, candidata presidencial que impulsa la idea de suprimir La Purga anual.</desc>
-    <category lang="es">The Purge: Election YearTerror / 2016 / 6.0</category>
+  <programme start="20261024190300 -0500" stop="20261024220000 -0500" channel="Cinemax.co">
+    <title lang="es">Dos policías rebeldes II</title>
   </programme>
-  <programme start="20261025015200 -0500" stop="20261025032400 -0500" channel="Cinemax.co">
-    <title lang="es">El títere</title>
-    <desc lang="es">Jamie regresa a su hogar para investigar el asesinato de su mujer. Allí descubre la leyenda de una ventrílocua que fue enterrada junto a sus 101 muñecos. Uno de ellos parece haber vuelto y no precisamente con buenas intenciones.</desc>
-    <category lang="es">Dead SilenceTerror / 2007 / 6.2</category>
+  <programme start="20261024220000 -0500" stop="20261025003700 -0500" channel="Cinemax.co">
+    <title lang="es">Rápidos y furiosos 8</title>
   </programme>
-  <programme start="20261025032400 -0500" stop="20261025051400 -0500" channel="Cinemax.co">
-    <title lang="es">El niño</title>
-    <desc lang="es">En el verano de 1989, John, el propietario de un motel perdido en las montañas del oeste americano, ha caído en una depresión desde la muerte de su esposa. Debido a ello, su hijo Ted, de 9 años, se cuida prácticamente solo.</desc>
-    <category lang="es">The BoyDrama / 2015 / 6.8</category>
+  <programme start="20261025003700 -0500" stop="20261025023800 -0500" channel="Cinemax.co">
+    <title lang="es">Barry Seal: Solo en América</title>
   </programme>
-  <programme start="20261025051400 -0500" stop="20261025060000 -0500" channel="Cinemax.co">
-    <title lang="es">Filler</title>
-    <category lang="es">Variedades</category>
+  <programme start="20261025023800 -0500" stop="20261025041600 -0500" channel="Cinemax.co">
+    <title lang="es">Sin piedad</title>
   </programme>
-  <programme start="20261025060000 -0500" stop="20261025064000 -0500" channel="Cinemax.co">
-    <title lang="es">Filler</title>
-    <category lang="es">Variedades</category>
+  <programme start="20261025041600 -0500" stop="20261025050100 -0500" channel="Cinemax.co">
+    <title lang="es">7 días en el infierno</title>
   </programme>
-  <programme start="20261025064000 -0500" stop="20261025081800 -0500" channel="Cinemax.co">
-    <title lang="es">RIPD: policía del más allá</title>
-    <desc lang="es">Nick Walker y Roy Pulsipher son dos policías especiales. Nick acaba de morir, pero es llamado para trabajar con Roy, un agente que murió hace cientos de años. Ambos forman parte del "Rest In Peace Department".</desc>
-    <category lang="es">RIPDAcción / 2013 / 5.6</category>
+  <programme start="20261025050100 -0500" stop="20261025054700 -0500" channel="Cinemax.co">
+    <title lang="es">Tour De Fármacos</title>
   </programme>
-  <programme start="20261025081800 -0500" stop="20261025103300 -0500" channel="Cinemax.co">
+  <programme start="20261025054700 -0500" stop="20261025060000 -0500" channel="Cinemax.co">
+    <title lang="es">Hollywood One on One</title>
+  </programme>
+  <programme start="20261025060000 -0500" stop="20261025080000 -0500" channel="Cinemax.co">
+    <title lang="es">Al Límite del Honor</title>
+  </programme>
+  <programme start="20261025080000 -0500" stop="20261025102400 -0500" channel="Cinemax.co">
+    <title lang="es">Corazón de caballero</title>
+  </programme>
+  <programme start="20261025102400 -0500" stop="20261025123300 -0500" channel="Cinemax.co">
+    <title lang="es">Mundo Jurásico</title>
+  </programme>
+  <programme start="20261025123300 -0500" stop="20261025145800 -0500" channel="Cinemax.co">
+    <title lang="es">Jurassic World: El reino caído</title>
+  </programme>
+  <programme start="20261025145800 -0500" stop="20261025172300 -0500" channel="Cinemax.co">
+    <title lang="es">Corazón de caballero</title>
+  </programme>
+  <programme start="20261025172300 -0500" stop="20261025193200 -0500" channel="Cinemax.co">
+    <title lang="es">Mundo Jurásico</title>
+  </programme>
+  <programme start="20261025193200 -0500" stop="20261025220000 -0500" channel="Cinemax.co">
+    <title lang="es">Jurassic World: El reino caído</title>
+  </programme>
+  <programme start="20261025220000 -0500" stop="20261025232700 -0500" channel="Cinemax.co">
+    <title lang="es">El destino final</title>
+  </programme>
+  <programme start="20261025232700 -0500" stop="20261026014100 -0500" channel="Cinemax.co">
+    <title lang="es">Tiburón</title>
+  </programme>
+  <programme start="20261026014100 -0500" stop="20261026031400 -0500" channel="Cinemax.co">
+    <title lang="es">El destino final</title>
+  </programme>
+  <programme start="20261026031400 -0500" stop="20261026052600 -0500" channel="Cinemax.co">
+    <title lang="es">Tiburón</title>
+  </programme>
+  <programme start="20261026052600 -0500" stop="20261026060000 -0500" channel="Cinemax.co">
+    <title lang="es">Hollywood One on One</title>
+  </programme>
+  <programme start="20261026060000 -0500" stop="20261026064700 -0500" channel="Cinemax.co">
+    <title lang="es">Hollywood One on One</title>
+  </programme>
+  <programme start="20261026064700 -0500" stop="20261026082500 -0500" channel="Cinemax.co">
+    <title lang="es">Mi gran boda griega 2</title>
+  </programme>
+  <programme start="20261026082500 -0500" stop="20261026101900 -0500" channel="Cinemax.co">
+    <title lang="es">Érase una vez en México</title>
+  </programme>
+  <programme start="20261026101900 -0500" stop="20261026123400 -0500" channel="Cinemax.co">
     <title lang="es">La momia regresa</title>
-    <desc lang="es">Regresa la momia de Imhotep, y en esta ocasión su poder destructivo se enfrenta a otra fuerza del mal: el Rey Escorpión. Rich y Evie emprenderán una frenética carrera para salvar al mundo y a su hijo.</desc>
-    <category lang="es">The Mummy ReturnsAventura / 2001 / 6.3</category>
   </programme>
-  <programme start="20261025103300 -0500" stop="20261025124400 -0500" channel="Cinemax.co">
-    <title lang="es">Black Adam</title>
-    <desc lang="es">Black Adam es liberado de su tumba casi cinco mil años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses. Ahora está listo para desatar su forma única de justicia en el mundo.</desc>
-    <category lang="es">Acción / 2022 / 6.4</category>
+  <programme start="20261026123400 -0500" stop="20261026142200 -0500" channel="Cinemax.co">
+    <title lang="es">La niñera mágica</title>
   </programme>
-  <programme start="20261025124400 -0500" stop="20261025155100 -0500" channel="Cinemax.co">
-    <title lang="es">Batman</title>
-    <desc lang="es">Después de dos años acechando por las calles de la ciudad como Batman, e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City.</desc>
-    <category lang="es">The BatmanAcción / 2022 / 7.8</category>
+  <programme start="20261026142200 -0500" stop="20261026160100 -0500" channel="Cinemax.co">
+    <title lang="es">Mi gran boda griega 2</title>
   </programme>
-  <programme start="20261025155100 -0500" stop="20261025172800 -0500" channel="Cinemax.co">
-    <title lang="es">RIPD: policía del más allá</title>
-    <desc lang="es">Nick Walker y Roy Pulsipher son dos policías especiales. Nick acaba de morir, pero es llamado para trabajar con Roy, un agente que murió hace cientos de años. Ambos forman parte del "Rest In Peace Department".</desc>
-    <category lang="es">RIPDAcción / 2013 / 5.6</category>
+  <programme start="20261026160100 -0500" stop="20261026175600 -0500" channel="Cinemax.co">
+    <title lang="es">Érase una vez en México</title>
   </programme>
-  <programme start="20261025172800 -0500" stop="20261025194800 -0500" channel="Cinemax.co">
+  <programme start="20261026175600 -0500" stop="20261026201200 -0500" channel="Cinemax.co">
     <title lang="es">La momia regresa</title>
-    <desc lang="es">Regresa la momia de Imhotep, y en esta ocasión su poder destructivo se enfrenta a otra fuerza del mal: el Rey Escorpión. Rich y Evie emprenderán una frenética carrera para salvar al mundo y a su hijo.</desc>
-    <category lang="es">The Mummy ReturnsAventura / 2001 / 6.3</category>
-  </programme>
-  <programme start="20261025194800 -0500" stop="20261025220000 -0500" channel="Cinemax.co">
-    <title lang="es">Black Adam</title>
-    <desc lang="es">Black Adam es liberado de su tumba casi cinco mil años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses. Ahora está listo para desatar su forma única de justicia en el mundo.</desc>
-    <category lang="es">Acción / 2022 / 6.4</category>
-  </programme>
-  <programme start="20261025220000 -0500" stop="20261025230000 -0500" channel="Cinemax.co">
-    <title lang="es">Batman</title>
-    <desc lang="es">Después de dos años acechando por las calles de la ciudad como Batman, e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City.</desc>
-    <category lang="es">The BatmanAcción / 2022 / 7.8</category>
-  </programme>
-  <programme start="20261026010600 -0500" stop="20261026031100 -0500" channel="Cinemax.co">
-    <title lang="es">América X</title>
-    <desc lang="es">Luego de cumplir una condena por un asesinato racial, Derek, antiguo líder nazi local, tiene que cambiar a la gente a la que ama y que se ha perdido en el odio.</desc>
-    <category lang="es">American History XDrama / 1998 / 8.5</category>
-  </programme>
-  <programme start="20261026031100 -0500" stop="20261026043400 -0500" channel="Cinemax.co">
-    <title lang="es">Cuando las luces se apagan</title>
-    <desc lang="es">Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad, y que está relacionado con su madre. Ahora que Rebecca ha crecido, Diana intentará atrapar a Marvin, su pequeño hermano.</desc>
-    <category lang="es">Lights OutTerror / 2016</category>
-  </programme>
-  <programme start="20261026043400 -0500" stop="20261026060000 -0500" channel="Cinemax.co">
-    <title lang="es">Mamá</title>
-    <desc lang="es">Dos niñas que habían vivido cinco años abandonadas en el bosque, después de la muerte de su madre, encuentran refugio en la casa de su tío. Sin embargo, pronto quedará en evidencia que las dos pequeñas no llegaron solas.</desc>
-    <category lang="es">MamaTerror / 2013 / 6.3</category>
-  </programme>
-  <programme start="20261026060000 -0500" stop="20261026071500 -0500" channel="Cinemax.co">
-    <title lang="es">Filler</title>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261026071500 -0500" stop="20261026091700 -0500" channel="Cinemax.co">
-    <title lang="es">¿Cómo sobrevivir a mi ex?</title>
-    <desc lang="es">Peter idolatra a su novia, la famosa Sarah Marshall. Ella lo maltrata, pero no importa mientras estén juntos. Cuando Sarah lo deja, Peter decide ir a Hawai para olvidarla, con la mala suerte de encontrarla allí con su nuevo novio.</desc>
-    <category lang="es">Forgetting Sarah MarshallComedia / 2008 / 7.2</category>
-  </programme>
-  <programme start="20261026091700 -0500" stop="20261026105200 -0500" channel="Cinemax.co">
-    <title lang="es">Mi novia Polly</title>
-    <desc lang="es">Reuben se lleva una gran sorpresa cuando su esposa lo abandona en plena luna de miel. Un encuentro casual con una amiga de la infancia lo sumerge en un torbellino amoroso que incluye deportes extremos, comida picante y bailes de salsa.</desc>
-    <category lang="es">Along Came PollyComedia / 2004 / 5.9</category>
-  </programme>
-  <programme start="20261026105200 -0500" stop="20261026130200 -0500" channel="Cinemax.co">
-    <title lang="es">Pasante de moda</title>
-    <desc lang="es">La joven dueña de un exitoso negocio online dedicado a la moda acepta a regañadientes que la compañía contrate como becario a un hombre de 70 años. Poco a poco, irá dándose cuenta de que ese hombre es alguien indispensable para la empresa.</desc>
-    <category lang="es">The InternComedia / 2015 / 7.2</category>
-  </programme>
-  <programme start="20261026130200 -0500" stop="20261026160400 -0500" channel="Cinemax.co">
-    <title lang="es">Interestelar</title>
-    <desc lang="es">Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper y la científica Amelia emprenden una misión que puede ser la más importante de la historia de la humanidad.</desc>
-    <category lang="es">InterstellarC.Ficción / 2014 / 8.6</category>
-  </programme>
-  <programme start="20261026160400 -0500" stop="20261026180800 -0500" channel="Cinemax.co">
-    <title lang="es">¿Cómo sobrevivir a mi ex?</title>
-    <desc lang="es">Peter idolatra a su novia, la famosa Sarah Marshall. Ella lo maltrata, pero no importa mientras estén juntos. Cuando Sarah lo deja, Peter decide ir a Hawai para olvidarla, con la mala suerte de encontrarla allí con su nuevo novio.</desc>
-    <category lang="es">Forgetting Sarah MarshallComedia / 2008 / 7.2</category>
-  </programme>
-  <programme start="20261026180800 -0500" stop="20261026194800 -0500" channel="Cinemax.co">
-    <title lang="es">Mi novia Polly</title>
-    <desc lang="es">Reuben se lleva una gran sorpresa cuando su esposa lo abandona en plena luna de miel. Un encuentro casual con una amiga de la infancia lo sumerge en un torbellino amoroso que incluye deportes extremos, comida picante y bailes de salsa.</desc>
-    <category lang="es">Along Came PollyComedia / 2004 / 5.9</category>
-  </programme>
-  <programme start="20261026194800 -0500" stop="20261026220000 -0500" channel="Cinemax.co">
-    <title lang="es">Pasante de moda</title>
-    <desc lang="es">La joven dueña de un exitoso negocio online dedicado a la moda acepta a regañadientes que la compañía contrate como becario a un hombre de 70 años. Poco a poco, irá dándose cuenta de que ese hombre es alguien indispensable para la empresa.</desc>
-    <category lang="es">The InternComedia / 2015 / 7.2</category>
-  </programme>
-  <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="Cinemax.co">
-    <title lang="es">Interestelar</title>
-    <desc lang="es">Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper y la científica Amelia emprenden una misión que puede ser la más importante de la historia de la humanidad.</desc>
-    <category lang="es">InterstellarC.Ficción / 2014 / 8.6</category>
   </programme>
   <programme start="20261023143000 -0500" stop="20261023153000 -0500" channel="Citytv.co">
     <title lang="es">Corona TV</title>
@@ -20798,11 +20630,6 @@
     <title lang="es">Programación comercial</title>
     <desc lang="es">Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Click.co">
-    <title lang="es">GPS</title>
-    <desc lang="es">Recorre todos los rincones de Colombia en busca de las investigaciones que generan conocimiento y cambio.</desc>
-    <category lang="es">Turismo</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="Click.co">
     <title lang="es">Visión futuro</title>
@@ -21454,11 +21281,6 @@
     <desc lang="es">Proyecto multimedial educativo creado para comprender el quehacer investigativo en distintas áreas del conocimiento, fortaleciendo el sentido de lo público en la sociedad a través de la construcción de relatos épicos.</desc>
     <category lang="es">Educativo</category>
   </programme>
-  <programme start="20261023130000 -0500" stop="20261023150000 -0500" channel="CNN.co">
-    <title lang="es">Isa Soares Tonight</title>
-    <desc lang="es">Isa Soares analiza las noticias del día, selecciona las historias que importan y explica exactamente por qué son importantes.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="CNN.co">
     <title lang="es">Quest Means Business</title>
     <desc lang="es">El presentador Richard Quest preside un grupo de expertos y corresponsales para presentar hechos, cifras y análisis del mundo de los negocios de una manera sin igual. El programa busca inspirar, explorar y celebrar el espíritu empresarial.</desc>
@@ -21891,11 +21713,6 @@
     <title lang="es">CNN Newsroom</title>
     <desc lang="es">Las noticias más importantes del día, conectando los hechos que impulsan la actualidad mundial con contexto y claridad. En cada edición, los eventos más relevantes del panorama internacional se profundizan mediante análisis y reportajes.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="CNNenEspanol.co">
-    <title lang="es">Deportes CNN</title>
-    <desc lang="es">Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas.</desc>
-    <category lang="es">Deportes CNN</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="CNNenEspanol.co">
     <title lang="es">Directo USA</title>
@@ -23787,11 +23604,6 @@
     <desc lang="es">La pianista y cantante de jazz canadiense Diana Krall sube al escenario de Montreux justo después del lanzamiento de su duodécimo álbum de estudio, Glad Rag Doll.</desc>
     <category lang="es">Temporada 5 Episodio 12 - Diana Krall</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Cosmovision.co">
-    <title lang="es">PodCast NCN</title>
-    <desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
-    <category lang="es">Talk Show</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="Cosmovision.co">
     <title lang="es">Misa</title>
     <desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
@@ -24226,11 +24038,6 @@
     <title lang="es">Nos cogió la noche</title>
     <desc lang="es">Se ponen sobre la mesa los temas más candentes del momento, los cuales son tratados por invitados con diferentes puntos de vista que marcan sus posiciones con argumentos de peso para conectarte con la realidad de los hechos.</desc>
     <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Cristovision.co">
-    <title lang="es">La danza de la colibrí</title>
-    <desc lang="es">Unidos en un momento de fe.</desc>
-    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023154000 -0500" channel="Cristovision.co">
     <title lang="es">Coronilla</title>
@@ -25141,11 +24948,6 @@
     <title lang="es">El exorcismo de Emily Rose</title>
     <desc lang="es">Emily Rose es una estudiante de 19 años que empieza a mostrar una inexplicable conducta y sus padres, creyendo que está poseída, autorizan un exorcismo, que terminará en la muerte de Emily y un interminable debate entre la fe y la ciencia.</desc>
     <category lang="es">The Exorcism of Emily RoseTerror / 2005 / 6.7</category>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="DiaTV.co">
-    <title lang="es">Espacio publicitario</title>
-    <desc lang="es">Segmento especial dedicado a la presentación de diversos productos y servicios de uso cotidiano, de bajo costo y fácilmente accesibles. Todo esto con el objetivo de hacer tu vida mucho más fácil y sencilla cada día.</desc>
-    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023170000 -0500" channel="DiaTV.co">
     <title lang="es">Un café claro</title>
@@ -30211,11 +30013,6 @@
     <desc lang="es">Explore un castillo con una fosa en Miami y un escondite en Los Hamptons.</desc>
     <category lang="es">Temporada 1 Episodio 1 - Miami, Barbados, Los Hamptons y Laguna Beach</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="DisneyChannel.co">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-    <desc lang="es">¡La relación de Star y Tom se pone a prueba cuando Tom decide deshacerse de sus demonios! Marco decide esforzarse al máximo para vivir la vida en el presente en la Tierra.</desc>
-    <category lang="es">Temporada 3 Episodio 7 - Demonismo / Intercambio escolar</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="DisneyChannel.co">
     <title lang="es">Gravity Falls: un verano de misterios</title>
     <desc lang="es">Llega la versión Gravity Falls de Halloween en verano con sandías-linterna y muchos truco o dulce. Dipper y Mabel son visitados por un monstruo llamado Summerween Trickster, quien les informa que deben recolectar 500 dulces o serán comidos.</desc>
@@ -30975,11 +30772,6 @@
     <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
     <desc lang="es">Como hijo de una celebridad, Luka adopta un interés particular por Bob Roth, quien haría lo que fuera por dinero. Pero Luka haría lo que fuera por defender sus valores y sus amigos.</desc>
     <category lang="es">Temporada 5 Episodio 13 - Migración</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="DisneyJunior.co">
-    <title lang="es">Los magicampistas</title>
-    <desc lang="es">¡Es Halloween en Magicamp! Entonces, Darly, Loomis y Dracoon buscan calabazas moradas brillantes, en la parte tenebrosa del bosque. / La misión del campamento, consiste en encontrar y dibujar criaturas.</desc>
-    <category lang="es">Temporada 1 Episodio 6 - La trollamanda y las calabazas moradas / A buscar criaturas</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="DisneyJunior.co">
     <title lang="es">Cachorros a la obra</title>
@@ -31881,9 +31673,6 @@
     <desc lang="es">Los pugs intentan devolver un huevo grande antes de que eclosione. Por otro lado, cuando Chloe y Keia pierden un remo especial de la canoa, los cachorros se embarcan en una aventura en el desierto para encontrarlo.</desc>
     <category lang="es">Temporada 2 Episodio 23 - Qué esperar cuando esperas / Arrúgalo</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="DSports.co">
-    <title lang="es">Puede pasar</title>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023163000 -0500" channel="DSports.co">
     <title lang="es">DSPORTS Noticias Lite Tarde</title>
   </programme>
@@ -32259,9 +32048,6 @@
   <programme start="20261026160000 -0500" stop="20261026190000 -0500" channel="DSports3.co">
     <title lang="es">DSPORTS</title>
   </programme>
-  <programme start="20261023203000 -0500" stop="20261023210000 -0500" channel="DSports+.co">
-    <title lang="es">PFL Chicago: Main Card</title>
-  </programme>
   <programme start="20261023210000 -0500" stop="20261023213000 -0500" channel="DSports+.co">
     <title lang="es">Nairo Quintana</title>
   </programme>
@@ -32357,10 +32143,6 @@
   </programme>
   <programme start="20261025180000 -0500" stop="20261025190000 -0500" channel="DSports+.co">
     <title lang="es">Tour de Francia Femenino 2026</title>
-  </programme>
-  <programme start="20261023110000 -0500" stop="20261023150000 -0500" channel="DW(Espanol).co">
-    <title lang="es">Deutsche Welle</title>
-    <category lang="es">Variedades</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023190000 -0500" channel="DW(Espanol).co">
     <title lang="es">Deutsche Welle</title>
@@ -32637,11 +32419,6 @@
   </programme>
   <programme start="20261025185000 -0500" stop="20261025194000 -0500" channel="E!.co">
     <title lang="es">Vanderpump Rules</title>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="ElGourmet.co">
-    <title lang="es">Celebrando juntos con Jamie</title>
-    <desc lang="es">El chef, Jamie Olivier, ofrece un menú para una divertida noche de curry, con una receta que aprovecha muy bien el condimento y así agasajar a sus comenzales.</desc>
-    <category lang="es">Temporada 1 Episodio 5 - Noche de currys</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="ElGourmet.co">
     <title lang="es">Días de campo con los Petersen</title>
@@ -33847,11 +33624,6 @@
     <title lang="es">Rollos de Fili</title>
     <desc lang="es">Esta crónica documental ha hecho. a través de los años, un extenso recorrido por los lugares más emblemáticos de Colombia, mostrando su riqueza cultural y natural.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Enlace.co">
-    <title lang="es">Especial</title>
-    <desc lang="es">Eventos especiales desde distintos países del continente americano.</desc>
-    <category lang="es">Especial</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="Enlace.co">
     <title lang="es">Jack Hibbs: Real Life</title>
@@ -37504,9 +37276,6 @@
     <desc lang="es">Vive las emociones de los partidos de la edición número 45 del principal campeonato de fútbol de clubes de Asia organizado por la Confederación Asiática de Fútbol (AFC), y la primera bajo su nueva denominación. Participan 32 equipos.</desc>
     <category lang="es">Liga de Campeones Élite de la AFC</category>
   </programme>
-  <programme start="20261023143100 -0500" stop="20261023145900 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Acción de la NBA</title>
-  </programme>
   <programme start="20261023145900 -0500" stop="20261023152700 -0500" channel="ESPNPremium.cl">
     <title lang="es">ATP Tour Uncovered</title>
   </programme>
@@ -37952,11 +37721,6 @@
     <title lang="es">Muerte en el alma</title>
     <desc lang="es">Tristan Delmas, joven abogado ambicioso, es designado defensor de oficio para defender a Marc Lagnier. Éste es acusado del homicidio de su hijo, pero se niega a defenderse, se declara culpable y quiere que lo condenen.</desc>
     <category lang="es">La mort dans l'âmeDrama / 2017</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="EWTN.co">
-    <title lang="es">Las letanías</title>
-    <desc lang="es">Espacio de oración.</desc>
-    <category lang="es">- Letanía al Sagrado Corazón de Jesús</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="EWTN.co">
     <title lang="es">Rosario desde Lourdes</title>
@@ -39366,11 +39130,6 @@
   <programme start="20261026184700 -0500" stop="20261026190900 -0500" channel="FoodNetwork.co">
     <title lang="es">El mundo del arándano</title>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="FOXNewsInternacional.co">
-    <title lang="es">La historia</title>
-    <desc lang="es">Martha le trae grandes entrevistas y los últimos informes de los corresponsales de primera categoría, quienes develan las decisiones críticas y maniobras políticas, profundizando en las historias que usted necesita saber.</desc>
-    <category lang="es">Entrevista</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="FOXNewsInternacional.co">
     <title lang="es">The Will Cain Show</title>
     <desc lang="es">Will Cain te ofrece su opinión sin filtros sobre las historias más importantes del mundo del deporte.</desc>
@@ -39771,11 +39530,6 @@
     <desc lang="es">Mesa redonda con cinco grandes personalidades que comentarán y debatirán sobre nuevas historias, así como, sobre los temas más controvertidos de la jornada.</desc>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="FOXSports2.co">
-    <title lang="es">NBA Today</title>
-    <desc lang="es">Programa diario desde Los Ángeles sobre todo lo que hay que saber sobre la NBA.</desc>
-    <category lang="es">NBA Today</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="FOXSports2.co">
     <title lang="es">NFL Live</title>
     <desc lang="es">Disfrute de lo mejor de la National Football League.</desc>
@@ -40000,11 +39754,6 @@
     <title lang="es">Gran Premio de los Estados Unidos, Circuito de las Américas</title>
     <desc lang="es">Vive las emociones y toda la adrenalina de las carreras de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
     <category lang="es">Fórmula 1</category>
-  </programme>
-  <programme start="20261023130000 -0500" stop="20261023150000 -0500" channel="FOXSports3.co">
-    <title lang="es">Beijing China 100m OCR</title>
-    <desc lang="es">Vive toda la emoción de las jornadas del Campeonato Mundial de Obstáculos de la UIPM del 2026, celebrado en Beijing, China. Esta competencia internacional anual reúne a atletas de carreras de obstáculos (OCR).</desc>
-    <category lang="es">UIPM Obstacle World Championships - Beijing, China</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="FOXSports3.co">
     <title lang="es">Atlantic</title>
@@ -40540,11 +40289,6 @@
     <title lang="es">Estado mental</title>
     <desc lang="es">El Dr. Alan Stone trata a tres pacientes esquizofrénicos paranoicos en el Hospital Estatal de Ypsilanti en Michigan, cada uno de los cuales se cree Jesucristo.</desc>
     <category lang="es">Three ChristsDrama / 2017 / 6.2</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Globovision.co">
-    <title lang="es">Noticias Globovisión - Economía</title>
-    <desc lang="es">Un programa periodístico que aborda la actualidad económica de Venezuela para acercar las noticias más relevantes del sector. Análisis, consejos prácticos para hacer rendir los ahorros y mucho más.</desc>
-    <category lang="es">Economía</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="Globovision.co">
     <title lang="es">Noticias Globovisión - Salud</title>
@@ -41687,11 +41431,6 @@
     <title lang="es">Riddick, el amo de la oscuridad</title>
     <desc lang="es">Traicionado por su propia especie y dado por muerto en un lejano y desolado planeta, el duro Riddick tendrá que luchar por la supervivencia contra depredadores alienígenas más letales que cualquier humano que se encuentre.</desc>
     <category lang="es">RiddickC.Ficción / 2013 / 6.4</category>
-  </programme>
-  <programme start="20261023120000 -0500" stop="20261023150000 -0500" channel="GolfChannel.co">
-    <title lang="es">Round 2</title>
-    <desc lang="es">Disfruta las emociones de este torneo perteneciente al PGA Tour que se celebra en el Port Royal, en Bermudas. Participan los golfistas más destacados del circuito.</desc>
-    <category lang="es">PGA Tour - Butterfield Bermuda Championship</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023170000 -0500" channel="GolfChannel.co">
     <title lang="es">Final 1 - Round 1</title>
@@ -45851,11 +45590,6 @@
     <desc lang="es">De las grandes civilizaciones de la antigüedad a las primeras potencias mundiales de nuestros días, esta serie repasa el legado que nos han dejado los grandes imperios que han escrito la historia de la humanidad.</desc>
     <category lang="es">Temporada 3 Episodio 12 - Sicilia conquistada - Parte 2</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="HOLATV.co">
-    <title lang="es">Sí quiero</title>
-    <desc lang="es">Aka y Tristan celebran una boda llena de color y energía que mezcla las tradiciones de Nigeria con el espíritu y la cultura de Jamaica.</desc>
-    <category lang="es">Temporada 1 Episodio 27</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="HOLATV.co">
     <title lang="es">Sí quiero</title>
     <desc lang="es">Victoria y Daniel, una pareja nigeriana que se une en matrimonio, mientras celebra los valores tradicionales de Nigeria, y construyen su vida en una ciudad distintivamente canadiense.</desc>
@@ -46981,11 +46715,6 @@
     <desc lang="es">Una popular bailarina adolescente desaparece un día después de la práctica, la policía tiene pocas pistas, hasta que una compañera del equipo de baile revela que un hombre acosó a su mejor amiga días antes de su desaparición.</desc>
     <category lang="es">Temporada 2 Episodio 8 - El Diablo vino a bailar</category>
   </programme>
-  <programme start="20261023120000 -0500" stop="20261023150000 -0500" channel="KMusic.co">
-    <title lang="es">Claro música - Sin límites</title>
-    <desc lang="es">Un espacio para disfrutar de la mejor música y los contenidos más destacados de Claro música.</desc>
-    <category lang="es">Musical</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023180000 -0500" channel="KMusic.co">
     <title lang="es">Claro música - Anglo</title>
     <desc lang="es">Un espacio para disfrutar de la mejor música y los contenidos más destacados de Claro música.</desc>
@@ -47130,11 +46859,6 @@
     <title lang="es">Claro música - Rock</title>
     <desc lang="es">Un espacio para disfrutar de la mejor música y los contenidos más destacados de Claro música.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023141000 -0500" stop="20261023150000 -0500" channel="LasEstrellas.co">
-    <title lang="es">Como dice el dicho</title>
-    <desc lang="es">Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.</desc>
-    <category lang="es">Drama</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023170000 -0500" channel="LasEstrellas.co">
     <title lang="es">El Chavo</title>
@@ -48304,11 +48028,6 @@
     <desc lang="es">Desesperada por renunciar a Lasher, Rowan busca ayuda del clan familiar Mayfair. Debe confiar en su peculiar proceso, un ritual sagrado. La búsqueda de respuestas de Cip lo lleva de vuelta a Talamasca.</desc>
     <category lang="es">Temporada 1 Episodio 6 - Transferencia</category>
   </programme>
-  <programme start="20261023133000 -0500" stop="20261023150000 -0500" channel="MiGenteTV.co">
-    <title lang="es">Play List - Mi Gente TV</title>
-    <desc lang="es">Música de los artistas de actualidad, géneros: urbano, popular, vallenato, tropical.</desc>
-    <category lang="es">Musical</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023151000 -0500" channel="MiGenteTV.co">
     <title lang="es">Estudio G</title>
     <desc lang="es">Espacio donde el nuevo estudio de grabación de RTV Música es el protagonista de un show de creatividad y tecnología. Grupos, solistas, entrevistas y la producción de un álbum que podría ser el tuyo.</desc>
@@ -48703,11 +48422,6 @@
     <title lang="es">Play List - Franjas musicales</title>
     <desc lang="es">Grupos de canciones de artistas clasificados por género.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023141000 -0500" stop="20261023145500 -0500" channel="MTV.co">
-    <title lang="es">Love &amp; Hip Hop: Atlanta</title>
-    <desc lang="es">Mientras Renni se prepara para recibir a su pequeño tesoro, Sierra desata su recién nacida animosidad contra Spice. Mientras tanto, las emociones de Saucy se abren paso a través de su tapa dura ante el nuevo libro de su madre.</desc>
-    <category lang="es">Temporada 12 Episodio 4 - La furia de las mamás</category>
   </programme>
   <programme start="20261023145500 -0500" stop="20261023153500 -0500" channel="MTV.co">
     <title lang="es">Ink Master</title>
@@ -49633,11 +49347,6 @@
     <title lang="es">Lee Miller: retratos de guerra</title>
     <desc lang="es">La historia de la fotógrafa Elizabeth 'Lee' Miller, una modelo de moda que se convirtió en una aclamada periodista de guerra para la revista Vogue durante la Segunda Guerra Mundial.</desc>
     <category lang="es">LeeDrama / 2023 / 6.9</category>
-  </programme>
-  <programme start="20261023135700 -0500" stop="20261023145700 -0500" channel="NationalGeographic.co">
-    <title lang="es">Secreto en los océanos</title>
-    <desc lang="es">Los naufragios y campos de batalla perdidos revelan los secretos del asedio más famoso de Estados Unidos y cuentan la historia de cómo Texas logró conseguir su inesperada independencia.</desc>
-    <category lang="es">Temporada 5 Episodio 4 - El álamo</category>
   </programme>
   <programme start="20261023145700 -0500" stop="20261023155800 -0500" channel="NationalGeographic.co">
     <title lang="es">Ciudades encontradas con Albert Lin</title>
@@ -52396,11 +52105,6 @@
     <desc lang="es">Por primera vez, los Barbabebés tomarán el tren y dormirán en un hotel. Toda la familia se dirige a la feria, donde Barbamama venderá sus artesanías. / Barbabello creó un magnífico muñeco de nieve al que los niños llamaron Bobo.</desc>
     <category lang="es">Temporada 2 Episodio 25 - Convivencia / Hoyito el muñeco de nieve</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="NovelasCaracol.co">
-    <title lang="es">Secretos de familia</title>
-    <desc lang="es">Las mentiras, los errores y los desamores existen en cualquier familia, pero las mujeres que pertenecen a esta serán criticadas y juzgadas injustamente, sólo porque son las San Miguel.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="NovelasCaracol.co">
     <title lang="es">Contigo aprendí</title>
     <desc lang="es">La escuela nocturna es una luz en el camino de muchas personas que buscan un mejor futuro. Esta serie abre una vez más la puerta de la escuela Graham, donde, dos avezados profesores que se aman, deberán inspirar a un grupo de estudiantes.</desc>
@@ -53221,11 +52925,6 @@
     <desc lang="es">Un programa que aborda lo más destacado de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Pasiones.co">
-    <title lang="es">Garota do momento</title>
-    <desc lang="es">A finales de los años cincuenta, Beatriz llega a Río de Janeiro con el objetivo de reencontrarse con su madre, Clarice. Su camino se termina cruzando con el de un empresario y se enamoran, pero ella no es aceptada por la familia del hombre.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Pasiones.co">
     <title lang="es">Tres hermanas</title>
     <desc lang="es">Estas tres hermanas son cercanas en edad, pero muy diferentes la una de la otra. Ellas comparten el amor, la amistad y la hermandad pero tendrán que dejar sus diferencias de lado para afrontar sus destinos.</desc>
@@ -53929,11 +53628,6 @@
     <desc lang="es">La defensora atiende las observaciones de los televidentes, a través de correos electrónicos, llamadas y cartas que llegan a esta oficina.</desc>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="RCNNovelas.co">
-    <title lang="es">Francisco, el matemático</title>
-    <desc lang="es">Un profesor de matemáticas debe enfrentarse a las actitudes rebeldes de algunos estudiantes del colegio en el que es contratado.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="RCNNovelas.co">
     <title lang="es">Chepe fortuna</title>
     <desc lang="es">Una historia de amor entre Chepe Fortuna, un humilde pescador, quien sueña con ser alcalde y Niña Cabrales, descendiente de una acaudalada familia de la costa colombiana. Aunque ambos no se conocen personalmente, sueñan el uno con el otro.</desc>
@@ -54569,11 +54263,6 @@
     <desc lang="es">Un espacio donde las mujeres hablan como realmente piensan. Relaciones, maternidad, amistad, libertad, duelo, redes sociales y los dilemas de la vida cotidiana se ponen sobre la mesa sin miedo y sin censura.</desc>
     <category lang="es">Cultural</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="RumbaTV.co">
-    <title lang="es">Programación de videos musicales</title>
-    <desc lang="es">Una rotación continua de videos musicales programados de forma especial para satisfacer a personas de todas las edades con los éxitos del momento y los videos más destacados de años anteriores.</desc>
-    <category lang="es">Musical</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="RumbaTV.co">
     <title lang="es">Programación de videos musicales</title>
     <desc lang="es">Una rotación continua de videos musicales programados de forma especial para satisfacer a personas de todas las edades con los éxitos del momento y los videos más destacados de años anteriores.</desc>
@@ -54983,11 +54672,6 @@
     <title lang="es">Programación de videos musicales</title>
     <desc lang="es">Una rotación continua de videos musicales programados de forma especial para satisfacer a personas de todas las edades con los éxitos del momento y los videos más destacados de años anteriores.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="RussiaToday.co">
-    <title lang="es">El zoom</title>
-    <desc lang="es">Nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos.</desc>
-    <category lang="es">Interés general</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="RussiaToday.co">
     <title lang="es">Noticias</title>
@@ -55748,11 +55432,6 @@
     <title lang="es">Noticias</title>
     <desc lang="es">Un espacio que cuenta con las últimas noticias y toda la actualidad nacional e internacional de la mano de Vicente Vallés y Esther Vaquero.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="SenalColombia.co">
-    <title lang="es">Historia central</title>
-    <desc lang="es">Disfruta de un entretenido paseo por los principales centros históricos de Colombia. Habitantes y expertos nos cuentan su historia, nos hablan de los usos y transformaciones que han tenido desde su fundación hasta nuestros días.</desc>
-    <category lang="es">Temporada 2 Episodio 5 - Tenjo</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023150500 -0500" channel="SenalColombia.co">
     <title lang="es">Avance informativo</title>
@@ -56762,9 +56441,6 @@
     <desc lang="es">Gemma se convierte de forma inesperada en la cuidadora de su sobrina de 8 años y decide emparejar a la niña con un prototipo de M3GAN, una muñeca realista, lo que acarrea consecuencias inimaginables.</desc>
     <category lang="es">Terror / 2022 / 6.4</category>
   </programme>
-  <programme start="20261023130500 -0500" stop="20261023150000 -0500" channel="SonyMovies.co">
-    <title lang="es">El hombre sin sombra</title>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023163400 -0500" channel="SonyMovies.co">
     <title lang="es">Peligrosa Compañía</title>
   </programme>
@@ -56956,9 +56632,6 @@
   </programme>
   <programme start="20261026180500 -0500" stop="20261026200000 -0500" channel="SonyMovies.co">
     <title lang="es">La noche del demonio: La puerta roja</title>
-  </programme>
-  <programme start="20261023130500 -0500" stop="20261023150000 -0500" channel="SonyMovies.uy">
-    <title lang="es">El hombre sin sombra</title>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023163400 -0500" channel="SonyMovies.uy">
     <title lang="es">Peligrosa Compañía</title>
@@ -57899,11 +57572,6 @@
     <title lang="es">Sangre, sudor y gloria</title>
     <desc lang="es">Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.</desc>
     <category lang="es">Pain and GainComedia / 2013 / 7.8</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="SunChannel.co">
-    <title lang="es">Tesoros del Golfo de California</title>
-    <desc lang="es">Documental que trata de vincular la cultura con la conservación, donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California.</desc>
-    <category lang="es">Temporada 1 Episodio 1 - Huracán Odile</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="SunChannel.co">
     <title lang="es">Eco Latinoamérica</title>
@@ -58850,11 +58518,6 @@
     <desc lang="es">Rusia, revolución bolchevique (1917). Zhivago, poeta y cirujano, marido y amante; cuya vida trastornada por la guerra afecta a las vidas de otros, incluida Tonya, la mujer con la que se casa y Lara, la mujer a la que no podrá olvidar.</desc>
     <category lang="es">Drama / 1965 / 7.9</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="TeleVid.co">
-    <title lang="es">Espacio comercial</title>
-    <desc lang="es">Transmisión en la que se muestran artículos de uso cotidiano, sitios de comida rápida o eventos a realizarse en el país, con un toque dinámico y entretenido para que estés actualizado con lo más nuevo del mercado.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="TeleVid.co">
     <title lang="es">Coronilla</title>
     <desc lang="es">Momento de oración y adoración al Santísimo a través del canto y la alabanza al señor de la Misericordia.</desc>
@@ -59751,11 +59414,6 @@
     <title lang="es">Ángelus</title>
     <desc lang="es">Momento para recordar la importancia de la anunciación y encarnación de Jesús, a través del rezo del Ángelus.</desc>
     <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="TeleAmiga.co">
-    <title lang="es">Salud para todos</title>
-    <desc lang="es">Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.</desc>
-    <category lang="es">Salud</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023151000 -0500" channel="TeleAmiga.co">
     <title lang="es">Coronilla de la misericordia</title>
@@ -60917,11 +60575,6 @@
     <desc lang="es">Un espacio seguro donde puedas aclarar tus dudas, expresar tus sentimientos y encontrar consuelo. En cada episodio exploraremos temas profundos de salud mental con claridad y cercanía, y estaremos listos para escucharte y apoyarte.</desc>
     <category lang="es">Salud</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="Telecafe.co">
-    <title lang="es">Legados y estrellas</title>
-    <desc lang="es">Descubre las historias que inspiran de los deportistas que dejan huella en el territorio cafetero.</desc>
-    <category lang="es">Entrevista</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Telecafe.co">
     <title lang="es">El juego de la vida</title>
     <desc lang="es">Paulina, Lorena, Daniela y Fernanda son cuatro chicas que están unidas por un fuerte lazo de amistad que las vuelve inseparables y se ayudan mutuamente a superar los momentos difíciles durante su último año de preparatoria.</desc>
@@ -61493,11 +61146,6 @@
     <title lang="es">Telecafé noticias</title>
     <desc lang="es">Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261023143600 -0500" stop="20261023150000 -0500" channel="Telecaribe.co">
-    <title lang="es">Tesoros del Caribe</title>
-    <desc lang="es">El descubrimiento de un enorme arrecife de coral en Belice y Guatemala abre un nuevo capítulo en la comprensión de los corales, los peces que dependen unos de otros y la batalla para salvar los arrecifes de coral.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Telecaribe.co">
     <title lang="es">Grandes del vallenato</title>
@@ -62423,9 +62071,6 @@
     <desc lang="es">La música en su forma más pura de expresión de este género musical para alcanzar el éxtasis sonoro.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023144500 -0500" stop="20261023150000 -0500" channel="Teleislas.co">
-    <title lang="es">Tips for you heart</title>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Teleislas.co">
     <title lang="es">Old Providence Sport</title>
   </programme>
@@ -62761,11 +62406,6 @@
   </programme>
   <programme start="20261026180000 -0500" stop="20261026190200 -0500" channel="Teleislas.co">
     <title lang="es">Inteligencia artificial</title>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Telemedellin.co">
-    <title lang="es">Hablemos de...</title>
-    <desc lang="es">Es un espacio creado para ampliar información, noticias, hechos, personajes y temas que dan de qué hablar en nuestra región. Se emite en directo con invitados de primer nivel y la participación de los televidentes en vivo.</desc>
-    <category lang="es">Magazine</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="Telemedellin.co">
     <title lang="es">Especial de salud</title>
@@ -64303,11 +63943,6 @@
     <desc lang="es">Un espacio que brinda las últimas novedades de las distintas disciplinas deportivas a nivel regional, nacional e internacional.</desc>
     <category lang="es">Chiva deportes</category>
   </programme>
-  <programme start="20261023140800 -0500" stop="20261023145700 -0500" channel="TLC.co">
-    <title lang="es">Un gran mundo pequeño</title>
-    <desc lang="es">Matt sorprende a Amy con una oferta para comprar el sector norte de la granja. Zach y Tori planean una Navidad de bajo presupuesto mientras se adaptan a la vida con la bebé Lilah.</desc>
-    <category lang="es">Temporada 14 Episodio 18 - Vender o no vender</category>
-  </programme>
   <programme start="20261023145700 -0500" stop="20261023154500 -0500" channel="TLC.co">
     <title lang="es">Una gran familia</title>
     <desc lang="es">Liz fracasa en su visita a la tienda de vestidos de novia, pero espera encontrar el indicado. El dolor de hacerse un tatuaje deja a Emma mareada. La familia se prepara para su primer viaje con Leighton. Destino: San Diego.</desc>
@@ -65022,11 +64657,6 @@
     <title lang="es">Eternamente amándonos</title>
     <desc lang="es">Paula y Rogelio se enamoran perdidamente y se casan en secreto. Sin embargo deben enfrentar los prejuicios de la familia Iturbide, que no acepta a la muchacha. Los jóvenes tendrán que atravesar duras pruebas para fortalecer su amor.</desc>
     <category lang="es">- 74 y 75</category>
-  </programme>
-  <programme start="20261023130000 -0500" stop="20261023150000 -0500" channel="TN.co">
-    <title lang="es">Hablemos de esto</title>
-    <desc lang="es">Una nueva propuesta, con toda la información de último momento, pero también la pausa para el análisis profundo de los temas más candentes de la actualidad.</desc>
-    <category lang="es">Interés general</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="TN.co">
     <title lang="es">Está pasando</title>
@@ -68092,11 +67722,6 @@
     <desc lang="es">Silvestre y Taz se unen para ganar una carrera de autos de juguete.</desc>
     <category lang="es">Temporada 1 Episodio 7 - Cat-Taz-Trophy</category>
   </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="TRACESportsStars.co">
-    <title lang="es">1974</title>
-    <desc lang="es">Una producción que repasa los momentos históricos del deporte.</desc>
-    <category lang="es">50+ Years of Sport</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="TRACESportsStars.co">
     <title lang="es">1970</title>
     <desc lang="es">Una producción que repasa los momentos históricos del deporte.</desc>
@@ -68809,11 +68434,6 @@
     <title lang="es">El mejor rendimiento en la Historia Olímpica.</title>
     <desc lang="es">Un espacio que explora las carreras, momentos decisivos e historias personales de destacados deportistas, ofreciendo una mirada a sus logros, desafíos y legados. El programa combina entrevistas, material de archivo y análisis.</desc>
     <category lang="es">Flashpoint</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="TvAgro.co">
-    <title lang="es">El sembrador y la tierra</title>
-    <desc lang="es">Un espacio que presenta toda la información en materia agropecuaria, los procesos que se deben cumplir para lograr una buena producción, cuidados especiales para la siembra y la ganadería en Colombia.</desc>
-    <category lang="es">Agro</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023153000 -0500" channel="TvAgro.co">
     <title lang="es">Entre establos y praderas</title>
@@ -69629,11 +69249,6 @@
     <title lang="es">Cascos y riendas</title>
     <desc lang="es">Este espacio te muestra la interacción entre el hombre y el caballo.</desc>
     <category lang="es">Agro</category>
-  </programme>
-  <programme start="20261023143000 -0500" stop="20261023150000 -0500" channel="TVC.co">
-    <title lang="es">Meganoticias informa con Ximena Barbero</title>
-    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. El público podrá disfrutar de un espacio de noticias, investigaciones y entrevistas que forman la historia del mundo.</desc>
-    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023151000 -0500" channel="TVC.co">
     <title lang="es">Tema MN</title>
@@ -70534,11 +70149,6 @@
     <title lang="es">Televenta</title>
     <desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc>
     <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261023145000 -0500" stop="20261023145500 -0500" channel="TVE.co">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Un programa que ofrece las novedades de la actualidad deportiva diaria nacional e internacional.</desc>
-    <category lang="es">Teledeporte 1</category>
   </programme>
   <programme start="20261023145500 -0500" stop="20261023152500 -0500" channel="TVE.co">
     <title lang="es">Cifras y letras</title>
@@ -72655,11 +72265,6 @@
     <desc lang="es">El equipo investiga una serie de brutales robos a farmacias y Halstead tiene una conexión especial con una de las víctimas debido a sus respectivas carreras en el Ejército.</desc>
     <category lang="es">Temporada 10 Episodio 3 - Un buen hombre</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Univision.co">
-    <title lang="es">Desiguales</title>
-    <desc lang="es">Un nuevo ciclo que reúne a cinco mujeres con perfiles e historias de vida únicas, quienes ofrecerán sus diferentes puntos de vista sobre los temas más sobresalientes de la actualidad.</desc>
-    <category lang="es">Talk Show</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="Univision.co">
     <title lang="es">El gordo y la flaca</title>
     <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
@@ -73454,11 +73059,6 @@
   <programme start="20261026181000 -0500" stop="20261026190000 -0500" channel="USANetwork.co">
     <title lang="es">Suits</title>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="VePlusTV.co">
-    <title lang="es">El amor las vuelve locas</title>
-    <desc lang="es">Cuando el amor verdadero es realmente de corazón, el tiempo no puede borrarlo. Fernanda ha estado infelizmente casada durante 20 años, pero su vida cambia cuando se reencuentra con Pablo, su amor de la adolescencia.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="VePlusTV.co">
     <title lang="es">Rebeca</title>
     <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?</desc>
@@ -73869,10 +73469,6 @@
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.</desc>
     <category lang="es">Talk Show</category>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="VH1ClassicUSA.co">
-    <title lang="es">90's Nation</title>
-    <category lang="es">Musical</category>
-  </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="VH1ClassicUSA.co">
     <title lang="es">90's Nation</title>
     <category lang="es">Musical</category>
@@ -74264,11 +73860,6 @@
     <title lang="es">House of Pop</title>
     <desc lang="es">Un espacio dedicado al género pop. Los temas más sonados y controversiales de tus artistas favoritos se hacen presente en las ediciones de este seriado.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="VMASTV.co">
-    <title lang="es">El amor las vuelve locas</title>
-    <desc lang="es">Cuando el amor verdadero es realmente de corazón, el tiempo no puede borrarlo. Fernanda ha estado infelizmente casada durante 20 años, pero su vida cambia cuando se reencuentra con Pablo, su amor de la adolescencia.</desc>
-    <category lang="es">Telenovela</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="VMASTV.co">
     <title lang="es">Rebeca</title>
@@ -75501,11 +75092,6 @@
   </programme>
   <programme start="20261026183000 -0500" stop="20261026203000 -0500" channel="WinSports+.co">
     <title lang="es">Fútbol Colombiano Primera División</title>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="Zoom.co">
-    <title lang="es">Una historia de Vasconia</title>
-    <desc lang="es">Cada episodio ofrece un atractivo viaje visual de investigación y descubrimiento que, con absoluto rigor histórico, recorrerá y recreará distintos escenarios y traerá a los protagonistas de grandes acontecimientos del pasado.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261023150000 -0500" stop="20261023151500 -0500" channel="Zoom.co">
     <title lang="es">La UIS que queremos</title>
