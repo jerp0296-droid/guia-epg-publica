@@ -21,6 +21,9 @@
   <channel id="AMCSeries.co">
     <display-name lang="es">AMC Series</display-name>
   </channel>
+  <channel id="AMCSERIES.ar">
+    <display-name lang="es">AMC Series Argentina</display-name>
+  </channel>
   <channel id="AnimalPlanet.co">
     <display-name lang="es">Animal Planet</display-name>
   </channel>
@@ -2171,27 +2174,6 @@
     <desc lang="es">Dos clientes confrontan a los empleados de una tienda de sándwiches por su comida; Un hombre paga un precio muy alto después de intentar arrebatarle el bolso a un pasajero de autobús.</desc>
     <category lang="es">Temporada 4 Episodio 6 - Descontrol minorista</category>
   </programme>
-  <programme start="20261023234700 -0500" stop="20261024000100 -0500" channel="AdultSwim.co">
-    <title lang="es">As Smalls</title>
-  </programme>
-  <programme start="20261024000100 -0500" stop="20261024001500 -0500" channel="AdultSwim.co">
-    <title lang="es">Smiling Friends</title>
-  </programme>
-  <programme start="20261024001500 -0500" stop="20261024004000 -0500" channel="AdultSwim.co">
-    <title lang="es">Harley Quinn</title>
-  </programme>
-  <programme start="20261024004000 -0500" stop="20261024010600 -0500" channel="AdultSwim.co">
-    <title lang="es">Comando de criaturas</title>
-  </programme>
-  <programme start="20261024010600 -0500" stop="20261024013200 -0500" channel="AdultSwim.co">
-    <title lang="es">Black Clover</title>
-  </programme>
-  <programme start="20261024013200 -0500" stop="20261024014400 -0500" channel="AdultSwim.co">
-    <title lang="es">Robot chicken</title>
-  </programme>
-  <programme start="20261024014400 -0500" stop="20261024015800 -0500" channel="AdultSwim.co">
-    <title lang="es">Robot chicken</title>
-  </programme>
   <programme start="20261024015800 -0500" stop="20261024022200 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
@@ -3489,9 +3471,6 @@
     <desc lang="es">Cuando una alpinista queda atrapada en una tormenta de nieve, encuentra un extraño corriendo el mismo peligro y ahora debe luchar por ambos para ir montaña abajo antes del anochecer.</desc>
     <category lang="es">Infinite StormDrama / 2022 / 5.2</category>
   </programme>
-  <programme start="20261023132500 -0500" stop="20261023142000 -0500" channel="AMCSeries.co">
-    <title lang="es">Jugar con amigos</title>
-  </programme>
   <programme start="20261023142000 -0500" stop="20261023151000 -0500" channel="AMCSeries.co">
     <title lang="es">Extraer y defender</title>
   </programme>
@@ -3776,6 +3755,363 @@
   </programme>
   <programme start="20261026185000 -0500" stop="20261026194000 -0500" channel="AMCSeries.co">
     <title lang="es">Wahpeton, ND</title>
+  </programme>
+  <programme start="20261024012000 -0500" stop="20261024021500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261024021500 -0500" stop="20261024030500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261024030500 -0500" stop="20261024035500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261024035500 -0500" stop="20261024044500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261024044500 -0500" stop="20261024054000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261024054000 -0500" stop="20261024063000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024063000 -0500" stop="20261024070000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024070000 -0500" stop="20261024073000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024073000 -0500" stop="20261024080000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024080000 -0500" stop="20261024083000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024083000 -0500" stop="20261024090000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024090000 -0500" stop="20261024093000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261024093000 -0500" stop="20261024102000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024102000 -0500" stop="20261024111000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024111000 -0500" stop="20261024120000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024120000 -0500" stop="20261024125000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024125000 -0500" stop="20261024134000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261024134000 -0500" stop="20261024143500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261024143500 -0500" stop="20261024152500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261024152500 -0500" stop="20261024161500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261024161500 -0500" stop="20261024170500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261024170500 -0500" stop="20261024175500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261024175500 -0500" stop="20261024184500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261024184500 -0500" stop="20261024193500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261024193500 -0500" stop="20261024203000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261024203000 -0500" stop="20261024212000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261024212000 -0500" stop="20261024221000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261024221000 -0500" stop="20261024230000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Soulmates</title>
+  </programme>
+  <programme start="20261024230000 -0500" stop="20261025000000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dark Winds</title>
+  </programme>
+  <programme start="20261025000000 -0500" stop="20261025005500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead: Dead City</title>
+  </programme>
+  <programme start="20261025005500 -0500" stop="20261025014500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Las brujas de Mayfair de Anne Rice</title>
+  </programme>
+  <programme start="20261025014500 -0500" stop="20261025023500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Rectify</title>
+  </programme>
+  <programme start="20261025023500 -0500" stop="20261025032500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Soulmates</title>
+  </programme>
+  <programme start="20261025032500 -0500" stop="20261025042500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dark Winds</title>
+  </programme>
+  <programme start="20261025042500 -0500" stop="20261025052000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead: Dead City</title>
+  </programme>
+  <programme start="20261025052000 -0500" stop="20261025061000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Las brujas de Mayfair de Anne Rice</title>
+  </programme>
+  <programme start="20261025061000 -0500" stop="20261025070000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Rectify</title>
+  </programme>
+  <programme start="20261025070000 -0500" stop="20261025073000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261025073000 -0500" stop="20261025080000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261025080000 -0500" stop="20261025083000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261025083000 -0500" stop="20261025090000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261025090000 -0500" stop="20261025093000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261025093000 -0500" stop="20261025102000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Ride with Norman Reedus</title>
+  </programme>
+  <programme start="20261025102000 -0500" stop="20261025111000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Ride with Norman Reedus</title>
+  </programme>
+  <programme start="20261025111000 -0500" stop="20261025115500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Ride with Norman Reedus</title>
+  </programme>
+  <programme start="20261025115500 -0500" stop="20261025124500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261025124500 -0500" stop="20261025133500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261025133500 -0500" stop="20261025143000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261025143000 -0500" stop="20261025152000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261025152000 -0500" stop="20261025161000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261025161000 -0500" stop="20261025170000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261025170000 -0500" stop="20261025175000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261025175000 -0500" stop="20261025184000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261025184000 -0500" stop="20261025193000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261025193000 -0500" stop="20261025202000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261025202000 -0500" stop="20261025211000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Soulmates</title>
+  </programme>
+  <programme start="20261025211000 -0500" stop="20261025220500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Lodge 49</title>
+  </programme>
+  <programme start="20261025220500 -0500" stop="20261025230000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Lodge 49</title>
+  </programme>
+  <programme start="20261025230000 -0500" stop="20261026000000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Terror</title>
+  </programme>
+  <programme start="20261026000000 -0500" stop="20261026010000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Terror</title>
+  </programme>
+  <programme start="20261026010000 -0500" stop="20261026015000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261026015000 -0500" stop="20261026024000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261026024000 -0500" stop="20261026034500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dark Winds</title>
+  </programme>
+  <programme start="20261026034500 -0500" stop="20261026044500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead: Dead City</title>
+  </programme>
+  <programme start="20261026044500 -0500" stop="20261026055500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Terror</title>
+  </programme>
+  <programme start="20261026055500 -0500" stop="20261026070000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Terror</title>
+  </programme>
+  <programme start="20261026070000 -0500" stop="20261026072500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Brockmire</title>
+  </programme>
+  <programme start="20261026072500 -0500" stop="20261026075000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Brockmire</title>
+  </programme>
+  <programme start="20261026075000 -0500" stop="20261026084500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261026084500 -0500" stop="20261026093500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261026093500 -0500" stop="20261026102500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261026102500 -0500" stop="20261026111500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261026111500 -0500" stop="20261026120500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026120500 -0500" stop="20261026125500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026125500 -0500" stop="20261026134500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261026134500 -0500" stop="20261026143500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261026143500 -0500" stop="20261026152500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261026152500 -0500" stop="20261026162000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261026162000 -0500" stop="20261026171000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261026171000 -0500" stop="20261026180000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026180000 -0500" stop="20261026185000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026185000 -0500" stop="20261026194000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261026194000 -0500" stop="20261026203000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261026203000 -0500" stop="20261026212000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261026212000 -0500" stop="20261026221000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026221000 -0500" stop="20261026230000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261026230000 -0500" stop="20261026235000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Rectify</title>
+  </programme>
+  <programme start="20261026235000 -0500" stop="20261027004000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Las brujas de Mayfair de Anne Rice</title>
+  </programme>
+  <programme start="20261027004000 -0500" stop="20261027013500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261027013500 -0500" stop="20261027023000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261027023000 -0500" stop="20261027032500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Rectify</title>
+  </programme>
+  <programme start="20261027032500 -0500" stop="20261027041500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Las brujas de Mayfair de Anne Rice</title>
+  </programme>
+  <programme start="20261027041500 -0500" stop="20261027050500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261027050500 -0500" stop="20261027060500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261027060500 -0500" stop="20261027070000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261027070000 -0500" stop="20261027072500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Brockmire</title>
+  </programme>
+  <programme start="20261027072500 -0500" stop="20261027075000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Brockmire</title>
+  </programme>
+  <programme start="20261027075000 -0500" stop="20261027084500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261027084500 -0500" stop="20261027093500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261027093500 -0500" stop="20261027102500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261027102500 -0500" stop="20261027111500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261027111500 -0500" stop="20261027120500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027120500 -0500" stop="20261027125500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027125500 -0500" stop="20261027134500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261027134500 -0500" stop="20261027143500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261027143500 -0500" stop="20261027152500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261027152500 -0500" stop="20261027162000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261027162000 -0500" stop="20261027171000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dispatches From Elsewhere</title>
+  </programme>
+  <programme start="20261027171000 -0500" stop="20261027180000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027180000 -0500" stop="20261027185000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027185000 -0500" stop="20261027194000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
+  </programme>
+  <programme start="20261027194000 -0500" stop="20261027203000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261027203000 -0500" stop="20261027212000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261027212000 -0500" stop="20261027221000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027221000 -0500" stop="20261027230000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Son</title>
+  </programme>
+  <programme start="20261027230000 -0500" stop="20261027235500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Dark Winds</title>
+  </programme>
+  <programme start="20261027235500 -0500" stop="20261028004500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Rectify</title>
+  </programme>
+  <programme start="20261028004500 -0500" stop="20261028014000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20261028014000 -0500" stop="20261028023000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
   </programme>
   <programme start="20261024002400 -0500" stop="20261024011200 -0500" channel="AnimalPlanet.co">
     <title lang="es">Caminando con elefantes</title>
@@ -5613,48 +5949,6 @@
     <title lang="es">FIA: Carolina Rocha</title>
     <desc lang="es">A lo largo de su Carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, ella se encarga de relatar sobre gastronomía, folklore e historias de vida.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261023134400 -0500" stop="20261023134900 -0500" channel="BabyTV.co">
-    <title lang="es">Mona &amp; Sketch</title>
-  </programme>
-  <programme start="20261023134900 -0500" stop="20261023135400 -0500" channel="BabyTV.co">
-    <title lang="es">Billy Bam-Bam</title>
-  </programme>
-  <programme start="20261023135400 -0500" stop="20261023140000 -0500" channel="BabyTV.co">
-    <title lang="es">Billy Bam-Bam</title>
-  </programme>
-  <programme start="20261023140000 -0500" stop="20261023140600 -0500" channel="BabyTV.co">
-    <title lang="es">Billy Bam-Bam</title>
-  </programme>
-  <programme start="20261023140600 -0500" stop="20261023141100 -0500" channel="BabyTV.co">
-    <title lang="es">Bug'n'Play al rescate</title>
-  </programme>
-  <programme start="20261023141100 -0500" stop="20261023141700 -0500" channel="BabyTV.co">
-    <title lang="es">Olly</title>
-  </programme>
-  <programme start="20261023141700 -0500" stop="20261023142200 -0500" channel="BabyTV.co">
-    <title lang="es">Stitches</title>
-  </programme>
-  <programme start="20261023142200 -0500" stop="20261023142500 -0500" channel="BabyTV.co">
-    <title lang="es">Giggle Wiggle</title>
-  </programme>
-  <programme start="20261023142500 -0500" stop="20261023142800 -0500" channel="BabyTV.co">
-    <title lang="es">Giggle Wiggle</title>
-  </programme>
-  <programme start="20261023142800 -0500" stop="20261023143200 -0500" channel="BabyTV.co">
-    <title lang="es">Giggle Wiggle</title>
-  </programme>
-  <programme start="20261023143200 -0500" stop="20261023143300 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones &amp; rimas</title>
-  </programme>
-  <programme start="20261023143300 -0500" stop="20261023143500 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones &amp; rimas</title>
-  </programme>
-  <programme start="20261023143500 -0500" stop="20261023143700 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones &amp; rimas</title>
-  </programme>
-  <programme start="20261023143700 -0500" stop="20261023144400 -0500" channel="BabyTV.co">
-    <title lang="es">Charlie y los números</title>
   </programme>
   <programme start="20261023144400 -0500" stop="20261023145100 -0500" channel="BabyTV.co">
     <title lang="es">Charlie y los números</title>
@@ -11744,9 +12038,6 @@
   <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="CanalCartagena.co">
     <title lang="es">Canal Cartagena</title>
     <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261024000000 -0500" stop="20261024000200 -0500" channel="CanalCongreso.co">
-    <title lang="es">Himno Nacional</title>
   </programme>
   <programme start="20261024000200 -0500" stop="20261024060000 -0500" channel="CanalCongreso.co">
     <title lang="es">Plenaria de Cámara</title>
@@ -28062,9 +28353,6 @@
     <desc lang="es">Los pugs intentan devolver un huevo grande antes de que eclosione. Por otro lado, cuando Chloe y Keia pierden un remo especial de la canoa, los cachorros se embarcan en una aventura en el desierto para encontrarlo.</desc>
     <category lang="es">Temporada 2 Episodio 23 - Qué esperar cuando esperas / Arrúgalo</category>
   </programme>
-  <programme start="20261023123000 -0500" stop="20261023140000 -0500" channel="DSports.co">
-    <title lang="es">DSPORTS Noticias</title>
-  </programme>
   <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="DSports.co">
     <title lang="es">Puede pasar</title>
   </programme>
@@ -28353,9 +28641,6 @@
   <programme start="20261025180000 -0500" stop="20261025200000 -0500" channel="DSports2.co">
     <title lang="es">Chile Sub-17 vs. España Sub-17</title>
   </programme>
-  <programme start="20261023110000 -0500" stop="20261023140000 -0500" channel="DSports3.co">
-    <title lang="es">Power Slap 25: Abu Dhabi</title>
-  </programme>
   <programme start="20261023140000 -0500" stop="20261023160000 -0500" channel="DSports3.co">
     <title lang="es">DSPORTS</title>
   </programme>
@@ -28445,12 +28730,6 @@
   </programme>
   <programme start="20261026160000 -0500" stop="20261026190000 -0500" channel="DSports3.co">
     <title lang="es">DSPORTS</title>
-  </programme>
-  <programme start="20261023193000 -0500" stop="20261023200000 -0500" channel="DSports+.co">
-    <title lang="es">UCI BMX Freestyle Park World Cup, Shanghai</title>
-  </programme>
-  <programme start="20261023200000 -0500" stop="20261023203000 -0500" channel="DSports+.co">
-    <title lang="es">De ciclismo se habla así</title>
   </programme>
   <programme start="20261023203000 -0500" stop="20261023210000 -0500" channel="DSports+.co">
     <title lang="es">PFL Chicago: Main Card</title>
@@ -28630,12 +28909,6 @@
   <programme start="20261027030000 -0500" stop="20261027040000 -0500" channel="DW(Espanol).co">
     <title lang="es">Deutsche Welle</title>
     <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261023235500 -0500" stop="20261024004500 -0500" channel="E!.co">
-    <title lang="es">Love Island</title>
-  </programme>
-  <programme start="20261024004500 -0500" stop="20261024013500 -0500" channel="E!.co">
-    <title lang="es">Million Dollar Listing New York</title>
   </programme>
   <programme start="20261024013500 -0500" stop="20261024022500 -0500" channel="E!.co">
     <title lang="es">Million Dollar Listing New York</title>
@@ -30668,12 +30941,6 @@
     <desc lang="es">Desde distintos escenarios de Iberoamérica, ponemos en su pantalla diversos eventos musicales para que disfrutes de los mejores shows en vivo.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261023123750 -0500" stop="20261023142636 -0500" channel="entchannel.cl">
-    <title lang="es">Beso Francés</title>
-    <desc lang="es">Kate es una chica convencional que sueña con casarse con su novio Charlie y ser feliz para siempre. El problema es que Charlie se enamora de Juliette, una bella francesa, durante un viaje de negocios a París. Dispuesta a recuperarlo, Kate vuela a la capital francesa. En el avi...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e5fbbc1caec881ab7baac1c80d8050f4?w=400" />
-  </programme>
   <programme start="20261023142636 -0500" stop="20261023160546 -0500" channel="entchannel.cl">
     <title lang="es">DC Liga De Supermascotas</title>
     <desc lang="es">Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de refugiados (Ace el sabueso, PB el minicerdo, Merton la tortuga y Chip la ardilla) a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes.</desc>
@@ -31307,12 +31574,6 @@
     <desc lang="es">Durante la cena que Krusty tenía pendiente con Bart desde que le sacó de la cárcel al demostrar la culpabilidad del Bob Patiño,  descubriendo que Krusty no es tan feliz como parece. El motivo es que su padre, un rabino judío, no le habla desde que Krusty es payaso.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74c47f9377ac2a49ec28900007adceac?w=400" />
-  </programme>
-  <programme start="20261023114500 -0500" stop="20261023140506 -0500" channel="entfamily.cl">
-    <title lang="es">Hook: El Regreso del Capitán Garfio</title>
-    <desc lang="es">Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá qu...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c72da7577671734f6cbdddc834460742?w=400" />
   </programme>
   <programme start="20261023140506 -0500" stop="20261023154547 -0500" channel="entfamily.cl">
     <title lang="es">Rocky Balboa</title>
@@ -32002,9 +32263,6 @@
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a776a419d72cb13ac7efd89e30f1e3d?w=400" />
   </programme>
-  <programme start="20261023120000 -0500" stop="20261023135000 -0500" channel="ESPN.co">
-    <title lang="es">SportsCenter</title>
-  </programme>
   <programme start="20261023135000 -0500" stop="20261023155500 -0500" channel="ESPN.co">
     <title lang="es">Ipswich Town vs. Nottingham Forest</title>
   </programme>
@@ -32359,9 +32617,6 @@
   <programme start="20261026183000 -0500" stop="20261026190000 -0500" channel="ESPN2.co">
     <title lang="es">Béisbol esta noche</title>
   </programme>
-  <programme start="20261023133000 -0500" stop="20261023135000 -0500" channel="ESPN3.co">
-    <title lang="es">Aston Villa: Campeón de la UEFA Europa League 2025-26</title>
-  </programme>
   <programme start="20261023135000 -0500" stop="20261023160000 -0500" channel="ESPN3.co">
     <title lang="es">Deportivo Alavés vs. Málaga CF</title>
   </programme>
@@ -32551,12 +32806,6 @@
   <programme start="20261026180000 -0500" stop="20261026190000 -0500" channel="ESPN3.co">
     <title lang="es">Premier League: Aston Villa vs. Manchester City</title>
   </programme>
-  <programme start="20261023234500 -0500" stop="20261024004700 -0500" channel="ESPN4.co">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20261024004700 -0500" stop="20261024014900 -0500" channel="ESPN4.co">
-    <title lang="es">Bournemouth vs. AC Milan</title>
-  </programme>
   <programme start="20261024014900 -0500" stop="20261024045000 -0500" channel="ESPN4.co">
     <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
   </programme>
@@ -32737,8 +32986,8 @@
   <programme start="20261027230000 -0500" stop="20261028000000 -0500" channel="ESPN4.co">
     <title lang="es">Equipo Scrum</title>
   </programme>
-  <programme start="20261023120000 -0500" stop="20261023140000 -0500" channel="ESPN5.co">
-    <title lang="es">Omonia Nicosia vs. Benfica</title>
+  <programme start="20261028000000 -0500" stop="20261028020000 -0500" channel="ESPN4.co">
+    <title lang="es">Fleetwood Town vs. Arsenal</title>
   </programme>
   <programme start="20261023140000 -0500" stop="20261023160000 -0500" channel="ESPN5.co">
     <title lang="es">Flamengo vs. Estudiantes</title>
@@ -33024,9 +33273,6 @@
   </programme>
   <programme start="20261026180000 -0500" stop="20261026200000 -0500" channel="ESPN6.co">
     <title lang="es">PSV vs. Feyenoord</title>
-  </programme>
-  <programme start="20261023120000 -0500" stop="20261023135000 -0500" channel="ESPN7.co">
-    <title lang="es">Belgrano vs. River Plate</title>
   </programme>
   <programme start="20261023135000 -0500" stop="20261023160000 -0500" channel="ESPN7.co">
     <title lang="es">Bolton Wanderers vs. Middlesbrough</title>
@@ -33364,18 +33610,6 @@
     <title lang="es">Al Qadsiah Club (Ksa) vs. Al Sadd (Qat)</title>
     <desc lang="es">Vive las emociones de los partidos de la edición número 45 del principal campeonato de fútbol de clubes de Asia organizado por la Confederación Asiática de Fútbol (AFC), y la primera bajo su nueva denominación. Participan 32 equipos.</desc>
     <category lang="es">Liga de Campeones Élite de la AFC</category>
-  </programme>
-  <programme start="20261023231000 -0500" stop="20261024002000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20261024002000 -0500" stop="20261024002500 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Moto Grand Prix F.I.M. Highlights</title>
-  </programme>
-  <programme start="20261024002500 -0500" stop="20261024012500 -0500" channel="ESPNPremium.cl">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20261024012500 -0500" stop="20261024015500 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Champions League Weekly</title>
   </programme>
   <programme start="20261024015500 -0500" stop="20261024035500 -0500" channel="ESPNPremium.cl">
     <title lang="es">Fútbol EFL Championship</title>
@@ -34600,12 +34834,6 @@
     <title lang="es">My Soul Summer</title>
     <desc lang="es">Una tímida joven de 17 años que toca el piano clásico descubre la música soul a través de una extraña amistad con un viejo rockero en un verano impensado que termina cambiando su vida para abrazar aún más fuerte el amor por sus pasiones.</desc>
     <category lang="es">Drama / 2022</category>
-  </programme>
-  <programme start="20261023131500 -0500" stop="20261023135900 -0500" channel="FoodNetwork.co">
-    <title lang="es">El lugar es una ciudad fantasma</title>
-  </programme>
-  <programme start="20261023135900 -0500" stop="20261023144200 -0500" channel="FoodNetwork.co">
-    <title lang="es">Pastel, glorioso pastel</title>
   </programme>
   <programme start="20261023144200 -0500" stop="20261023152500 -0500" channel="FoodNetwork.co">
     <title lang="es">Minecraft</title>
@@ -36699,9 +36927,6 @@
     <title lang="es">Todo sobre mi madre</title>
     <desc lang="es">Manuela pierde a su hijo el mismo día que el chico celebra su cumpleaños. Destrozada por tan irreparable pérdida, huye del presente refugiándose en el pasado. Viaja hasta Barcelona de donde salió embarazada hace dieciocho años.</desc>
     <category lang="es">All About My MotherDrama / 1998</category>
-  </programme>
-  <programme start="20261023124600 -0500" stop="20261023143300 -0500" channel="GoldenEdge.co">
-    <title lang="es">El redentor</title>
   </programme>
   <programme start="20261023143300 -0500" stop="20261023161800 -0500" channel="GoldenEdge.co">
     <title lang="es">Fuego cruzado</title>
@@ -39519,12 +39744,6 @@
     <title lang="es">El protector</title>
     <desc lang="es">La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como "Los apicultores".</desc>
     <category lang="es">Beekeeper: sentencia de muerteAcción / 2024</category>
-  </programme>
-  <programme start="20261023133200 -0500" stop="20261023135400 -0500" channel="HGTV.co">
-    <title lang="es">Emerald Coast House Hunt</title>
-  </programme>
-  <programme start="20261023135400 -0500" stop="20261023144000 -0500" channel="HGTV.co">
-    <title lang="es">La de los pisos de pino</title>
   </programme>
   <programme start="20261023144000 -0500" stop="20261023152300 -0500" channel="HGTV.co">
     <title lang="es">Transformar condominios</title>
@@ -44968,21 +45187,6 @@
     <desc lang="es">Vive las emociones de Full Court.</desc>
     <category lang="es">Full Court</category>
   </programme>
-  <programme start="20261024000000 -0500" stop="20261024002000 -0500" channel="Nick.co">
-    <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
-  </programme>
-  <programme start="20261024002000 -0500" stop="20261024004500 -0500" channel="Nick.co">
-    <title lang="es">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261024004500 -0500" stop="20261024011000 -0500" channel="Nick.co">
-    <title lang="es">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261024011000 -0500" stop="20261024013500 -0500" channel="Nick.co">
-    <title lang="es">The Marsupilamis</title>
-  </programme>
-  <programme start="20261024013500 -0500" stop="20261024015500 -0500" channel="Nick.co">
-    <title lang="es">Best and Bester</title>
-  </programme>
   <programme start="20261024015500 -0500" stop="20261024022000 -0500" channel="Nick.co">
     <title lang="es">Best and Bester</title>
   </programme>
@@ -45759,6 +45963,24 @@
   </programme>
   <programme start="20261027233500 -0500" stop="20261028000000 -0500" channel="Nick.co">
     <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+  </programme>
+  <programme start="20261028000000 -0500" stop="20261028002000 -0500" channel="Nick.co">
+    <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+  </programme>
+  <programme start="20261028002000 -0500" stop="20261028004500 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20261028004500 -0500" stop="20261028011000 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20261028011000 -0500" stop="20261028013500 -0500" channel="Nick.co">
+    <title lang="es">The Marsupilamis</title>
+  </programme>
+  <programme start="20261028013500 -0500" stop="20261028015500 -0500" channel="Nick.co">
+    <title lang="es">Best and Bester</title>
+  </programme>
+  <programme start="20261028015500 -0500" stop="20261028022000 -0500" channel="Nick.co">
+    <title lang="es">Best and Bester</title>
   </programme>
   <programme start="20261024005500 -0500" stop="20261024011500 -0500" channel="NickJr.co">
     <title lang="es">Barbapapá</title>
@@ -50735,9 +50957,6 @@
   <programme start="20261026180500 -0500" stop="20261026200000 -0500" channel="SonyMovies.co">
     <title lang="es">La noche del demonio: La puerta roja</title>
   </programme>
-  <programme start="20261023231500 -0500" stop="20261024010500 -0500" channel="SonyMovies.uy">
-    <title lang="es">El poder de los centavos</title>
-  </programme>
   <programme start="20261024010500 -0500" stop="20261024024900 -0500" channel="SonyMovies.uy">
     <title lang="es">El Último Cazador de Brujas</title>
     <desc lang="es">Kaulder el último cazador de brujas, es todo lo que se interpone entre la humanidad y las fuerzas combinadas de las más aterradoras brujas de la historia.</desc>
@@ -51001,6 +51220,10 @@
   </programme>
   <programme start="20261027221400 -0500" stop="20261028001900 -0500" channel="SonyMovies.uy">
     <title lang="es">Constantine</title>
+  </programme>
+  <programme start="20261028001900 -0500" stop="20261028022400 -0500" channel="SonyMovies.uy">
+    <title lang="es">Líbranos del Mal</title>
+    <desc lang="es">Un oficial de policía de Nueva York investiga una serie de crímenes y con a la ayuda de ritos de un sacerdote poco convencional para librar a los poseídos.</desc>
   </programme>
   <programme start="20261024001600 -0500" stop="20261024015900 -0500" channel="Space.co">
     <title lang="es">Destino final</title>
@@ -55606,12 +55829,6 @@
     <desc lang="es">Bloques sin interrupción de videos musicales con gran variedad de ritmos para bailar y cantar. A través del espacio, el público podrá disfrutar de nuevos lanzamientos así como clásicos.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261024000000 -0500" stop="20261024010000 -0500" channel="Teleislas.co">
-    <title lang="es">San Andrés From the Sky</title>
-  </programme>
-  <programme start="20261024010000 -0500" stop="20261024020000 -0500" channel="Teleislas.co">
-    <title lang="es">Sea View</title>
-  </programme>
   <programme start="20261024020000 -0500" stop="20261024030000 -0500" channel="Teleislas.co">
     <title lang="es">Puebleando</title>
   </programme>
@@ -55714,116 +55931,14 @@
   <programme start="20261024200500 -0500" stop="20261025040500 -0500" channel="Teleislas.co">
     <title lang="es">El mundo de Luna</title>
   </programme>
-  <programme start="20261025040500 -0500" stop="20261025060000 -0500" channel="Teleislas.co">
+  <programme start="20261025200500 -0500" stop="20261026040500 -0500" channel="Teleislas.co">
     <title lang="es">El mundo de Luna</title>
-  </programme>
-  <programme start="20261025060000 -0500" stop="20261025063000 -0500" channel="Teleislas.co">
-    <title lang="es">Rumba en casa</title>
-  </programme>
-  <programme start="20261025063000 -0500" stop="20261025073000 -0500" channel="Teleislas.co">
-    <title lang="es">Teleislas News</title>
-  </programme>
-  <programme start="20261025073000 -0500" stop="20261025083000 -0500" channel="Teleislas.co">
-    <title lang="es">Misa padre Marcelino</title>
-  </programme>
-  <programme start="20261025083000 -0500" stop="20261025084000 -0500" channel="Teleislas.co">
-    <title lang="es">Kriol Bible Stuoriz</title>
-  </programme>
-  <programme start="20261025084000 -0500" stop="20261025090000 -0500" channel="Teleislas.co">
-    <title lang="es">Burro y Cebra</title>
-  </programme>
-  <programme start="20261025090000 -0500" stop="20261025091500 -0500" channel="Teleislas.co">
-    <title lang="es">Misa British Virgin Islands</title>
-  </programme>
-  <programme start="20261025091500 -0500" stop="20261025093000 -0500" channel="Teleislas.co">
-    <title lang="es">Today's Piknini</title>
-  </programme>
-  <programme start="20261025093000 -0500" stop="20261025100000 -0500" channel="Teleislas.co">
-    <title lang="es">Jesus Stori Fi Piknini</title>
-  </programme>
-  <programme start="20261025100000 -0500" stop="20261025103000 -0500" channel="Teleislas.co">
-    <title lang="es">Al mundo del turismo desde</title>
-  </programme>
-  <programme start="20261025103000 -0500" stop="20261025103500 -0500" channel="Teleislas.co">
-    <title lang="es">Happy Reef</title>
-  </programme>
-  <programme start="20261025103500 -0500" stop="20261025104000 -0500" channel="Teleislas.co">
-    <title lang="es">Mek' a tell you</title>
-  </programme>
-  <programme start="20261025104000 -0500" stop="20261025110000 -0500" channel="Teleislas.co">
-    <title lang="es">Pequeñas estrellas</title>
-  </programme>
-  <programme start="20261025110000 -0500" stop="20261025113000 -0500" channel="Teleislas.co">
-    <title lang="es">Island Kids</title>
-  </programme>
-  <programme start="20261025113000 -0500" stop="20261025120000 -0500" channel="Teleislas.co">
-    <title lang="es">Fi Wi Future</title>
-  </programme>
-  <programme start="20261025120000 -0500" stop="20261025123000 -0500" channel="Teleislas.co">
-    <title lang="es">Entre Ojos</title>
-  </programme>
-  <programme start="20261025123000 -0500" stop="20261025130000 -0500" channel="Teleislas.co">
-    <title lang="es">Quick and Delicious</title>
-  </programme>
-  <programme start="20261025130000 -0500" stop="20261025133000 -0500" channel="Teleislas.co">
-    <title lang="es">Cuarentena musical Pacífico y Caribe</title>
-  </programme>
-  <programme start="20261025133000 -0500" stop="20261025140000 -0500" channel="Teleislas.co">
-    <title lang="es">Noticiero científico y cultural iberoamericano</title>
-  </programme>
-  <programme start="20261025140000 -0500" stop="20261025150000 -0500" channel="Teleislas.co">
-    <title lang="es">Recintos de fe</title>
-  </programme>
-  <programme start="20261025150000 -0500" stop="20261025153000 -0500" channel="Teleislas.co">
-    <title lang="es">Farm and Fish</title>
-  </programme>
-  <programme start="20261025153000 -0500" stop="20261025160000 -0500" channel="Teleislas.co">
-    <title lang="es">Caribbean culture</title>
-  </programme>
-  <programme start="20261025160000 -0500" stop="20261025163000 -0500" channel="Teleislas.co">
-    <title lang="es">Documental</title>
-  </programme>
-  <programme start="20261025163000 -0500" stop="20261025173000 -0500" channel="Teleislas.co">
-    <title lang="es">Creole Evening</title>
-  </programme>
-  <programme start="20261025173000 -0500" stop="20261025175700 -0500" channel="Teleislas.co">
-    <title lang="es">Misa padre Marcelino</title>
-  </programme>
-  <programme start="20261025175700 -0500" stop="20261025183000 -0500" channel="Teleislas.co">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20261025183000 -0500" stop="20261025190000 -0500" channel="Teleislas.co">
-    <title lang="es">Programa del MinTIC</title>
-  </programme>
-  <programme start="20261025190000 -0500" stop="20261025190200 -0500" channel="Teleislas.co">
-    <title lang="es">Espacio político</title>
-  </programme>
-  <programme start="20261025190200 -0500" stop="20261025193000 -0500" channel="Teleislas.co">
-    <title lang="es">Caribbean Week in Review</title>
-  </programme>
-  <programme start="20261025193000 -0500" stop="20261025195500 -0500" channel="Teleislas.co">
-    <title lang="es">Explorando San Andrés</title>
-  </programme>
-  <programme start="20261025195500 -0500" stop="20261025200000 -0500" channel="Teleislas.co">
-    <title lang="es">Gotas bíblicas</title>
-  </programme>
-  <programme start="20261025200000 -0500" stop="20261025203000 -0500" channel="Teleislas.co">
-    <title lang="es">Teleislas News</title>
-  </programme>
-  <programme start="20261025203000 -0500" stop="20261025214500 -0500" channel="Teleislas.co">
-    <title lang="es">Flora y fauna marina</title>
-  </programme>
-  <programme start="20261025214500 -0500" stop="20261025220000 -0500" channel="Teleislas.co">
-    <title lang="es">Peg + gato</title>
-  </programme>
-  <programme start="20261025220000 -0500" stop="20261025230000 -0500" channel="Teleislas.co">
-    <title lang="es">Hispana</title>
-  </programme>
-  <programme start="20261025230000 -0500" stop="20261026000000 -0500" channel="Teleislas.co">
-    <title lang="es">Old Providence Sport</title>
   </programme>
   <programme start="20261026000000 -0500" stop="20261026050000 -0500" channel="Teleislas.co">
     <title lang="es">El sabor de la pasión</title>
+  </programme>
+  <programme start="20261026040500 -0500" stop="20261026060000 -0500" channel="Teleislas.co">
+    <title lang="es">El mundo de Luna</title>
   </programme>
   <programme start="20261026050000 -0500" stop="20261026055700 -0500" channel="Teleislas.co">
     <title lang="es">Healthy Body</title>
@@ -55846,8 +55961,23 @@
   <programme start="20261026080000 -0500" stop="20261026100000 -0500" channel="Teleislas.co">
     <title lang="es">Mi mundo interior</title>
   </programme>
+  <programme start="20261026083000 -0500" stop="20261026084000 -0500" channel="Teleislas.co">
+    <title lang="es">Kriol Bible Stuoriz</title>
+  </programme>
+  <programme start="20261026084000 -0500" stop="20261026090000 -0500" channel="Teleislas.co">
+    <title lang="es">Burro y Cebra</title>
+  </programme>
+  <programme start="20261026090000 -0500" stop="20261026091500 -0500" channel="Teleislas.co">
+    <title lang="es">Misa British Virgin Islands</title>
+  </programme>
+  <programme start="20261026091500 -0500" stop="20261026093000 -0500" channel="Teleislas.co">
+    <title lang="es">Today's Piknini</title>
+  </programme>
+  <programme start="20261026093000 -0500" stop="20261026100000 -0500" channel="Teleislas.co">
+    <title lang="es">Jesus Stori Fi Piknini</title>
+  </programme>
   <programme start="20261026100000 -0500" stop="20261026103000 -0500" channel="Teleislas.co">
-    <title lang="es">Eureka</title>
+    <title lang="es">Al mundo del turismo desde</title>
   </programme>
   <programme start="20261026103000 -0500" stop="20261026103500 -0500" channel="Teleislas.co">
     <title lang="es">Happy Reef</title>
@@ -55865,19 +55995,25 @@
     <title lang="es">Fi Wi Future</title>
   </programme>
   <programme start="20261026120000 -0500" stop="20261026123000 -0500" channel="Teleislas.co">
-    <title lang="es">Culture and Taste</title>
+    <title lang="es">Entre Ojos</title>
   </programme>
   <programme start="20261026123000 -0500" stop="20261026130000 -0500" channel="Teleislas.co">
     <title lang="es">Quick and Delicious</title>
   </programme>
-  <programme start="20261026130000 -0500" stop="20261026140000 -0500" channel="Teleislas.co">
-    <title lang="es">Campeonas de la ciudad</title>
+  <programme start="20261026130000 -0500" stop="20261026133000 -0500" channel="Teleislas.co">
+    <title lang="es">Cuarentena musical Pacífico y Caribe</title>
   </programme>
-  <programme start="20261026140000 -0500" stop="20261026150000 -0500" channel="Teleislas.co">
+  <programme start="20261026133000 -0500" stop="20261026140000 -0500" channel="Teleislas.co">
     <title lang="es">Noticiero científico y cultural iberoamericano</title>
   </programme>
-  <programme start="20261026150000 -0500" stop="20261026160000 -0500" channel="Teleislas.co">
+  <programme start="20261026140000 -0500" stop="20261026150000 -0500" channel="Teleislas.co">
+    <title lang="es">Recintos de fe</title>
+  </programme>
+  <programme start="20261026150000 -0500" stop="20261026153000 -0500" channel="Teleislas.co">
     <title lang="es">Farm and Fish</title>
+  </programme>
+  <programme start="20261026153000 -0500" stop="20261026160000 -0500" channel="Teleislas.co">
+    <title lang="es">Caribbean culture</title>
   </programme>
   <programme start="20261026160000 -0500" stop="20261026163000 -0500" channel="Teleislas.co">
     <title lang="es">Documental</title>
@@ -55889,13 +56025,46 @@
     <title lang="es">Yo mujer</title>
   </programme>
   <programme start="20261026173000 -0500" stop="20261026175700 -0500" channel="Teleislas.co">
-    <title lang="es">Vida Marina</title>
+    <title lang="es">Misa padre Marcelino</title>
   </programme>
   <programme start="20261026175700 -0500" stop="20261026180000 -0500" channel="Teleislas.co">
     <title lang="es">Himno Nacional</title>
   </programme>
   <programme start="20261026180000 -0500" stop="20261026190200 -0500" channel="Teleislas.co">
     <title lang="es">Inteligencia artificial</title>
+  </programme>
+  <programme start="20261026183000 -0500" stop="20261026190000 -0500" channel="Teleislas.co">
+    <title lang="es">Programa del MinTIC</title>
+  </programme>
+  <programme start="20261026190000 -0500" stop="20261026190200 -0500" channel="Teleislas.co">
+    <title lang="es">Espacio político</title>
+  </programme>
+  <programme start="20261026190200 -0500" stop="20261026193000 -0500" channel="Teleislas.co">
+    <title lang="es">Caribbean Week in Review</title>
+  </programme>
+  <programme start="20261026193000 -0500" stop="20261026195500 -0500" channel="Teleislas.co">
+    <title lang="es">Explorando San Andrés</title>
+  </programme>
+  <programme start="20261026195500 -0500" stop="20261026200000 -0500" channel="Teleislas.co">
+    <title lang="es">Gotas bíblicas</title>
+  </programme>
+  <programme start="20261026200000 -0500" stop="20261026203000 -0500" channel="Teleislas.co">
+    <title lang="es">Teleislas News</title>
+  </programme>
+  <programme start="20261026203000 -0500" stop="20261026214500 -0500" channel="Teleislas.co">
+    <title lang="es">Flora y fauna marina</title>
+  </programme>
+  <programme start="20261026214500 -0500" stop="20261026220000 -0500" channel="Teleislas.co">
+    <title lang="es">Peg + gato</title>
+  </programme>
+  <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="Teleislas.co">
+    <title lang="es">Hispana</title>
+  </programme>
+  <programme start="20261026230000 -0500" stop="20261027000000 -0500" channel="Teleislas.co">
+    <title lang="es">Old Providence Sport</title>
+  </programme>
+  <programme start="20261027000000 -0500" stop="20261027050000 -0500" channel="Teleislas.co">
+    <title lang="es">El sabor de la pasión</title>
   </programme>
   <programme start="20261024000000 -0500" stop="20261024055800 -0500" channel="Telemedellin.co">
     <title lang="es">Claroscuro</title>
@@ -56307,12 +56476,6 @@
     <title lang="es">Claroscuro</title>
     <desc lang="es">El espacio para todos aquellos realizadores audiovisuales nayaritas, en el que nos platican sus experiencias en producciones de cine, haciéndonos viajar con sus cortometrajes y documentales.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261024000000 -0500" stop="20261024005000 -0500" channel="Telemundo.co">
-    <title lang="es">Maratón Enemigo íntimo</title>
-  </programme>
-  <programme start="20261024005000 -0500" stop="20261024014000 -0500" channel="Telemundo.co">
-    <title lang="es">Maratón Enemigo íntimo</title>
   </programme>
   <programme start="20261024014000 -0500" stop="20261024023000 -0500" channel="Telemundo.co">
     <title lang="es">Falsa identidad</title>
@@ -58249,15 +58412,6 @@
     <title lang="es">Francotirador 6: El tirador fantasma</title>
     <desc lang="es">Dos francotiradores de élite deben proteger un gaseoducto que buscan un grupo de terroristas. Cuando varios francotiradores son asesinados por un tirador fantasma que conoce exactamente su localización, la situación comienza a complicarse.</desc>
     <category lang="es">Sniper: Ghost ShooterThriller / 2016 / 5.4</category>
-  </programme>
-  <programme start="20261023231200 -0500" stop="20261024000300 -0500" channel="TNTNovelas.co">
-    <title lang="es">El Chico De Oro</title>
-  </programme>
-  <programme start="20261024000300 -0500" stop="20261024005700 -0500" channel="TNTNovelas.co">
-    <title lang="es">Olvídame si puedes</title>
-  </programme>
-  <programme start="20261024005700 -0500" stop="20261024015200 -0500" channel="TNTNovelas.co">
-    <title lang="es">Olvídame si puedes</title>
   </programme>
   <programme start="20261024015200 -0500" stop="20261024024600 -0500" channel="TNTNovelas.co">
     <title lang="es">Fuerza de Mujer</title>
@@ -63521,12 +63675,6 @@
   <programme start="20261026180000 -0500" stop="20261026200000 -0500" channel="UniversalCinema.co">
     <title lang="es">Uncharted</title>
   </programme>
-  <programme start="20261023130500 -0500" stop="20261023135000 -0500" channel="UniversalCrime.co">
-    <title lang="es">El arte de la muerte</title>
-  </programme>
-  <programme start="20261023135000 -0500" stop="20261023143500 -0500" channel="UniversalCrime.co">
-    <title lang="es">Asesinato en el estacionamiento</title>
-  </programme>
   <programme start="20261023143500 -0500" stop="20261023152000 -0500" channel="UniversalCrime.co">
     <title lang="es">Cuerpo en un lago</title>
   </programme>
@@ -63832,9 +63980,6 @@
   </programme>
   <programme start="20261026181500 -0500" stop="20261026190000 -0500" channel="UniversalCrime.co">
     <title lang="es">Fetiche asesino</title>
-  </programme>
-  <programme start="20261023134000 -0500" stop="20261023143000 -0500" channel="UniversalPremiere.co">
-    <title lang="es">Joan</title>
   </programme>
   <programme start="20261023143000 -0500" stop="20261023151500 -0500" channel="UniversalPremiere.co">
     <title lang="es">Traición</title>
@@ -64956,13 +65101,6 @@
     <title lang="es">Contacto deportivo</title>
     <desc lang="es">Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional.</desc>
     <category lang="es">Contacto deportivo</category>
-  </programme>
-  <programme start="20261024000000 -0500" stop="20261024005000 -0500" channel="USANetwork.co">
-    <title lang="es">Hannibal</title>
-  </programme>
-  <programme start="20261024005000 -0500" stop="20261024014000 -0500" channel="USANetwork.co">
-    <title lang="es">Chucky</title>
-    <desc lang="es">Tras aparecer un muñeco antiguo de Good Guy en una venta de garaje suburbana, una idílica ciudad estadounidense empieza a experimentar horribles asesinatos.</desc>
   </programme>
   <programme start="20261024014000 -0500" stop="20261024023000 -0500" channel="USANetwork.co">
     <title lang="es">Bull</title>
