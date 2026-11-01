@@ -429,11 +429,6 @@
   <channel id="Zoom.co">
     <display-name lang="es">Zoom</display-name>
   </channel>
-  <programme start="20261031140000 -0500" stop="20261031153000 -0500" channel="24Horas.co">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-    <category lang="es">Interés general</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031163000 -0500" channel="24Horas.co">
     <title lang="es">24 Horas deportes</title>
     <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
@@ -1018,11 +1013,6 @@
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
     <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261031141100 -0500" stop="20261031151900 -0500" channel="A&amp;E.co">
-    <title lang="es">Falco</title>
-    <desc lang="es">El cuerpo de una joven aparece en un barco a la deriva. La conclusión de Chéron es clara: muerte por causas naturales. Pero la identidad de la joven sorprende a los investigadores.</desc>
-    <category lang="es">Temporada 2 Episodio 2 - Muerte en el alma</category>
   </programme>
   <programme start="20261031151900 -0500" stop="20261031162400 -0500" channel="A&amp;E.co">
     <title lang="es">Falco</title>
@@ -1654,9 +1644,6 @@
     <desc lang="es">En 2011 Maksim Gelman estuvo en medio de un brutal asesinato en Nueva York. Todo comenzó cuando él mató a su padrastro a puñaladas, y horas más tarde terminó en medio de un enfrentamiento sangriento en el metro por debajo de Times Square.</desc>
     <category lang="es">Temporada 1 Episodio 1 - Maks el loco: Maksim Gelman</category>
   </programme>
-  <programme start="20261031141100 -0500" stop="20261031151900 -0500" channel="A&amp;EMundo.co">
-    <title lang="es">Falco</title>
-  </programme>
   <programme start="20261031151900 -0500" stop="20261031162400 -0500" channel="A&amp;EMundo.co">
     <title lang="es">Falco</title>
   </programme>
@@ -1882,320 +1869,329 @@
   <programme start="20261102182000 -0500" stop="20261102191500 -0500" channel="A&amp;EMundo.co">
     <title lang="es">¿Quién da má$?</title>
   </programme>
-  <programme start="20261031150300 -0500" stop="20261031152700 -0500" channel="AdultSwim.co">
+  <programme start="20261031152100 -0500" stop="20261031154700 -0500" channel="AdultSwim.co">
+    <title lang="es">Haikyu!!</title>
+  </programme>
+  <programme start="20261031154700 -0500" stop="20261031161400 -0500" channel="AdultSwim.co">
+    <title lang="es">Haikyu!!</title>
+  </programme>
+  <programme start="20261031161400 -0500" stop="20261031163800 -0500" channel="AdultSwim.co">
+    <title lang="es">Bravest Warriors</title>
+  </programme>
+  <programme start="20261031163800 -0500" stop="20261031170300 -0500" channel="AdultSwim.co">
+    <title lang="es">Bravest Warriors</title>
+  </programme>
+  <programme start="20261031170300 -0500" stop="20261031172700 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261031152700 -0500" stop="20261031154900 -0500" channel="AdultSwim.co">
+  <programme start="20261031172700 -0500" stop="20261031174900 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261031154900 -0500" stop="20261031161100 -0500" channel="AdultSwim.co">
+  <programme start="20261031174900 -0500" stop="20261031181100 -0500" channel="AdultSwim.co">
     <title lang="es">Teen titans</title>
   </programme>
-  <programme start="20261031161100 -0500" stop="20261031163700 -0500" channel="AdultSwim.co">
+  <programme start="20261031181100 -0500" stop="20261031183700 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Daima</title>
   </programme>
-  <programme start="20261031163700 -0500" stop="20261031170300 -0500" channel="AdultSwim.co">
+  <programme start="20261031183700 -0500" stop="20261031190300 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261031170300 -0500" stop="20261031173000 -0500" channel="AdultSwim.co">
+  <programme start="20261031190300 -0500" stop="20261031193000 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261031173000 -0500" stop="20261031175400 -0500" channel="AdultSwim.co">
+  <programme start="20261031193000 -0500" stop="20261031195400 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261031175400 -0500" stop="20261031191400 -0500" channel="AdultSwim.co">
+  <programme start="20261031195400 -0500" stop="20261031211400 -0500" channel="AdultSwim.co">
     <title lang="es">Liga de la justicia oscura</title>
   </programme>
-  <programme start="20261031191400 -0500" stop="20261031193900 -0500" channel="AdultSwim.co">
+  <programme start="20261031211400 -0500" stop="20261031213900 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261031193900 -0500" stop="20261031200300 -0500" channel="AdultSwim.co">
+  <programme start="20261031213900 -0500" stop="20261031220300 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261031200300 -0500" stop="20261031202900 -0500" channel="AdultSwim.co">
+  <programme start="20261031220300 -0500" stop="20261031222900 -0500" channel="AdultSwim.co">
     <title lang="es">Jojo's Bizarre Adventure</title>
   </programme>
-  <programme start="20261031202900 -0500" stop="20261031204200 -0500" channel="AdultSwim.co">
+  <programme start="20261031222900 -0500" stop="20261031224200 -0500" channel="AdultSwim.co">
     <title lang="es">Oh My God... Yes! a Series of Extremely Relatable</title>
   </programme>
-  <programme start="20261031204200 -0500" stop="20261031210700 -0500" channel="AdultSwim.co">
+  <programme start="20261031224200 -0500" stop="20261031230700 -0500" channel="AdultSwim.co">
     <title lang="es">Harley Quinn</title>
   </programme>
-  <programme start="20261031210700 -0500" stop="20261031213100 -0500" channel="AdultSwim.co">
+  <programme start="20261031230700 -0500" stop="20261031233100 -0500" channel="AdultSwim.co">
     <title lang="es">Rooster Fighter</title>
   </programme>
-  <programme start="20261031213100 -0500" stop="20261031215700 -0500" channel="AdultSwim.co">
+  <programme start="20261031233100 -0500" stop="20261031235700 -0500" channel="AdultSwim.co">
     <title lang="es">Dan Da Dan</title>
   </programme>
-  <programme start="20261031215700 -0500" stop="20261031222000 -0500" channel="AdultSwim.co">
+  <programme start="20261031235700 -0500" stop="20261101002000 -0500" channel="AdultSwim.co">
     <title lang="es">Death Note</title>
   </programme>
-  <programme start="20261031222000 -0500" stop="20261031224400 -0500" channel="AdultSwim.co">
+  <programme start="20261101002000 -0500" stop="20261101004400 -0500" channel="AdultSwim.co">
     <title lang="es">Jujutsu Kaisen</title>
   </programme>
-  <programme start="20261031224400 -0500" stop="20261031230800 -0500" channel="AdultSwim.co">
+  <programme start="20261101004400 -0500" stop="20261101010800 -0500" channel="AdultSwim.co">
     <title lang="es">Lazarus</title>
   </programme>
-  <programme start="20261031230800 -0500" stop="20261031233100 -0500" channel="AdultSwim.co">
+  <programme start="20261101010800 -0500" stop="20261101013100 -0500" channel="AdultSwim.co">
     <title lang="es">Ninja Kamui</title>
   </programme>
-  <programme start="20261031233100 -0500" stop="20261031235400 -0500" channel="AdultSwim.co">
+  <programme start="20261101013100 -0500" stop="20261101015400 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261031235400 -0500" stop="20261101001600 -0500" channel="AdultSwim.co">
+  <programme start="20261101015400 -0500" stop="20261101021600 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261101001600 -0500" stop="20261101003900 -0500" channel="AdultSwim.co">
+  <programme start="20261101021600 -0500" stop="20261101023900 -0500" channel="AdultSwim.co">
     <title lang="es">Shut Up and Watch This</title>
   </programme>
-  <programme start="20261101003900 -0500" stop="20261101010100 -0500" channel="AdultSwim.co">
+  <programme start="20261101023900 -0500" stop="20261101030100 -0500" channel="AdultSwim.co">
     <title lang="es">Ed, Edd y Eddy</title>
   </programme>
-  <programme start="20261101010100 -0500" stop="20261102010000 -0500" channel="AdultSwim.co">
+  <programme start="20261101030100 -0500" stop="20261102030000 -0500" channel="AdultSwim.co">
     <title lang="es">Ed, Edd y Eddy</title>
   </programme>
-  <programme start="20261101235100 -0500" stop="20261102001500 -0500" channel="AdultSwim.co">
+  <programme start="20261102015100 -0500" stop="20261102021500 -0500" channel="AdultSwim.co">
     <title lang="es">Cállate y mira esto</title>
   </programme>
-  <programme start="20261102001500 -0500" stop="20261102003800 -0500" channel="AdultSwim.co">
+  <programme start="20261102021500 -0500" stop="20261102023800 -0500" channel="AdultSwim.co">
     <title lang="es">Ed, Edd y Eddy</title>
   </programme>
-  <programme start="20261102003800 -0500" stop="20261102010000 -0500" channel="AdultSwim.co">
+  <programme start="20261102023800 -0500" stop="20261102030000 -0500" channel="AdultSwim.co">
     <title lang="es">Ed, Edd y Eddy</title>
   </programme>
-  <programme start="20261102010000 -0500" stop="20261102012400 -0500" channel="AdultSwim.co">
+  <programme start="20261102030000 -0500" stop="20261102032400 -0500" channel="AdultSwim.co">
     <title lang="es">Teen titans</title>
   </programme>
-  <programme start="20261102012400 -0500" stop="20261102014800 -0500" channel="AdultSwim.co">
+  <programme start="20261102032400 -0500" stop="20261102034800 -0500" channel="AdultSwim.co">
     <title lang="es">Teen titans</title>
   </programme>
-  <programme start="20261102014800 -0500" stop="20261102021000 -0500" channel="AdultSwim.co">
+  <programme start="20261102034800 -0500" stop="20261102041000 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102021000 -0500" stop="20261102023400 -0500" channel="AdultSwim.co">
+  <programme start="20261102041000 -0500" stop="20261102043400 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102021200 -0500" stop="20261102023600 -0500" channel="AdultSwim.co">
+  <programme start="20261102041200 -0500" stop="20261102043600 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102023400 -0500" stop="20261102030000 -0500" channel="AdultSwim.co">
+  <programme start="20261102043400 -0500" stop="20261102050000 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102023600 -0500" stop="20261102030100 -0500" channel="AdultSwim.co">
+  <programme start="20261102043600 -0500" stop="20261102050100 -0500" channel="AdultSwim.co">
     <title lang="es">Las Sombrías Aventuras de Billy y Mandy</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102032600 -0500" channel="AdultSwim.co">
+  <programme start="20261102050000 -0500" stop="20261102052600 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102030100 -0500" stop="20261102032600 -0500" channel="AdultSwim.co">
+  <programme start="20261102050100 -0500" stop="20261102052600 -0500" channel="AdultSwim.co">
     <title lang="es">Las Sombrías Aventuras de Billy y Mandy</title>
   </programme>
-  <programme start="20261102032600 -0500" stop="20261102034900 -0500" channel="AdultSwim.co">
+  <programme start="20261102052600 -0500" stop="20261102054900 -0500" channel="AdultSwim.co">
     <title lang="es">Coraje, el perro cobarde</title>
   </programme>
-  <programme start="20261102034900 -0500" stop="20261102041400 -0500" channel="AdultSwim.co">
+  <programme start="20261102054900 -0500" stop="20261102061400 -0500" channel="AdultSwim.co">
     <title lang="es">Coraje, el perro cobarde</title>
   </programme>
-  <programme start="20261102035300 -0500" stop="20261102042000 -0500" channel="AdultSwim.co">
+  <programme start="20261102055300 -0500" stop="20261102062000 -0500" channel="AdultSwim.co">
     <title lang="es">Beware the Batman</title>
   </programme>
-  <programme start="20261102041400 -0500" stop="20261102042500 -0500" channel="AdultSwim.co">
+  <programme start="20261102061400 -0500" stop="20261102062500 -0500" channel="AdultSwim.co">
     <title lang="es">Bravest Warriors</title>
   </programme>
-  <programme start="20261102042000 -0500" stop="20261102044700 -0500" channel="AdultSwim.co">
+  <programme start="20261102062000 -0500" stop="20261102064700 -0500" channel="AdultSwim.co">
     <title lang="es">Batman The Animated Series</title>
   </programme>
-  <programme start="20261102042500 -0500" stop="20261102045000 -0500" channel="AdultSwim.co">
+  <programme start="20261102062500 -0500" stop="20261102065000 -0500" channel="AdultSwim.co">
     <title lang="es">El laboratorio de Dexter</title>
   </programme>
-  <programme start="20261102044700 -0500" stop="20261102051200 -0500" channel="AdultSwim.co">
+  <programme start="20261102064700 -0500" stop="20261102071200 -0500" channel="AdultSwim.co">
     <title lang="es">Batman The Brave and the Bold</title>
   </programme>
-  <programme start="20261102045000 -0500" stop="20261102051500 -0500" channel="AdultSwim.co">
+  <programme start="20261102065000 -0500" stop="20261102071500 -0500" channel="AdultSwim.co">
     <title lang="es">El laboratorio de Dexter</title>
   </programme>
-  <programme start="20261102051200 -0500" stop="20261102053900 -0500" channel="AdultSwim.co">
+  <programme start="20261102071200 -0500" stop="20261102073900 -0500" channel="AdultSwim.co">
     <title lang="es">Justice League</title>
   </programme>
-  <programme start="20261102051500 -0500" stop="20261102054100 -0500" channel="AdultSwim.co">
+  <programme start="20261102071500 -0500" stop="20261102074100 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102053900 -0500" stop="20261102060500 -0500" channel="AdultSwim.co">
+  <programme start="20261102073900 -0500" stop="20261102080500 -0500" channel="AdultSwim.co">
     <title lang="es">Bravest Warriors</title>
   </programme>
-  <programme start="20261102054100 -0500" stop="20261102060500 -0500" channel="AdultSwim.co">
+  <programme start="20261102074100 -0500" stop="20261102080500 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102060500 -0500" stop="20261102063100 -0500" channel="AdultSwim.co">
+  <programme start="20261102080500 -0500" stop="20261102083100 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102063100 -0500" stop="20261102065700 -0500" channel="AdultSwim.co">
+  <programme start="20261102083100 -0500" stop="20261102085700 -0500" channel="AdultSwim.co">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20261102065700 -0500" stop="20261102072400 -0500" channel="AdultSwim.co">
+  <programme start="20261102085700 -0500" stop="20261102092400 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102072400 -0500" stop="20261102075100 -0500" channel="AdultSwim.co">
+  <programme start="20261102092400 -0500" stop="20261102095100 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102075100 -0500" stop="20261102081600 -0500" channel="AdultSwim.co">
+  <programme start="20261102095100 -0500" stop="20261102101600 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102081600 -0500" stop="20261102084100 -0500" channel="AdultSwim.co">
+  <programme start="20261102101600 -0500" stop="20261102104100 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102081800 -0500" stop="20261102084200 -0500" channel="AdultSwim.co">
+  <programme start="20261102101800 -0500" stop="20261102104200 -0500" channel="AdultSwim.co">
     <title lang="es">Batman The Animated Series</title>
   </programme>
-  <programme start="20261102084100 -0500" stop="20261102090500 -0500" channel="AdultSwim.co">
+  <programme start="20261102104100 -0500" stop="20261102110500 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102084200 -0500" stop="20261102090400 -0500" channel="AdultSwim.co">
+  <programme start="20261102104200 -0500" stop="20261102110400 -0500" channel="AdultSwim.co">
     <title lang="es">Batman The Animated Series</title>
   </programme>
-  <programme start="20261102090400 -0500" stop="20261102092800 -0500" channel="AdultSwim.co">
+  <programme start="20261102110400 -0500" stop="20261102112800 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102090500 -0500" stop="20261102092900 -0500" channel="AdultSwim.co">
+  <programme start="20261102110500 -0500" stop="20261102112900 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102092800 -0500" stop="20261102095200 -0500" channel="AdultSwim.co">
+  <programme start="20261102112800 -0500" stop="20261102115200 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102092900 -0500" stop="20261102095600 -0500" channel="AdultSwim.co">
+  <programme start="20261102112900 -0500" stop="20261102115600 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Daima</title>
   </programme>
-  <programme start="20261102095200 -0500" stop="20261102101800 -0500" channel="AdultSwim.co">
+  <programme start="20261102115200 -0500" stop="20261102121800 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Daima</title>
   </programme>
-  <programme start="20261102095600 -0500" stop="20261102102100 -0500" channel="AdultSwim.co">
+  <programme start="20261102115600 -0500" stop="20261102122100 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102101800 -0500" stop="20261102104500 -0500" channel="AdultSwim.co">
+  <programme start="20261102121800 -0500" stop="20261102124500 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102102100 -0500" stop="20261102104700 -0500" channel="AdultSwim.co">
+  <programme start="20261102122100 -0500" stop="20261102124700 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102104500 -0500" stop="20261102111000 -0500" channel="AdultSwim.co">
+  <programme start="20261102124500 -0500" stop="20261102131000 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102104700 -0500" stop="20261102111300 -0500" channel="AdultSwim.co">
+  <programme start="20261102124700 -0500" stop="20261102131300 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102111000 -0500" stop="20261102113700 -0500" channel="AdultSwim.co">
+  <programme start="20261102131000 -0500" stop="20261102133700 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102111300 -0500" stop="20261102113800 -0500" channel="AdultSwim.co">
+  <programme start="20261102131300 -0500" stop="20261102133800 -0500" channel="AdultSwim.co">
     <title lang="es">Justice League</title>
   </programme>
-  <programme start="20261102113700 -0500" stop="20261102120300 -0500" channel="AdultSwim.co">
+  <programme start="20261102133700 -0500" stop="20261102140300 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102113800 -0500" stop="20261102120200 -0500" channel="AdultSwim.co">
+  <programme start="20261102133800 -0500" stop="20261102140200 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102120200 -0500" stop="20261102122600 -0500" channel="AdultSwim.co">
+  <programme start="20261102140200 -0500" stop="20261102142600 -0500" channel="AdultSwim.co">
     <title lang="es">Beware the Batman</title>
   </programme>
-  <programme start="20261102120300 -0500" stop="20261102122900 -0500" channel="AdultSwim.co">
+  <programme start="20261102140300 -0500" stop="20261102142900 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102122600 -0500" stop="20261102125000 -0500" channel="AdultSwim.co">
+  <programme start="20261102142600 -0500" stop="20261102145000 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102122900 -0500" stop="20261102125600 -0500" channel="AdultSwim.co">
+  <programme start="20261102142900 -0500" stop="20261102145600 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102125000 -0500" stop="20261102131500 -0500" channel="AdultSwim.co">
+  <programme start="20261102145000 -0500" stop="20261102151500 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102125600 -0500" stop="20261102132300 -0500" channel="AdultSwim.co">
+  <programme start="20261102145600 -0500" stop="20261102152300 -0500" channel="AdultSwim.co">
     <title lang="es">Haikyu!!</title>
   </programme>
-  <programme start="20261102131500 -0500" stop="20261102134200 -0500" channel="AdultSwim.co">
+  <programme start="20261102151500 -0500" stop="20261102154200 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102132300 -0500" stop="20261102134700 -0500" channel="AdultSwim.co">
+  <programme start="20261102152300 -0500" stop="20261102154700 -0500" channel="AdultSwim.co">
     <title lang="es">Bravest Warriors</title>
   </programme>
-  <programme start="20261102134200 -0500" stop="20261102140900 -0500" channel="AdultSwim.co">
+  <programme start="20261102154200 -0500" stop="20261102160900 -0500" channel="AdultSwim.co">
     <title lang="es">Blue Lock</title>
   </programme>
-  <programme start="20261102134700 -0500" stop="20261102141100 -0500" channel="AdultSwim.co">
+  <programme start="20261102154700 -0500" stop="20261102161100 -0500" channel="AdultSwim.co">
     <title lang="es">Bravest Warriors</title>
   </programme>
-  <programme start="20261102140900 -0500" stop="20261102143500 -0500" channel="AdultSwim.co">
+  <programme start="20261102160900 -0500" stop="20261102163500 -0500" channel="AdultSwim.co">
     <title lang="es">Justice League</title>
   </programme>
-  <programme start="20261102141100 -0500" stop="20261102143500 -0500" channel="AdultSwim.co">
+  <programme start="20261102161100 -0500" stop="20261102163500 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102143500 -0500" stop="20261102145700 -0500" channel="AdultSwim.co">
+  <programme start="20261102163500 -0500" stop="20261102165700 -0500" channel="AdultSwim.co">
     <title lang="es">Justicia joven</title>
   </programme>
-  <programme start="20261102145700 -0500" stop="20261102152100 -0500" channel="AdultSwim.co">
+  <programme start="20261102165700 -0500" stop="20261102172100 -0500" channel="AdultSwim.co">
     <title lang="es">Teen titans</title>
   </programme>
-  <programme start="20261102150100 -0500" stop="20261102152700 -0500" channel="AdultSwim.co">
+  <programme start="20261102170100 -0500" stop="20261102172700 -0500" channel="AdultSwim.co">
     <title lang="es">Batman The Brave and the Bold</title>
   </programme>
-  <programme start="20261102152100 -0500" stop="20261102154700 -0500" channel="AdultSwim.co">
+  <programme start="20261102172100 -0500" stop="20261102174700 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Daima</title>
   </programme>
-  <programme start="20261102152700 -0500" stop="20261102155300 -0500" channel="AdultSwim.co">
+  <programme start="20261102172700 -0500" stop="20261102175300 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Daima</title>
   </programme>
-  <programme start="20261102154700 -0500" stop="20261102161400 -0500" channel="AdultSwim.co">
+  <programme start="20261102174700 -0500" stop="20261102181400 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102155300 -0500" stop="20261102161800 -0500" channel="AdultSwim.co">
+  <programme start="20261102175300 -0500" stop="20261102181800 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102161400 -0500" stop="20261102164100 -0500" channel="AdultSwim.co">
+  <programme start="20261102181400 -0500" stop="20261102184100 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102164100 -0500" stop="20261102170600 -0500" channel="AdultSwim.co">
+  <programme start="20261102184100 -0500" stop="20261102190600 -0500" channel="AdultSwim.co">
     <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20261102170600 -0500" stop="20261102183200 -0500" channel="AdultSwim.co">
+  <programme start="20261102190600 -0500" stop="20261102203200 -0500" channel="AdultSwim.co">
     <title lang="es">Los jóvenes titanes El contrato de Judas</title>
   </programme>
-  <programme start="20261102183200 -0500" stop="20261102185700 -0500" channel="AdultSwim.co">
+  <programme start="20261102203200 -0500" stop="20261102205700 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261102185700 -0500" stop="20261102192200 -0500" channel="AdultSwim.co">
+  <programme start="20261102205700 -0500" stop="20261102212200 -0500" channel="AdultSwim.co">
     <title lang="es">Rick &amp; Morty</title>
   </programme>
-  <programme start="20261102192200 -0500" stop="20261102194600 -0500" channel="AdultSwim.co">
+  <programme start="20261102212200 -0500" stop="20261102214600 -0500" channel="AdultSwim.co">
     <title lang="es">Get Jiro</title>
   </programme>
-  <programme start="20261102194600 -0500" stop="20261102200400 -0500" channel="AdultSwim.co">
+  <programme start="20261102214600 -0500" stop="20261102220400 -0500" channel="AdultSwim.co">
     <title lang="es">Oh My God... Yes! a Series of Extremely Relatable</title>
   </programme>
-  <programme start="20261102200400 -0500" stop="20261102203100 -0500" channel="AdultSwim.co">
+  <programme start="20261102220400 -0500" stop="20261102223100 -0500" channel="AdultSwim.co">
     <title lang="es">Harley Quinn</title>
   </programme>
-  <programme start="20261102203100 -0500" stop="20261102205600 -0500" channel="AdultSwim.co">
+  <programme start="20261102223100 -0500" stop="20261102225600 -0500" channel="AdultSwim.co">
     <title lang="es">Rooster Fighter</title>
   </programme>
-  <programme start="20261102205600 -0500" stop="20261102212200 -0500" channel="AdultSwim.co">
+  <programme start="20261102225600 -0500" stop="20261102232200 -0500" channel="AdultSwim.co">
     <title lang="es">Dan Da Dan</title>
   </programme>
-  <programme start="20261102212200 -0500" stop="20261102214800 -0500" channel="AdultSwim.co">
+  <programme start="20261102232200 -0500" stop="20261102234800 -0500" channel="AdultSwim.co">
     <title lang="es">Death Note</title>
   </programme>
-  <programme start="20261102214800 -0500" stop="20261102221400 -0500" channel="AdultSwim.co">
+  <programme start="20261102234800 -0500" stop="20261103001400 -0500" channel="AdultSwim.co">
     <title lang="es">Jujutsu Kaisen</title>
   </programme>
-  <programme start="20261102221400 -0500" stop="20261102224100 -0500" channel="AdultSwim.co">
+  <programme start="20261103001400 -0500" stop="20261103004100 -0500" channel="AdultSwim.co">
     <title lang="es">Lazarus</title>
   </programme>
-  <programme start="20261102224100 -0500" stop="20261102230500 -0500" channel="AdultSwim.co">
+  <programme start="20261103004100 -0500" stop="20261103010500 -0500" channel="AdultSwim.co">
     <title lang="es">Ninja Kamui</title>
-  </programme>
-  <programme start="20261031133500 -0500" stop="20261031153000 -0500" channel="AMC.co">
-    <title lang="es">El último cazador de brujas</title>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031172500 -0500" channel="AMC.co">
     <title lang="es">Zombieland: Tiro de gracia</title>
@@ -2397,9 +2393,6 @@
   </programme>
   <programme start="20261103182000 -0500" stop="20261103200000 -0500" channel="AMC.co">
     <title lang="es">Bestia</title>
-  </programme>
-  <programme start="20261031143000 -0500" stop="20261031152000 -0500" channel="AMCSeries.co">
-    <title lang="es">Trabajar para las restricciones</title>
   </programme>
   <programme start="20261031152000 -0500" stop="20261031160500 -0500" channel="AMCSeries.co">
     <title lang="es">El limbo</title>
@@ -2659,320 +2652,321 @@
   <programme start="20261103185000 -0500" stop="20261103194000 -0500" channel="AMCSeries.co">
     <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261031145500 -0500" stop="20261031154500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031152000 -0500" stop="20261031160500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261031154500 -0500" stop="20261031163500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031160500 -0500" stop="20261031165500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261031165500 -0500" stop="20261031174500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Halt &amp; Catch Fire</title>
+  </programme>
+  <programme start="20261031174500 -0500" stop="20261031183500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
   </programme>
-  <programme start="20261031163500 -0500" stop="20261031172500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031183500 -0500" stop="20261031192500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
   </programme>
-  <programme start="20261031172500 -0500" stop="20261031182000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031192500 -0500" stop="20261031202000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
   </programme>
-  <programme start="20261031182000 -0500" stop="20261031191000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031202000 -0500" stop="20261031211000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
   </programme>
-  <programme start="20261031191000 -0500" stop="20261031200000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031211000 -0500" stop="20261031220000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
   </programme>
-  <programme start="20261031200000 -0500" stop="20261031210000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031220000 -0500" stop="20261031230000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Soulmates</title>
   </programme>
-  <programme start="20261031210000 -0500" stop="20261031215500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031230000 -0500" stop="20261031235500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dark Winds</title>
   </programme>
-  <programme start="20261031215500 -0500" stop="20261031225500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261031235500 -0500" stop="20261101005500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead Dead City</title>
   </programme>
-  <programme start="20261031225500 -0500" stop="20261101040000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101005500 -0500" stop="20261101060000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Las brujas de Mayfair de Anne Rice</title>
-  </programme>
-  <programme start="20261101040000 -0500" stop="20261101043000 -0500" channel="AMCSERIES.ar">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20261101043000 -0500" stop="20261101050000 -0500" channel="AMCSERIES.ar">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20261101050000 -0500" stop="20261101053000 -0500" channel="AMCSERIES.ar">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20261101053000 -0500" stop="20261101060000 -0500" channel="AMCSERIES.ar">
-    <title lang="es">Planet Action</title>
   </programme>
   <programme start="20261101060000 -0500" stop="20261101063000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20261101063000 -0500" stop="20261101072000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101063000 -0500" stop="20261101070000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261101070000 -0500" stop="20261101073000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261101073000 -0500" stop="20261101080000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261101080000 -0500" stop="20261101083000 -0500" channel="AMCSERIES.ar">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20261101083000 -0500" stop="20261101092000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Ride with Norman Reedus</title>
   </programme>
-  <programme start="20261101072000 -0500" stop="20261101081000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101092000 -0500" stop="20261101101000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Ride with Norman Reedus</title>
   </programme>
-  <programme start="20261101081000 -0500" stop="20261101085500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101101000 -0500" stop="20261101105500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Ride with Norman Reedus</title>
   </programme>
-  <programme start="20261101085500 -0500" stop="20261101094500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101105500 -0500" stop="20261101114500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261101094500 -0500" stop="20261101103500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101114500 -0500" stop="20261101123500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261101103500 -0500" stop="20261101113000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101123500 -0500" stop="20261101133000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261101113000 -0500" stop="20261101122000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101133000 -0500" stop="20261101142000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261101122000 -0500" stop="20261101131000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101142000 -0500" stop="20261101151000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261101131000 -0500" stop="20261101140000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101151000 -0500" stop="20261101160000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261101140000 -0500" stop="20261101145000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101160000 -0500" stop="20261101165000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261101145000 -0500" stop="20261101154000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101165000 -0500" stop="20261101174000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261101154000 -0500" stop="20261101163000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101174000 -0500" stop="20261101183000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261101163000 -0500" stop="20261101172000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101183000 -0500" stop="20261101192000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261101172000 -0500" stop="20261101181000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101192000 -0500" stop="20261101201000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Soulmates</title>
   </programme>
-  <programme start="20261101181000 -0500" stop="20261101190500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101201000 -0500" stop="20261101210500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Lodge 49</title>
     <desc lang="es">Un ex surfista queda a la deriva tras la muerte de su padre y el colapso de la empresa familiar, ahora su vida depende de una fraternidad misteriosa.</desc>
   </programme>
-  <programme start="20261101190500 -0500" stop="20261101200000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101210500 -0500" stop="20261101220000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Lodge 49</title>
     <desc lang="es">Un ex surfista queda a la deriva tras la muerte de su padre y el colapso de la empresa familiar, ahora su vida depende de una fraternidad misteriosa.</desc>
   </programme>
-  <programme start="20261101200000 -0500" stop="20261101210000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101220000 -0500" stop="20261101230000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Terror</title>
     <desc lang="es">Un equipo de expedición de la Marina Real, en búsqueda del Paso del Noroeste es atacado por un misterioso depredador que acecha a los barcos y tripulación.</desc>
   </programme>
-  <programme start="20261101210000 -0500" stop="20261101220000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261101230000 -0500" stop="20261102000000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Terror</title>
     <desc lang="es">Un equipo de expedición de la Marina Real, en búsqueda del Paso del Noroeste es atacado por un misterioso depredador que acecha a los barcos y tripulación.</desc>
   </programme>
-  <programme start="20261101220000 -0500" stop="20261101225000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102000000 -0500" stop="20261102005000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261101225000 -0500" stop="20261101234000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102005000 -0500" stop="20261102014000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261101234000 -0500" stop="20261102004500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102014000 -0500" stop="20261102024500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dark Winds</title>
   </programme>
-  <programme start="20261102004500 -0500" stop="20261102014500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102024500 -0500" stop="20261102034500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead Dead City</title>
   </programme>
-  <programme start="20261102014500 -0500" stop="20261102025500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102034500 -0500" stop="20261102045500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Terror</title>
     <desc lang="es">Un equipo de expedición de la Marina Real, en búsqueda del Paso del Noroeste es atacado por un misterioso depredador que acecha a los barcos y tripulación.</desc>
   </programme>
-  <programme start="20261102025500 -0500" stop="20261102040000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102045500 -0500" stop="20261102060000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Terror</title>
     <desc lang="es">Un equipo de expedición de la Marina Real, en búsqueda del Paso del Noroeste es atacado por un misterioso depredador que acecha a los barcos y tripulación.</desc>
   </programme>
-  <programme start="20261102040000 -0500" stop="20261102042500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102060000 -0500" stop="20261102062500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Brockmire</title>
   </programme>
-  <programme start="20261102042500 -0500" stop="20261102045000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102062500 -0500" stop="20261102065000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Brockmire</title>
   </programme>
-  <programme start="20261102045000 -0500" stop="20261102054500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102065000 -0500" stop="20261102074500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261102054500 -0500" stop="20261102063500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102074500 -0500" stop="20261102083500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261102063500 -0500" stop="20261102072500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102083500 -0500" stop="20261102092500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261102072500 -0500" stop="20261102081500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102092500 -0500" stop="20261102101500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261102081500 -0500" stop="20261102090500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102101500 -0500" stop="20261102110500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102090500 -0500" stop="20261102095500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102110500 -0500" stop="20261102115500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102095500 -0500" stop="20261102104500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102115500 -0500" stop="20261102124500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261102104500 -0500" stop="20261102113500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102124500 -0500" stop="20261102133500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261102113500 -0500" stop="20261102122500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102133500 -0500" stop="20261102142500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261102122500 -0500" stop="20261102132000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102142500 -0500" stop="20261102152000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261102132000 -0500" stop="20261102141000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102152000 -0500" stop="20261102161000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261102141000 -0500" stop="20261102150000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102161000 -0500" stop="20261102170000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102150000 -0500" stop="20261102155000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102170000 -0500" stop="20261102175000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102155000 -0500" stop="20261102164000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102175000 -0500" stop="20261102184000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261102164000 -0500" stop="20261102173000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102184000 -0500" stop="20261102193000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261102173000 -0500" stop="20261102182000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102193000 -0500" stop="20261102202000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261102182000 -0500" stop="20261102191000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102202000 -0500" stop="20261102211000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102191000 -0500" stop="20261102200000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102211000 -0500" stop="20261102220000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261102200000 -0500" stop="20261102205000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102220000 -0500" stop="20261102225000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Rectify</title>
   </programme>
-  <programme start="20261102205000 -0500" stop="20261102214000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102225000 -0500" stop="20261102234000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Las brujas de Mayfair de Anne Rice</title>
   </programme>
-  <programme start="20261102214000 -0500" stop="20261102223500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261102234000 -0500" stop="20261103003500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261102223500 -0500" stop="20261102233000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103003500 -0500" stop="20261103013000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261102233000 -0500" stop="20261103002500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103013000 -0500" stop="20261103022500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Rectify</title>
   </programme>
-  <programme start="20261103002500 -0500" stop="20261103011500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103022500 -0500" stop="20261103031500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Las brujas de Mayfair de Anne Rice</title>
   </programme>
-  <programme start="20261103011500 -0500" stop="20261103020500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103031500 -0500" stop="20261103040500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261103020500 -0500" stop="20261103030500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103040500 -0500" stop="20261103050500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261103030500 -0500" stop="20261103040000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103050500 -0500" stop="20261103060000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261103040000 -0500" stop="20261103042500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103060000 -0500" stop="20261103062500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Brockmire</title>
   </programme>
-  <programme start="20261103042500 -0500" stop="20261103045000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103062500 -0500" stop="20261103065000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Brockmire</title>
   </programme>
-  <programme start="20261103045000 -0500" stop="20261103054500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103065000 -0500" stop="20261103074500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261103054500 -0500" stop="20261103063500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103074500 -0500" stop="20261103083500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261103063500 -0500" stop="20261103072500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103083500 -0500" stop="20261103092500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261103072500 -0500" stop="20261103081500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103092500 -0500" stop="20261103101500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261103081500 -0500" stop="20261103090500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103101500 -0500" stop="20261103110500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103090500 -0500" stop="20261103095500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103110500 -0500" stop="20261103115500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103095500 -0500" stop="20261103104500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103115500 -0500" stop="20261103124500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261103104500 -0500" stop="20261103113500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103124500 -0500" stop="20261103133500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261103113500 -0500" stop="20261103122500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103133500 -0500" stop="20261103142500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261103122500 -0500" stop="20261103132000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103142500 -0500" stop="20261103152000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261103132000 -0500" stop="20261103141000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103152000 -0500" stop="20261103161000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dispatches From Elsewhere</title>
   </programme>
-  <programme start="20261103141000 -0500" stop="20261103150000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103161000 -0500" stop="20261103170000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103150000 -0500" stop="20261103155000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103170000 -0500" stop="20261103175000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103155000 -0500" stop="20261103164000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103175000 -0500" stop="20261103184000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Crímenes reales ¿Sucedió aquí?</title>
   </programme>
-  <programme start="20261103164000 -0500" stop="20261103173000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103184000 -0500" stop="20261103193000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261103173000 -0500" stop="20261103182000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103193000 -0500" stop="20261103202000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Halt &amp; Catch Fire</title>
   </programme>
-  <programme start="20261103182000 -0500" stop="20261103191000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103202000 -0500" stop="20261103211000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103191000 -0500" stop="20261103200000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103211000 -0500" stop="20261103220000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
   </programme>
-  <programme start="20261103200000 -0500" stop="20261103205500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103220000 -0500" stop="20261103225500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dark Winds</title>
   </programme>
-  <programme start="20261103205500 -0500" stop="20261103214500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103225500 -0500" stop="20261103234500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Rectify</title>
   </programme>
-  <programme start="20261103214500 -0500" stop="20261103224000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261103234500 -0500" stop="20261104004000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261103224000 -0500" stop="20261103233000 -0500" channel="AMCSERIES.ar">
+  <programme start="20261104004000 -0500" stop="20261104013000 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
-  <programme start="20261103233000 -0500" stop="20261104002500 -0500" channel="AMCSERIES.ar">
+  <programme start="20261104013000 -0500" stop="20261104022500 -0500" channel="AMCSERIES.ar">
     <title lang="es">Dark Winds</title>
-  </programme>
-  <programme start="20261031144300 -0500" stop="20261031153200 -0500" channel="AnimalPlanet.co">
-    <title lang="es">Animales en riesgo: Miami</title>
-    <desc lang="es">Un rescate emotivo para salvar la aleta de un manatí pone un secreto al descubierto. En tierra, investigadores de crueldad animal buscan a cazadores furtivos cuyos brutales ataques nocturnos dejaron varios animales muertos y heridos.</desc>
-    <category lang="es">Temporada 16 Episodio 6 - Rescate de manatí</category>
   </programme>
   <programme start="20261031153200 -0500" stop="20261031161800 -0500" channel="AnimalPlanet.co">
     <title lang="es">Piscinas increíbles</title>
@@ -4002,11 +3996,6 @@
   <programme start="20261103184500 -0500" stop="20261103194500 -0500" channel="Atreseries.co">
     <title lang="es">Travesía</title>
   </programme>
-  <programme start="20261031142000 -0500" stop="20261031152000 -0500" channel="AXN.co">
-    <title lang="es">Criminal Minds</title>
-    <desc lang="es">La Unidad de Análisis de Conducta investiga una serie de asesinatos, que están relacionados con Aida Limited. Jade está fugitiva, tanto ella como Dana descubren una conspiración.</desc>
-    <category lang="es">Temporada 17 Episodio 9 - Estrellas y franjas</category>
-  </programme>
   <programme start="20261031152000 -0500" stop="20261031162500 -0500" channel="AXN.co">
     <title lang="es">Criminal Minds</title>
     <desc lang="es">Un nuevo miembro de la Estrella de oro, genera que las piezas del rompecabezas encajen. Mientras tanto, Prentiss corre peligro de muerte y debe enfrentarse a Jade, junto con su cómplice, para exponer la verdad.</desc>
@@ -4754,15 +4743,6 @@
   </programme>
   <programme start="20261102173000 -0500" stop="20261102193000 -0500" channel="AzMundo.co">
     <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20261031151400 -0500" stop="20261031151800 -0500" channel="BabyTV.co">
-    <title lang="es">La clase de Teeny &amp; Tiny</title>
-  </programme>
-  <programme start="20261031151800 -0500" stop="20261031152300 -0500" channel="BabyTV.co">
-    <title lang="es">La clase de Teeny &amp; Tiny</title>
-  </programme>
-  <programme start="20261031152300 -0500" stop="20261031152700 -0500" channel="BabyTV.co">
-    <title lang="es">La clase de Teeny &amp; Tiny</title>
   </programme>
   <programme start="20261031152700 -0500" stop="20261031153500 -0500" channel="BabyTV.co">
     <title lang="es">Hippa Hippa Hey</title>
@@ -8163,10 +8143,6 @@
   <programme start="20261103185800 -0500" stop="20261103190200 -0500" channel="BabyTV.co">
     <title lang="es">Cierra tus ojos</title>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="BBCWorld.co">
-    <title lang="es">BBC News</title>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="BBCWorld.co">
     <title lang="es">AI Decoded</title>
     <desc lang="es">Presenta una serie de entrevistas con expertos y ejemplos reales de IA en acción para conocer su impacto en diversas industrias y explorar los desafíos asociados a la IA y a su potencial futuro.</desc>
@@ -8957,11 +8933,6 @@
     <desc lang="es">Cobertura de las elecciones de mitad de mandato de 2026 en Estados Unidos.</desc>
     <category lang="es">- Part 2</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Bloomberg.co">
-    <title lang="es">Bloomberg Screentime</title>
-    <desc lang="es">Screentime reúne a magnates, celebridades y empresarios que definen la próxima fase de la cultura pop. En la carrera por encontrar el éxito en un panorama mediático cada vez más fracturado.</desc>
-    <category lang="es">Interés general</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Bloomberg.co">
     <title lang="es">Bloomberg Primer</title>
     <desc lang="es">Un programa que desvela la compleja jerga para revelar el negocio detrás de las tecnologías que transformarán los mercados globales. Esta serie ofrece una visión de las industrias "imposibles" que compiten por moldear nuestro futuro.</desc>
@@ -9326,11 +9297,6 @@
     <title lang="es">Election 2026 Special Coverage</title>
     <desc lang="es">Mientras los estadounidenses deciden quién controla el Congreso y emiten su veredicto político sobre el segundo mandato del presidente Trump, Bloomberg TV analiza qué significan las elecciones para Wall Street y para el mundo.</desc>
     <category lang="es">Político</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Cablenoticias.co">
-    <title lang="es">Noticias internacionales</title>
-    <desc lang="es">Con cobertura mundial, este espacio recorre los hechos más resaltantes que han ocurrido hasta el momento. Un resumen detallado que te mantiene al tanto de lo que acontece.</desc>
-    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Cablenoticias.co">
     <title lang="es">Pulso económico</title>
@@ -10403,11 +10369,6 @@
     <desc lang="es">Un espacio donde aprendemos cómo vencer las crisis y alcanzar la verdadera prosperidad a través de la fe, para poder ver las maravillas de Dios en nuestra vida.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="CanalCapital.co">
-    <title lang="es">Influenser</title>
-    <desc lang="es">Contenido que explora el mundo de los influencer, sus estrategias de marketing, la relación con las marcas, sus ganancias y qué tanto influyen en sus audiencias.</desc>
-    <category lang="es">Episodio 10 - Lucas Spot</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="CanalCapital.co">
     <title lang="es">Capitán Centella</title>
     <desc lang="es">Disfruta de las aventuras de un súper héroe enmascarado llamado Centella, el cual viste un traje de blanco con capucha blanca, unos visores como anteojos y un casco blanco con una media luna dorada al frente.</desc>
@@ -11017,11 +10978,6 @@
   <programme start="20261103183000 -0500" stop="20261103190000 -0500" channel="CanalCongreso.co">
     <title lang="es">Noticiero del Senado</title>
   </programme>
-  <programme start="20261031142000 -0500" stop="20261031153000 -0500" channel="CanaldelasEstrellas.co">
-    <title lang="es">Mita y mita</title>
-    <desc lang="es">Néstor es un cincuentón desobligado, con un matrimonio desastrozo. Justo cuando consigue que Olivia, su esposa, acepte darle el divorcio, se gana el premio mayor de la lotería.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031191500 -0500" channel="CanaldelasEstrellas.co">
     <title lang="es">Desfile del Día de Muertos</title>
     <desc lang="es">Sigue el tradicional Gran Desfile del Día de Muertos celebrado en México.</desc>
@@ -11331,11 +11287,6 @@
     <title lang="es">En punto con Enrique Acevedo</title>
     <desc lang="es">Entérate de los sucesos más relevantes de la actualidad en este segmento especial que te brinda un resumen general sobre los últimos acontecimientos ocurridos en México y el mundo.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="CanalInstitucional.co">
-    <title lang="es">Encuadre real</title>
-    <desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="CanalInstitucional.co">
     <title lang="es">El mundo al vuelo</title>
@@ -11939,11 +11890,6 @@
     <desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Los saberes del campo</title>
-    <desc lang="es">Espacio para que los televidentes tengan la posibilidad de conocer de primera mano las innovaciones en los sectores agropecuario, forestal y ambiental que se desarrollan en la Escuela ECAPMA.</desc>
-    <category lang="es">Agro</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031170000 -0500" channel="CanalTR3CE.co">
     <title lang="es">Playlist</title>
     <desc lang="es">100% de música, 100% de vídeoclipes.</desc>
@@ -12272,11 +12218,6 @@
     <title lang="es">Playlist</title>
     <desc lang="es">100% de música, 100% de vídeoclipes.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="CanalTRO.co">
-    <title lang="es">Hijos del sol</title>
-    <desc lang="es">Una producción que busca resaltar la idiosincrasia de la región del Magdalena Medio Santandereano. A través del programa, el público será parte de un viaje cultural mientras descubre comunidades, sitios, tradiciones y más.</desc>
-    <category lang="es">Episodio 7</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="CanalTRO.co">
     <title lang="es">Patrimonios vivos</title>
@@ -14944,11 +14885,6 @@
     <title lang="es">El increíble mundo de Gumball</title>
     <desc lang="es">Rocky está tratando de encontrar el amor con la ayuda de la última aplicación para citas.</desc>
     <category lang="es">Temporada 5 Episodio 9 - El deslizamiento</category>
-  </programme>
-  <programme start="20261031151300 -0500" stop="20261031152500 -0500" channel="Cartoonito.co">
-    <title lang="es">Bugs y sus amigos a la obra</title>
-    <desc lang="es">El príncipe Lionel de Inglaterra contrata a los Looney Builders para que le construyan un salón de fiestas para su cumpleaños. Pero luego se pone intenso y empieza a darle muchas órdenes al equipo.</desc>
-    <category lang="es">Temporada 1 Episodio 35 - Problemas en el castillo</category>
   </programme>
   <programme start="20261031152500 -0500" stop="20261031153600 -0500" channel="Cartoonito.co">
     <title lang="es">Bugs y sus amigos a la obra</title>
@@ -18231,11 +18167,6 @@
   <programme start="20261103181400 -0500" stop="20261103200200 -0500" channel="Cinemax.co">
     <title lang="es">La niñera mágica</title>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Citytv.co">
-    <title lang="es">Degrassi: la nueva generación</title>
-    <desc lang="es">Serie adolescente que trata sobre las alegrías y problemas de sus jovenes protagonistas en su entorno familiar y escolar. La serie trata en forma entretenida y cotidiana temas propios de los adolescentes de una forma bastante madura.</desc>
-    <category lang="es">Drama</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031173000 -0500" channel="Citytv.co">
     <title lang="es">La leyenda del dragón</title>
     <desc lang="es">Al ser elegido como el nuevo Dragón Dorado, el joven Ang desata el despecho de su hermana gemela Ling. Rechazada, ella sucumbe al poder del Dragón de las Sombras, obligando a Ang a enfrentarse a su propia familia para salvar el mundo.</desc>
@@ -18730,11 +18661,6 @@
     <desc lang="es">Corresponsales africanos, junto a Isha Sesay en Atlanta, les traen a los televidentes reportajes especiales con los innovadores y líderes del pensamiento que están haciendo cosas resaltantes en África y en la escena mundial.</desc>
     <category lang="es">Episodio 237 - Funke Akindele</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="CNNenEspanol.co">
-    <title lang="es">Globo economía</title>
-    <desc lang="es">Brinda una perspectiva nueva de las tendencias que forjan el mundo financiero. Este programa, producido en Madrid, examina los eventos, anuncios y negociaciones europeas, estadounidenses y asiáticas, y su impacto en las Américas.</desc>
-    <category lang="es">Economía</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031154500 -0500" channel="CNNenEspanol.co">
     <title lang="es">El mundo maravilloso de Quest</title>
     <desc lang="es">Richard Quest irá explorando nuestro increíble planeta de a una ciudad a la vez para cavar profundamente en el ADN de cada lugar. El objetivo de este espacio es encontrar la esencia de cada destino.</desc>
@@ -19213,11 +19139,6 @@
     <title lang="es">Noche electoral en Estados Unidos</title>
     <desc lang="es">Mira la cobertura de las elecciones de medio término del 2026 en Estados Unidos.</desc>
     <category lang="es">Político</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031152500 -0500" channel="ComedyCentral.co">
-    <title lang="es">Frasier</title>
-    <desc lang="es">Daphne sufre por celos cuando se entera de que una de los pacientes de Niles está enamorado de él. Frasier y Martin van al extremo para atrapar un grillo escondido en el apartamento.</desc>
-    <category lang="es">Temporada 9 Episodio 3 - La primera tentación de Daphne</category>
   </programme>
   <programme start="20261031152500 -0500" stop="20261031155000 -0500" channel="ComedyCentral.co">
     <title lang="es">Frasier</title>
@@ -21233,9 +21154,6 @@
     <desc lang="es">La historia gira en torno a Rachel, un ama de casa con una vida muy aburrida, que cansada de la monotonía decide probar cosas nuevas. Rachel visita un club de estríper y conoce a Mckenna, una joven a quien adopta como niñera interna.</desc>
     <category lang="es">Afternoon DelightComedia / 2013 / 5.8</category>
   </programme>
-  <programme start="20261031143200 -0500" stop="20261031152100 -0500" channel="Discovery.co">
-    <title lang="es">Supervivencia al desnudo</title>
-  </programme>
   <programme start="20261031152100 -0500" stop="20261031161000 -0500" channel="Discovery.co">
     <title lang="es">Máxima seguridad cárceles extremas</title>
   </programme>
@@ -21884,142 +21802,140 @@
     <desc lang="es">Un pueblerino y una sobreviviente militar se encuentran en Colombia, en las selvas montañosas, y deberán sobrevivir durante 21 días.</desc>
     <category lang="es">Temporada 4 Episodio 15 - Colapso en la montaña</category>
   </programme>
-  <programme start="20261031141900 -0500" stop="20261031155900 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031144200 -0500" stop="20261031161900 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261031155900 -0500" stop="20261031173900 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031161900 -0500" stop="20261031175900 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261031173900 -0500" stop="20261031191800 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031175900 -0500" stop="20261031193900 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261031191800 -0500" stop="20261031203000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031193900 -0500" stop="20261031211800 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261031203000 -0500" stop="20261031221000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031211800 -0500" stop="20261031223000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261031221000 -0500" stop="20261031230000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261031223000 -0500" stop="20261101001000 -0500" channel="DiscoveryHome&amp;Health.co">
+    <title lang="es">Masterchef Colombia Celebrity</title>
+  </programme>
+  <programme start="20261101001000 -0500" stop="20261101010000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dos mundos, un desafío</title>
   </programme>
-  <programme start="20261031230000 -0500" stop="20261031234600 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261101010000 -0500" stop="20261101014600 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dos mundos, un desafío</title>
   </programme>
-  <programme start="20261031234600 -0500" stop="20261101003200 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261101014600 -0500" stop="20261101023200 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dra. Sandra Lee especialista en piel</title>
   </programme>
-  <programme start="20261101003200 -0500" stop="20261101011800 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261101023200 -0500" stop="20261101031800 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dra. Sandra Lee especialista en piel</title>
   </programme>
-  <programme start="20261101011800 -0500" stop="20261102010400 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261101031800 -0500" stop="20261102030400 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dra. Sandra Lee especialista en piel</title>
   </programme>
-  <programme start="20261101230800 -0500" stop="20261102004100 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102010800 -0500" stop="20261102024100 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales sus vidas hoy</title>
   </programme>
-  <programme start="20261102004100 -0500" stop="20261102021400 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102024100 -0500" stop="20261102041400 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales sus vidas hoy</title>
   </programme>
-  <programme start="20261102010400 -0500" stop="20261102015000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102030400 -0500" stop="20261102035000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Madres adolescentes</title>
   </programme>
-  <programme start="20261102015000 -0500" stop="20261102023600 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102035000 -0500" stop="20261102043600 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Madres adolescentes</title>
   </programme>
-  <programme start="20261102021400 -0500" stop="20261102030000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102041400 -0500" stop="20261102050000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales las hermanas Slaton</title>
   </programme>
-  <programme start="20261102023600 -0500" stop="20261102030000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102043600 -0500" stop="20261102050000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Cake Boss</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102032500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102050000 -0500" stop="20261102052500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Rescatando propiedades Atlanta</title>
   </programme>
-  <programme start="20261102032500 -0500" stop="20261102041500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102052500 -0500" stop="20261102061500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Historias de peso clínica de obesidad</title>
   </programme>
-  <programme start="20261102041500 -0500" stop="20261102050500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102061500 -0500" stop="20261102070500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Renovación facial</title>
   </programme>
-  <programme start="20261102050500 -0500" stop="20261102055500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102070500 -0500" stop="20261102075500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Renovación facial</title>
   </programme>
-  <programme start="20261102054900 -0500" stop="20261102072400 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102074900 -0500" stop="20261102092400 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales sus vidas hoy</title>
   </programme>
-  <programme start="20261102055500 -0500" stop="20261102064500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102075500 -0500" stop="20261102084500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Historias de peso clínica de obesidad</title>
   </programme>
-  <programme start="20261102064500 -0500" stop="20261102073600 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102084500 -0500" stop="20261102093600 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Historias de peso clínica de obesidad</title>
   </programme>
-  <programme start="20261102072400 -0500" stop="20261102090000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102092400 -0500" stop="20261102110000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales</title>
   </programme>
-  <programme start="20261102073600 -0500" stop="20261102082700 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102093600 -0500" stop="20261102102700 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Historias de peso clínica de obesidad</title>
   </programme>
-  <programme start="20261102082700 -0500" stop="20261102091800 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102102700 -0500" stop="20261102111800 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dra. Sandra Lee Directo al grano</title>
   </programme>
-  <programme start="20261102090000 -0500" stop="20261102104000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102110000 -0500" stop="20261102124000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales</title>
   </programme>
-  <programme start="20261102091800 -0500" stop="20261102100900 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102111800 -0500" stop="20261102120900 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Dra. Sandra Lee Directo al grano</title>
   </programme>
-  <programme start="20261102100900 -0500" stop="20261102115100 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102120900 -0500" stop="20261102135100 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Masterchef Colombia Celebrity</title>
   </programme>
-  <programme start="20261102104000 -0500" stop="20261102122000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102124000 -0500" stop="20261102142000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales</title>
   </programme>
-  <programme start="20261102115100 -0500" stop="20261102124200 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102135100 -0500" stop="20261102144200 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Prótesis increíbles</title>
   </programme>
-  <programme start="20261102122000 -0500" stop="20261102140000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102142000 -0500" stop="20261102160000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales</title>
   </programme>
-  <programme start="20261102124200 -0500" stop="20261102133300 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102144200 -0500" stop="20261102153300 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Prótesis increíbles</title>
   </programme>
-  <programme start="20261102133300 -0500" stop="20261102142400 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102153300 -0500" stop="20261102162400 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Corrige mi cirugía</title>
   </programme>
-  <programme start="20261102140000 -0500" stop="20261102154000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102160000 -0500" stop="20261102174000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales sus vidas hoy</title>
   </programme>
-  <programme start="20261102142400 -0500" stop="20261102151500 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102162400 -0500" stop="20261102171500 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Corrige mi cirugía</title>
   </programme>
-  <programme start="20261102151500 -0500" stop="20261102154000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102171500 -0500" stop="20261102174000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Carol Brandão la reina del bisturí</title>
   </programme>
-  <programme start="20261102154000 -0500" stop="20261102160600 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102174000 -0500" stop="20261102180600 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Carol Brandão la reina del bisturí</title>
   </programme>
-  <programme start="20261102172000 -0500" stop="20261102190000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102192000 -0500" stop="20261102210000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales sus vidas hoy</title>
   </programme>
-  <programme start="20261102190000 -0500" stop="20261102195000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102210000 -0500" stop="20261102215000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Kilos mortales Roomies</title>
   </programme>
-  <programme start="20261102195000 -0500" stop="20261102204000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102215000 -0500" stop="20261102224000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Una gran oportunidad</title>
   </programme>
-  <programme start="20261102204000 -0500" stop="20261102213000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102224000 -0500" stop="20261102233000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Una gran oportunidad</title>
   </programme>
-  <programme start="20261102213000 -0500" stop="20261102222000 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261102233000 -0500" stop="20261103002000 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Una gran oportunidad</title>
   </programme>
-  <programme start="20261102222000 -0500" stop="20261102230800 -0500" channel="DiscoveryHome&amp;Health.co">
+  <programme start="20261103002000 -0500" stop="20261103010800 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Todo en 90 días casados en el extranjero</title>
-  </programme>
-  <programme start="20261031145800 -0500" stop="20261031152300 -0500" channel="DiscoveryKids.co">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Peppa y sus amigos salen en busca de huevos de Pascua en la casa de la conejita Rebecca. ¿Podrán encontrar todos los huevos de chocolate?</desc>
-    <category lang="es">Temporada 7 Episodio 11 - El conejito de Pascua</category>
   </programme>
   <programme start="20261031152300 -0500" stop="20261031154800 -0500" channel="DiscoveryKids.co">
     <title lang="es">Peppa Pig</title>
@@ -23747,11 +23663,6 @@
   <programme start="20261102233600 -0500" stop="20261103002400 -0500" channel="DiscoveryScience.co">
     <title lang="es">Expedición X</title>
   </programme>
-  <programme start="20261031143600 -0500" stop="20261031152500 -0500" channel="DiscoveryTurbo.co">
-    <title lang="es">Texas Metal</title>
-    <desc lang="es">Bill sabe muy bien que las familias son fundamentales en el área de los camiones personalizados. Un cliente quiere transformar un Ford Falcon Club Wagon de 1965 en un vehículo familiar personalizado.</desc>
-    <category lang="es">Temporada 3 Episodio 4 - El Falcon familiar</category>
-  </programme>
   <programme start="20261031152500 -0500" stop="20261031161000 -0500" channel="DiscoveryTurbo.co">
     <title lang="es">Mexicánicos</title>
     <desc lang="es">Martín y su equipo deben restaurar y personalizar una combi para el legendario músico Fher Olvera, recreando la que Maná usaba en sus primeros tiempos.</desc>
@@ -24632,11 +24543,6 @@
   <programme start="20261102184800 -0500" stop="20261102191200 -0500" channel="DiscoveryWorld.co">
     <title lang="es">Fanáticos de los viajes</title>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031152700 -0500" channel="DisneyChannel.co">
-    <title lang="es">Los Green en la gran ciudad</title>
-    <desc lang="es">Bill debe arreglar las cosas cuando parece que su Kludge está poseído por una fuerza malévola. / Cuando las bromas de Halloween de Cricket van demasiado lejos, es acosado por un vengativo espantapájaros.</desc>
-    <category lang="es">Temporada 5 Episodio 6 - Killer Kludge / Tricked</category>
-  </programme>
   <programme start="20261031152700 -0500" stop="20261031155700 -0500" channel="DisneyChannel.co">
     <title lang="es">Phineas y Ferb</title>
     <desc lang="es">Candace le pone a mamá un disfraz de Candace con la esperanza de que por fin vea el invento de los chicos. Stacy asume el papel de agente de la OWCA para rescatar a Perry de unos malvados científicos.</desc>
@@ -25431,11 +25337,6 @@
     <title lang="es">The Owl House - La Casa Búho</title>
     <desc lang="es">Hooty intenta ayudar a King, Eda y Luz con sus problemas, pero no sale según lo planeado.</desc>
     <category lang="es">Temporada 2 Episodio 8 - Toc, toc, tocando la puerta de Hooty</category>
-  </programme>
-  <programme start="20261031145900 -0500" stop="20261031153000 -0500" channel="DisneyJunior.co">
-    <title lang="es">Princesita Sofía</title>
-    <desc lang="es">Mientras todos se preparan para una fiesta de Halloween en el salón de baile, Sofía se encuentra con un fantasma que busca asustar y echar a todos del palacio para hacer su propia gala fantasma.</desc>
-    <category lang="es">Temporada 2 Episodio 13 - La reunión fantasma</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="DisneyJunior.co">
     <title lang="es">Puppy Dog Pals</title>
@@ -26367,9 +26268,6 @@
     <desc lang="es">La Princesa Vivian está molesta porque su familia se muda a un nuevo castillo y recluta a los duendecillos amigos de Sofía para que la ayuden a sabotear la mudanza haciendo que parezca que el nuevo castillo está maldito.</desc>
     <category lang="es">Temporada 3 Episodio 10 - Duendecillos invasores</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031152500 -0500" channel="DSports.co">
-    <title lang="es">Simplemente Diego: La última función</title>
-  </programme>
   <programme start="20261031152500 -0500" stop="20261031173000 -0500" channel="DSports.co">
     <title lang="es">FC Porto vs. Estoril Praia</title>
   </programme>
@@ -26537,9 +26435,6 @@
   </programme>
   <programme start="20261103180000 -0500" stop="20261103190000 -0500" channel="DSports.co">
     <title lang="es">El juego</title>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="DSports2.co">
-    <title lang="es">Manu Ginóbili</title>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="DSports2.co">
     <title lang="es">Simplemente Diego: La última función</title>
@@ -27015,9 +26910,6 @@
     <title lang="es">Deutsche Welle</title>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261031144000 -0500" stop="20261031153000 -0500" channel="E!.co">
-    <title lang="es">Decisiones desafortunadas</title>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031162000 -0500" channel="E!.co">
     <title lang="es">Puedes llamarme Al...berto</title>
   </programme>
@@ -27281,11 +27173,6 @@
   </programme>
   <programme start="20261103185000 -0500" stop="20261103194000 -0500" channel="E!.co">
     <title lang="es">Un estado mental de zona elegante de Nueva York</title>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="ElGourmet.co">
-    <title lang="es">Hermana Verónica</title>
-    <desc lang="es">La cocina se llena con la visita de los alumnos de la hermana Verónica. Entonces, con motivo de agasajarlos, comparte un dip de garbanzo, un aromático pan de ajo, unas hamburguesas caseras y un riquísimo postre de tapioca.</desc>
-    <category lang="es">Temporada 1 Episodio 5 - Dip de garbanzos</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="ElGourmet.co">
     <title lang="es">Destino México</title>
@@ -28062,11 +27949,6 @@
     <desc lang="es">Encontramos tres propuestas diferentes: los chilaquiles, siempre presentes en el desayuno mexicano, una pizza picante que fusiona sabores de otro continente y una propuesta tradicional mexicana, con bichos y tuétano.</desc>
     <category lang="es">Temporada 1 Episodio 1 - Chilaquiles</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="ElTiempoTelevision.co">
-    <title lang="es">Rollos de Fili</title>
-    <desc lang="es">Esta crónica documental ha hecho. a través de los años, un extenso recorrido por los lugares más emblemáticos de Colombia, mostrando su riqueza cultural y natural.</desc>
-    <category lang="es">Documental</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="ElTiempoTelevision.co">
     <title lang="es">Mucho animal</title>
     <desc lang="es">Este ciclo tiene como objetivo debatir e informar sobre el rol de las mascotas en la vida de los humanos, no sólo de los perros y los gatos, sino también incluir a los caballos, loros, tortugas y muchos más.</desc>
@@ -28516,11 +28398,6 @@
     <title lang="es">Rollos de Fili</title>
     <desc lang="es">Esta crónica documental ha hecho. a través de los años, un extenso recorrido por los lugares más emblemáticos de Colombia, mostrando su riqueza cultural y natural.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Enlace.co">
-    <title lang="es">Amarás a Israel</title>
-    <desc lang="es">El propósito de esta institución es proporcionar enseñanzas basadas en la Biblia con un énfasis en el contexto judío de las Escrituras.</desc>
-    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Enlace.co">
     <title lang="es">Viviendo sin límites</title>
@@ -31097,193 +30974,193 @@
   <programme start="20261103183000 -0500" stop="20261103193000 -0500" channel="ESPN3.co">
     <title lang="es">ATP Masters 1000: Rolex Shanghai Masters, final</title>
   </programme>
-  <programme start="20261031124500 -0500" stop="20261031153000 -0500" channel="ESPN4.co">
+  <programme start="20261031144500 -0500" stop="20261031173000 -0500" channel="ESPN4.co">
     <title lang="es">San Isidro vs. Hindú</title>
   </programme>
-  <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="ESPN4.co">
+  <programme start="20261031173000 -0500" stop="20261031180000 -0500" channel="ESPN4.co">
     <title lang="es">Carabao Cup Highlights</title>
   </programme>
-  <programme start="20261031160000 -0500" stop="20261031180000 -0500" channel="ESPN4.co">
+  <programme start="20261031180000 -0500" stop="20261031200000 -0500" channel="ESPN4.co">
     <title lang="es">Udinese vs. Roma</title>
   </programme>
-  <programme start="20261031180000 -0500" stop="20261031190000 -0500" channel="ESPN4.co">
+  <programme start="20261031200000 -0500" stop="20261031210000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261031190000 -0500" stop="20261031200000 -0500" channel="ESPN4.co">
+  <programme start="20261031210000 -0500" stop="20261031220000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261031200000 -0500" stop="20261031211500 -0500" channel="ESPN4.co">
+  <programme start="20261031220000 -0500" stop="20261031231500 -0500" channel="ESPN4.co">
     <title lang="es">Horse Racing</title>
   </programme>
-  <programme start="20261031211500 -0500" stop="20261031213000 -0500" channel="ESPN4.co">
+  <programme start="20261031231500 -0500" stop="20261031233000 -0500" channel="ESPN4.co">
     <title lang="es">Futbol Internacional</title>
   </programme>
-  <programme start="20261031213000 -0500" stop="20261031220000 -0500" channel="ESPN4.co">
+  <programme start="20261031233000 -0500" stop="20261101000000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261031220000 -0500" stop="20261031230000 -0500" channel="ESPN4.co">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20261031230000 -0500" stop="20261101000000 -0500" channel="ESPN4.co">
-    <title lang="es">ESPN Compact</title>
-  </programme>
   <programme start="20261101000000 -0500" stop="20261101010000 -0500" channel="ESPN4.co">
-    <title lang="es">Golf</title>
+    <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20261101010000 -0500" stop="20261101020000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261101020000 -0500" stop="20261101023000 -0500" channel="ESPN4.co">
+  <programme start="20261101020000 -0500" stop="20261101030000 -0500" channel="ESPN4.co">
+    <title lang="es">Golf</title>
+  </programme>
+  <programme start="20261101030000 -0500" stop="20261101040000 -0500" channel="ESPN4.co">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+  <programme start="20261101040000 -0500" stop="20261101043000 -0500" channel="ESPN4.co">
     <title lang="es">Acción de la NBA</title>
   </programme>
-  <programme start="20261101023000 -0500" stop="20261101030000 -0500" channel="ESPN4.co">
+  <programme start="20261101043000 -0500" stop="20261101050000 -0500" channel="ESPN4.co">
     <title lang="es">ATP Tour Uncovered</title>
   </programme>
-  <programme start="20261101030000 -0500" stop="20261101050000 -0500" channel="ESPN4.co">
+  <programme start="20261101050000 -0500" stop="20261101070000 -0500" channel="ESPN4.co">
     <title lang="es">Polo</title>
   </programme>
-  <programme start="20261101050000 -0500" stop="20261101053000 -0500" channel="ESPN4.co">
+  <programme start="20261101070000 -0500" stop="20261101073000 -0500" channel="ESPN4.co">
     <title lang="es">Carabao Cup Highlights</title>
   </programme>
-  <programme start="20261101053000 -0500" stop="20261101060000 -0500" channel="ESPN4.co">
+  <programme start="20261101073000 -0500" stop="20261101080000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Women_s Champions League Highlight Show</title>
   </programme>
-  <programme start="20261101060000 -0500" stop="20261101063000 -0500" channel="ESPN4.co">
+  <programme start="20261101080000 -0500" stop="20261101083000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261101063000 -0500" stop="20261101083000 -0500" channel="ESPN4.co">
+  <programme start="20261101083000 -0500" stop="20261101103000 -0500" channel="ESPN4.co">
     <title lang="es">Tenis ATP Erste Bank Open 2026</title>
   </programme>
-  <programme start="20261101083000 -0500" stop="20261101085000 -0500" channel="ESPN4.co">
+  <programme start="20261101103000 -0500" stop="20261101105000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Polo</title>
   </programme>
-  <programme start="20261101085000 -0500" stop="20261101110000 -0500" channel="ESPN4.co">
+  <programme start="20261101105000 -0500" stop="20261101130000 -0500" channel="ESPN4.co">
     <title lang="es">Polo</title>
   </programme>
-  <programme start="20261101110000 -0500" stop="20261101163000 -0500" channel="ESPN4.co">
+  <programme start="20261101130000 -0500" stop="20261101183000 -0500" channel="ESPN4.co">
     <title lang="es">NFL Redzone</title>
   </programme>
-  <programme start="20261101163000 -0500" stop="20261101183000 -0500" channel="ESPN4.co">
+  <programme start="20261101183000 -0500" stop="20261101203000 -0500" channel="ESPN4.co">
     <title lang="es">Polo</title>
   </programme>
-  <programme start="20261101183000 -0500" stop="20261101203000 -0500" channel="ESPN4.co">
+  <programme start="20261101203000 -0500" stop="20261101223000 -0500" channel="ESPN4.co">
     <title lang="es">Elche vs. Valencia</title>
   </programme>
-  <programme start="20261101203000 -0500" stop="20261101210000 -0500" channel="ESPN4.co">
+  <programme start="20261101223000 -0500" stop="20261101230000 -0500" channel="ESPN4.co">
     <title lang="es">Carabao Cup Highlights</title>
   </programme>
-  <programme start="20261101210000 -0500" stop="20261101230000 -0500" channel="ESPN4.co">
+  <programme start="20261101230000 -0500" stop="20261102010000 -0500" channel="ESPN4.co">
     <title lang="es">Liverpool vs. Arsenal</title>
   </programme>
-  <programme start="20261101230000 -0500" stop="20261102020000 -0500" channel="ESPN4.co">
+  <programme start="20261102010000 -0500" stop="20261102040000 -0500" channel="ESPN4.co">
     <title lang="es">Philadelphia Eagles vs. Washington Commanders</title>
   </programme>
-  <programme start="20261102020000 -0500" stop="20261102030000 -0500" channel="ESPN4.co">
+  <programme start="20261102040000 -0500" stop="20261102050000 -0500" channel="ESPN4.co">
     <title lang="es">Scrum</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102033000 -0500" channel="ESPN4.co">
+  <programme start="20261102050000 -0500" stop="20261102053000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Women_s Champions League Highlight Show</title>
   </programme>
-  <programme start="20261102033000 -0500" stop="20261102043000 -0500" channel="ESPN4.co">
+  <programme start="20261102053000 -0500" stop="20261102063000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261102043000 -0500" stop="20261102053000 -0500" channel="ESPN4.co">
+  <programme start="20261102063000 -0500" stop="20261102073000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261102053000 -0500" stop="20261102074500 -0500" channel="ESPN4.co">
+  <programme start="20261102073000 -0500" stop="20261102094500 -0500" channel="ESPN4.co">
     <title lang="es">Pakhtakor Tashkent vs. Al Nassr</title>
   </programme>
-  <programme start="20261102074500 -0500" stop="20261102094800 -0500" channel="ESPN4.co">
+  <programme start="20261102094500 -0500" stop="20261102114800 -0500" channel="ESPN4.co">
     <title lang="es">Newman vs. Alumni</title>
   </programme>
-  <programme start="20261102094800 -0500" stop="20261102115000 -0500" channel="ESPN4.co">
+  <programme start="20261102114800 -0500" stop="20261102135000 -0500" channel="ESPN4.co">
     <title lang="es">San Isidro vs. Hindú</title>
   </programme>
-  <programme start="20261102115000 -0500" stop="20261102140000 -0500" channel="ESPN4.co">
+  <programme start="20261102135000 -0500" stop="20261102160000 -0500" channel="ESPN4.co">
     <title lang="es">Deportivo La Coruña vs. Osasuna</title>
   </programme>
-  <programme start="20261102140000 -0500" stop="20261102160000 -0500" channel="ESPN4.co">
+  <programme start="20261102160000 -0500" stop="20261102180000 -0500" channel="ESPN4.co">
     <title lang="es">Sassuolo vs. Fiorentina</title>
   </programme>
-  <programme start="20261102160000 -0500" stop="20261102180000 -0500" channel="ESPN4.co">
+  <programme start="20261102180000 -0500" stop="20261102200000 -0500" channel="ESPN4.co">
     <title lang="es">Pakhtakor Tashkent vs. Al Nassr</title>
   </programme>
-  <programme start="20261102180000 -0500" stop="20261102190000 -0500" channel="ESPN4.co">
-    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
-  </programme>
-  <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="ESPN4.co">
-    <title lang="es">ESPN Compact</title>
-  </programme>
   <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="ESPN4.co">
-    <title lang="es">ESPN Compact</title>
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
   </programme>
   <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20261102220000 -0500" stop="20261102230000 -0500" channel="ESPN4.co">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+  <programme start="20261102230000 -0500" stop="20261103000000 -0500" channel="ESPN4.co">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+  <programme start="20261103000000 -0500" stop="20261103010000 -0500" channel="ESPN4.co">
     <title lang="es">Equipo Scrum</title>
   </programme>
-  <programme start="20261102230000 -0500" stop="20261103020000 -0500" channel="ESPN4.co">
+  <programme start="20261103010000 -0500" stop="20261103040000 -0500" channel="ESPN4.co">
     <title lang="es">Chicago Bears vs. Seattle Seahawks</title>
   </programme>
-  <programme start="20261103020000 -0500" stop="20261103040000 -0500" channel="ESPN4.co">
+  <programme start="20261103040000 -0500" stop="20261103060000 -0500" channel="ESPN4.co">
     <title lang="es">Newman vs. Alumni</title>
   </programme>
-  <programme start="20261103040000 -0500" stop="20261103060000 -0500" channel="ESPN4.co">
+  <programme start="20261103060000 -0500" stop="20261103080000 -0500" channel="ESPN4.co">
     <title lang="es">San Isidro vs. Hindú</title>
   </programme>
-  <programme start="20261103060000 -0500" stop="20261103070000 -0500" channel="ESPN4.co">
+  <programme start="20261103080000 -0500" stop="20261103090000 -0500" channel="ESPN4.co">
     <title lang="es">Equipo Scrum</title>
   </programme>
-  <programme start="20261103070000 -0500" stop="20261103090000 -0500" channel="ESPN4.co">
+  <programme start="20261103090000 -0500" stop="20261103110000 -0500" channel="ESPN4.co">
     <title lang="es">Pakhtakor Tashkent vs. Al Nassr</title>
   </programme>
-  <programme start="20261103090000 -0500" stop="20261103100000 -0500" channel="ESPN4.co">
+  <programme start="20261103110000 -0500" stop="20261103120000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261103100000 -0500" stop="20261103101000 -0500" channel="ESPN4.co">
+  <programme start="20261103120000 -0500" stop="20261103121000 -0500" channel="ESPN4.co">
     <title lang="es">Futbol Internacional</title>
   </programme>
-  <programme start="20261103101000 -0500" stop="20261103104000 -0500" channel="ESPN4.co">
+  <programme start="20261103121000 -0500" stop="20261103124000 -0500" channel="ESPN4.co">
     <title lang="es">Fútbol LaLiga</title>
   </programme>
-  <programme start="20261103104000 -0500" stop="20261103114000 -0500" channel="ESPN4.co">
+  <programme start="20261103124000 -0500" stop="20261103134000 -0500" channel="ESPN4.co">
     <title lang="es">Italian Serie A Highlights</title>
   </programme>
-  <programme start="20261103114000 -0500" stop="20261103140000 -0500" channel="ESPN4.co">
+  <programme start="20261103134000 -0500" stop="20261103160000 -0500" channel="ESPN4.co">
     <title lang="es">Bodø/Glimt vs. Lille</title>
   </programme>
-  <programme start="20261103140000 -0500" stop="20261103150000 -0500" channel="ESPN4.co">
+  <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261103150000 -0500" stop="20261103153000 -0500" channel="ESPN4.co">
+  <programme start="20261103170000 -0500" stop="20261103173000 -0500" channel="ESPN4.co">
     <title lang="es">UEFA Women_s Champions League Highlight Show</title>
   </programme>
-  <programme start="20261103153000 -0500" stop="20261103160000 -0500" channel="ESPN4.co">
+  <programme start="20261103173000 -0500" stop="20261103180000 -0500" channel="ESPN4.co">
     <title lang="es">FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="ESPN4.co">
+  <programme start="20261103180000 -0500" stop="20261103190000 -0500" channel="ESPN4.co">
     <title lang="es">Campeonato Mundial de MotoGP</title>
   </programme>
-  <programme start="20261103170000 -0500" stop="20261103180000 -0500" channel="ESPN4.co">
+  <programme start="20261103190000 -0500" stop="20261103200000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261103180000 -0500" stop="20261103183000 -0500" channel="ESPN4.co">
+  <programme start="20261103200000 -0500" stop="20261103203000 -0500" channel="ESPN4.co">
     <title lang="es">FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261103183000 -0500" stop="20261103190000 -0500" channel="ESPN4.co">
+  <programme start="20261103203000 -0500" stop="20261103210000 -0500" channel="ESPN4.co">
     <title lang="es">Golf</title>
   </programme>
-  <programme start="20261103190000 -0500" stop="20261103210000 -0500" channel="ESPN4.co">
+  <programme start="20261103210000 -0500" stop="20261103230000 -0500" channel="ESPN4.co">
     <title lang="es">Manchester United vs. Roma</title>
   </programme>
-  <programme start="20261103210000 -0500" stop="20261103220000 -0500" channel="ESPN4.co">
+  <programme start="20261103230000 -0500" stop="20261104000000 -0500" channel="ESPN4.co">
     <title lang="es">NFL Semanal</title>
   </programme>
-  <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="ESPN4.co">
+  <programme start="20261104000000 -0500" stop="20261104010000 -0500" channel="ESPN4.co">
     <title lang="es">Goles de la Premier League</title>
   </programme>
-  <programme start="20261103230000 -0500" stop="20261104010000 -0500" channel="ESPN4.co">
+  <programme start="20261104010000 -0500" stop="20261104030000 -0500" channel="ESPN4.co">
     <title lang="es">Shakhtar Donetsk vs. Sporting CP</title>
   </programme>
   <programme start="20261031135500 -0500" stop="20261031180000 -0500" channel="ESPN5.co">
@@ -31751,163 +31628,175 @@
   <programme start="20261103170000 -0500" stop="20261103190000 -0500" channel="ESPN7.co">
     <title lang="es">Shakhtar Donetsk vs. Sporting Club de Portugal</title>
   </programme>
-  <programme start="20261031151500 -0500" stop="20261031171000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261031143500 -0500" stop="20261031153400 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Campeonato mundial de MotoGP</title>
+  </programme>
+  <programme start="20261031153400 -0500" stop="20261031155500 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Tales of Valentino</title>
+  </programme>
+  <programme start="20261031155500 -0500" stop="20261031170000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261031170000 -0500" stop="20261031171500 -0500" channel="ESPNPremium.cl">
+    <title lang="es">ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261031171500 -0500" stop="20261031191000 -0500" channel="ESPNPremium.cl">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20261031171000 -0500" stop="20261031190500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261031191000 -0500" stop="20261031210500 -0500" channel="ESPNPremium.cl">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20261031190500 -0500" stop="20261031193500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261031210500 -0500" stop="20261031213500 -0500" channel="ESPNPremium.cl">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261031193500 -0500" stop="20261031200500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261031213500 -0500" stop="20261031220500 -0500" channel="ESPNPremium.cl">
     <title lang="es">El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261031200500 -0500" stop="20261031223000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261031220500 -0500" stop="20261101003000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Bayer Leverkusen vs. Stuttgart</title>
   </programme>
-  <programme start="20261031223000 -0500" stop="20261101004000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101003000 -0500" stop="20261101024000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261101004000 -0500" stop="20261101010000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101024000 -0500" stop="20261101030000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261101010000 -0500" stop="20261101025500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101030000 -0500" stop="20261101045500 -0500" channel="ESPNPremium.cl">
     <title lang="es">Golf</title>
   </programme>
-  <programme start="20261101025500 -0500" stop="20261101032500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101045500 -0500" stop="20261101052500 -0500" channel="ESPNPremium.cl">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261101032500 -0500" stop="20261101052000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101052500 -0500" stop="20261101072000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Bayer Leverkusen vs. Stuttgart</title>
   </programme>
-  <programme start="20261101052000 -0500" stop="20261101062000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101072000 -0500" stop="20261101082000 -0500" channel="ESPNPremium.cl">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261101062000 -0500" stop="20261101083000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101082000 -0500" stop="20261101103000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Futbol Bundesliga</title>
   </programme>
-  <programme start="20261101083000 -0500" stop="20261101085800 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101103000 -0500" stop="20261101105800 -0500" channel="ESPNPremium.cl">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261101085800 -0500" stop="20261101092500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101105800 -0500" stop="20261101112500 -0500" channel="ESPNPremium.cl">
     <title lang="es">El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261101092500 -0500" stop="20261101103500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101112500 -0500" stop="20261101123500 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261101103500 -0500" stop="20261101115500 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101123500 -0500" stop="20261101135500 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261101115500 -0500" stop="20261101140000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101135500 -0500" stop="20261101160000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261101140000 -0500" stop="20261101150000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261101160000 -0500" stop="20261101170000 -0500" channel="ESPNPremium.cl">
     <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20261101150000 -0500" stop="20261101170000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Union Berlin vs. Colonia</title>
   </programme>
   <programme start="20261101170000 -0500" stop="20261101190000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Palmeiras vs. Fluminense</title>
+    <title lang="es">Union Berlin vs. Colonia</title>
   </programme>
   <programme start="20261101190000 -0500" stop="20261101210000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Flamengo vs. Estudiantes de La Plata</title>
+    <title lang="es">Palmeiras vs. Fluminense</title>
   </programme>
   <programme start="20261101210000 -0500" stop="20261101230000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Flamengo vs. Estudiantes de La Plata</title>
+  </programme>
+  <programme start="20261101230000 -0500" stop="20261102010000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261102000000 -0500" stop="20261102003000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102020000 -0500" stop="20261102023000 -0500" channel="ESPNPremium.cl">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261102003000 -0500" stop="20261102010000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102023000 -0500" stop="20261102030000 -0500" channel="ESPNPremium.cl">
     <title lang="es">El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261102010000 -0500" stop="20261102025000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102030000 -0500" stop="20261102045000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Boca Juniors Vs. River Plate</title>
   </programme>
-  <programme start="20261102025000 -0500" stop="20261102030000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102045000 -0500" stop="20261102050000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Futbol Internacional</title>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102050000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Futbol Bundesliga</title>
   </programme>
   <programme start="20261102050000 -0500" stop="20261102070000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">ESPN Knockout</title>
+    <title lang="es">Futbol Bundesliga</title>
   </programme>
   <programme start="20261102070000 -0500" stop="20261102090000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20261102090000 -0500" stop="20261102105000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Boca Juniors Vs. River Plate</title>
-  </programme>
-  <programme start="20261102105000 -0500" stop="20261102110000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Futbol Internacional</title>
-  </programme>
-  <programme start="20261102110000 -0500" stop="20261102120000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
-  </programme>
-  <programme start="20261102120000 -0500" stop="20261102140000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Futbol Bundesliga</title>
-  </programme>
-  <programme start="20261102140000 -0500" stop="20261102160000 -0500" channel="ESPNPremium.cl">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20261102160000 -0500" stop="20261102180000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102090000 -0500" stop="20261102110000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261102180000 -0500" stop="20261102190000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Bundesliga Highlights Show</title>
-  </programme>
-  <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
-  </programme>
-  <programme start="20261102200000 -0500" stop="20261102203000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261102203000 -0500" stop="20261102210000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">El Show de la Copa Libertadores</title>
-  </programme>
-  <programme start="20261102210000 -0500" stop="20261102230000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Pakhtakor Tashkent vs. Al Nassr</title>
-  </programme>
-  <programme start="20261102230000 -0500" stop="20261103005000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102110000 -0500" stop="20261102125000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Boca Juniors Vs. River Plate</title>
   </programme>
-  <programme start="20261103005000 -0500" stop="20261103010000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102125000 -0500" stop="20261102130000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Futbol Internacional</title>
   </programme>
-  <programme start="20261103010000 -0500" stop="20261103030000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102130000 -0500" stop="20261102140000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261102140000 -0500" stop="20261102160000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Futbol Bundesliga</title>
   </programme>
-  <programme start="20261103030000 -0500" stop="20261103040000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Bundesliga Highlights Show</title>
+  <programme start="20261102160000 -0500" stop="20261102180000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20261103040000 -0500" stop="20261103050000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
-  </programme>
-  <programme start="20261103050000 -0500" stop="20261103070000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102180000 -0500" stop="20261102200000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261103070000 -0500" stop="20261103080000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20261103080000 -0500" stop="20261103083000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261103083000 -0500" stop="20261103093000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20261103093000 -0500" stop="20261103114000 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Shakhtar Donetsk vs. Sporting CP</title>
-  </programme>
-  <programme start="20261103114000 -0500" stop="20261103135500 -0500" channel="ESPNPremium.cl">
-    <title lang="es">Barcelona vs. Aston Villa</title>
-  </programme>
-  <programme start="20261103135500 -0500" stop="20261103145700 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="ESPNPremium.cl">
     <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20261103145700 -0500" stop="20261103170000 -0500" channel="ESPNPremium.cl">
+  <programme start="20261102220000 -0500" stop="20261102223000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261102223000 -0500" stop="20261102230000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">El Show de la Copa Libertadores</title>
+  </programme>
+  <programme start="20261102230000 -0500" stop="20261103010000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Pakhtakor Tashkent vs. Al Nassr</title>
+  </programme>
+  <programme start="20261103010000 -0500" stop="20261103025000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Boca Juniors Vs. River Plate</title>
+  </programme>
+  <programme start="20261103025000 -0500" stop="20261103030000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Futbol Internacional</title>
+  </programme>
+  <programme start="20261103030000 -0500" stop="20261103050000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Futbol Bundesliga</title>
+  </programme>
+  <programme start="20261103050000 -0500" stop="20261103060000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261103060000 -0500" stop="20261103070000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261103070000 -0500" stop="20261103090000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261103090000 -0500" stop="20261103100000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+  <programme start="20261103100000 -0500" stop="20261103103000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261103103000 -0500" stop="20261103113000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261103113000 -0500" stop="20261103134000 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Shakhtar Donetsk vs. Sporting CP</title>
+  </programme>
+  <programme start="20261103134000 -0500" stop="20261103155500 -0500" channel="ESPNPremium.cl">
+    <title lang="es">Barcelona vs. Aston Villa</title>
+  </programme>
+  <programme start="20261103155500 -0500" stop="20261103165700 -0500" channel="ESPNPremium.cl">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261103165700 -0500" stop="20261103190000 -0500" channel="ESPNPremium.cl">
     <title lang="es">Vasco da Gama vs. Boca Juniors</title>
   </programme>
   <programme start="20261031135500 -0500" stop="20261031155000 -0500" channel="Eurochannel.co">
@@ -32022,11 +31911,6 @@
   </programme>
   <programme start="20261102231000 -0500" stop="20261103004500 -0500" channel="Eurochannel.co">
     <title lang="es">Evelyn</title>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="EWTN.co">
-    <title lang="es">Rosario desde Lourdes</title>
-    <desc lang="es">Una oración del Santo Rosario desde el Santuario de Nuestra Señora de Lourdes, en Francia.</desc>
-    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="EWTN.co">
     <title lang="es">La misericordia y el perdón</title>
@@ -32790,9 +32674,6 @@
   </programme>
   <programme start="20261102230000 -0500" stop="20261103004000 -0500" channel="film&amp;arts.co">
     <title lang="es">Foyle's War</title>
-  </programme>
-  <programme start="20261031143900 -0500" stop="20261031152300 -0500" channel="FoodNetwork.co">
-    <title lang="es">Alicia en el País de las Maravillas</title>
   </programme>
   <programme start="20261031152300 -0500" stop="20261031160900 -0500" channel="FoodNetwork.co">
     <title lang="es">Titanes contra Silvia Barban</title>
@@ -34828,9 +34709,6 @@
     <desc lang="es">Tras la pérdida de su esposo, una mujer busca consuelo con sus suegros en su aislada casa familiar. A medida que uno a uno se transforman en Deadites, descubre que los votos que hizo en vida perduran incluso en la muerte.</desc>
     <category lang="es">Evil Dead BurnTerror / 2026 / 6.3</category>
   </programme>
-  <programme start="20261031145200 -0500" stop="20261031152500 -0500" channel="HBO2.co">
-    <title lang="es">En busca de Harry</title>
-  </programme>
   <programme start="20261031152500 -0500" stop="20261031162500 -0500" channel="HBO2.co">
     <title lang="es">Guerra</title>
   </programme>
@@ -34922,11 +34800,6 @@
   </programme>
   <programme start="20261102230000 -0500" stop="20261103005800 -0500" channel="HBO2.co">
     <title lang="es">Evil Dead En llamas</title>
-  </programme>
-  <programme start="20261031145200 -0500" stop="20261031152700 -0500" channel="HBO2.mx">
-    <title lang="es">En busca de Harry: el arte detrás de la magia</title>
-    <desc lang="es">Han pasado 25 años desde que el público recorrió por primera vez los pasillos de Hogwarts. Ahora, descubre al interior de la magnificencia y el meticuloso trabajo que hay detrás de la nueva serie de Harry Potter.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261031152700 -0500" stop="20261031162200 -0500" channel="HBO2.mx">
     <title lang="es">Guerra</title>
@@ -35582,9 +35455,6 @@
     <title lang="es">Roman J. Israel, Esq.</title>
     <desc lang="es">Roman J. Israel es un abogado idealista que trabaja en un modesto despacho en Los Ángeles. Su vida se detiene cuando su mentor, un icono de los derechos civiles, muere. El activismo que ha definido la carrera de Roman se pondrá a prueba.</desc>
     <category lang="es">Drama / 2017 / 6.4</category>
-  </programme>
-  <programme start="20261031141900 -0500" stop="20261031153000 -0500" channel="HBOPlus(Panamericano).co">
-    <title lang="es">It Welcome to Derry</title>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031163000 -0500" channel="HBOPlus(Panamericano).co">
     <title lang="es">It Welcome to Derry</title>
@@ -36561,9 +36431,6 @@
   <programme start="20261102233000 -0500" stop="20261103010700 -0500" channel="HBOXtreme(Panamericano).co">
     <title lang="es">Sting Araña asesina</title>
   </programme>
-  <programme start="20261031143800 -0500" stop="20261031152200 -0500" channel="HGTV.co">
-    <title lang="es">Cocinas deslumbrantes</title>
-  </programme>
   <programme start="20261031152200 -0500" stop="20261031154400 -0500" channel="HGTV.co">
     <title lang="es">Cocina francesa</title>
   </programme>
@@ -36971,11 +36838,6 @@
   </programme>
   <programme start="20261103182400 -0500" stop="20261103190900 -0500" channel="HGTV.co">
     <title lang="es">La del pantano de arándanos</title>
-  </programme>
-  <programme start="20261031145800 -0500" stop="20261031153100 -0500" channel="History.co">
-    <title lang="es">México, entre 2 mundos</title>
-    <desc lang="es">Arap visita Mixquic para conocer los preparativos de una de las celebraciones del Día de los Muertos más grandes, lo que incluye la creación de un altar tradicional y otro de carácter monumental</desc>
-    <category lang="es">Temporada 1 Episodio 2 - La flor y el altar</category>
   </programme>
   <programme start="20261031153100 -0500" stop="20261031160400 -0500" channel="History.co">
     <title lang="es">México, entre 2 mundos</title>
@@ -39375,11 +39237,6 @@
   <programme start="20261106180000 -0500" stop="20261107000000 -0500" channel="Lakalle.co">
     <title lang="es">El Desmadre</title>
   </programme>
-  <programme start="20261031142000 -0500" stop="20261031153000 -0500" channel="LasEstrellas.co">
-    <title lang="es">Mita y mita</title>
-    <desc lang="es">Néstor es un cincuentón desobligado, con un matrimonio desastrozo. Justo cuando consigue que Olivia, su esposa, acepte darle el divorcio, se gana el premio mayor de la lotería.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031191500 -0500" channel="LasEstrellas.co">
     <title lang="es">Desfile del Día de Muertos</title>
     <desc lang="es">Sigue el tradicional Gran Desfile del Día de Muertos celebrado en México.</desc>
@@ -40004,11 +39861,6 @@
     <title lang="es">Navidad con mi ex</title>
     <desc lang="es">Holly Logan regresa a su ciudad natal de Gulfport por Navidad. Se ofrece como voluntaria para colaborar en un espectáculo, pero pronto se arrepiente cuando descubre que el festival está dirigido por Mike, su novio de la escuela secundaria.</desc>
     <category lang="es">Christmas in MississippiRomántica / 2017 / 6.6</category>
-  </programme>
-  <programme start="20261031144500 -0500" stop="20261031153000 -0500" channel="MTV.co">
-    <title lang="es">¿Por qué me escondes?</title>
-    <desc lang="es">Jelena y Raeshib es una pareja que se conoció tras haber compartido un cuarto, actualmente viven juntos como pareja. Ella le presentó a su familia en Serbia, donde él se convirtió a su religión para casarse con ella.</desc>
-    <category lang="es">Temporada 3 Episodio 17 - Jelena y Raeshib</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031161500 -0500" channel="MTV.co">
     <title lang="es">Catfish</title>
@@ -40763,11 +40615,6 @@
   </programme>
   <programme start="20261102220000 -0500" stop="20261103001000 -0500" channel="Multipremier.co">
     <title lang="es">Te amaré por siempre</title>
-  </programme>
-  <programme start="20261031143200 -0500" stop="20261031153300 -0500" channel="NationalGeographic.co">
-    <title lang="es">Ciudades perdidas con Albert Lin</title>
-    <desc lang="es">Albert Lin viaja a Perú para descubrir los orígenes de su sitio más famoso: Machu Picchu, y con tecnología avanzada, Albert encuentra pruebas de visitantes anteriores a los incas, las montañas, sus hogares y sitios ceremoniales.</desc>
-    <category lang="es">Temporada 1 Episodio 6 - Los secretos de Machu Picchu</category>
   </programme>
   <programme start="20261031153300 -0500" stop="20261031160600 -0500" channel="NationalGeographic.co">
     <title lang="es">China: un épico recorrido a pie</title>
@@ -41815,11 +41662,6 @@
   </programme>
   <programme start="20261103185000 -0500" stop="20261103190000 -0500" channel="Nick.co">
     <title lang="es">Estresada por el papel</title>
-  </programme>
-  <programme start="20261031150500 -0500" stop="20261031152500 -0500" channel="NickJr.co">
-    <title lang="es">Barbapapá</title>
-    <desc lang="es">Las bellas rosas de Barbazoo desaparecieron misteriosamente durante la noche. / Los niños descubren una foto de la bebé Lolita, en el álbum familiar. Entonces, Barbapapá decide contarles sobre su expedición al Ártico.</desc>
-    <category lang="es">Temporada 2 Episodio 23 - ¡Botón de oro! / Tenemos que salvar los corales</category>
   </programme>
   <programme start="20261031152500 -0500" stop="20261031155000 -0500" channel="NickJr.co">
     <title lang="es">Santiago de los mares</title>
@@ -44385,11 +44227,6 @@
     <desc lang="es">Un espacio donde las mujeres hablan como realmente piensan. Relaciones, maternidad, amistad, libertad, duelo, redes sociales y los dilemas de la vida cotidiana se ponen sobre la mesa sin miedo y sin censura.</desc>
     <category lang="es">Cultural</category>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="SenalColombia.co">
-    <title lang="es">Señal literaria</title>
-    <desc lang="es">Un programa centrado en la literatura y en diálogos con escritores, académicos y expertos. El periodista, Erick Duncan, recibirá a diversos invitados para reflexionar sobre temas culturales atravesados por obras de distintos géneros.</desc>
-    <category lang="es">Interés general</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="SenalColombia.co">
     <title lang="es">En clave</title>
     <desc lang="es">Un espacio sobre las historias y las canciones definitivas de distintos ídolos musicales en el país. El videopodcast conducido por Deysa Rayo busca visibilizar a todos los artistas locales y contar sus historias.</desc>
@@ -45359,157 +45196,148 @@
   <programme start="20261103174000 -0500" stop="20261103200000 -0500" channel="SonyMovies.co">
     <title lang="es">Un juego vs. el destino</title>
   </programme>
-  <programme start="20261031142500 -0500" stop="20261031162000 -0500" channel="SonyMovies.uy">
+  <programme start="20261031145000 -0500" stop="20261031162500 -0500" channel="SonyMovies.uy">
+    <title lang="es">Misteriosa obsesión</title>
+  </programme>
+  <programme start="20261031162500 -0500" stop="20261031182000 -0500" channel="SonyMovies.uy">
     <title lang="es">La Noche del Demonio: La Puerta Roja</title>
     <desc lang="es">Josh y Dalton Lambert deben adentrarse en el más allá para enfrentarse al oscuro pasado de su familia y los terrores que acechan detrás de la puerta roja.</desc>
   </programme>
-  <programme start="20261031162000 -0500" stop="20261031180000 -0500" channel="SonyMovies.uy">
+  <programme start="20261031182000 -0500" stop="20261031200000 -0500" channel="SonyMovies.uy">
     <title lang="es">La maldición renace</title>
   </programme>
-  <programme start="20261031180000 -0500" stop="20261031195000 -0500" channel="SonyMovies.uy">
+  <programme start="20261031200000 -0500" stop="20261031215000 -0500" channel="SonyMovies.uy">
     <title lang="es">El Exorcista del Papa</title>
     <desc lang="es">Mientras investiga la posesión de un niño, un padre descubre una conspiración de varios siglos de antigüedad que el Vaticano ha tratado de ocultar.</desc>
   </programme>
-  <programme start="20261031195000 -0500" stop="20261031212400 -0500" channel="SonyMovies.uy">
+  <programme start="20261031215000 -0500" stop="20261031232400 -0500" channel="SonyMovies.uy">
     <title lang="es">Cadáver</title>
   </programme>
-  <programme start="20261031212400 -0500" stop="20261031231900 -0500" channel="SonyMovies.uy">
+  <programme start="20261031232400 -0500" stop="20261101011900 -0500" channel="SonyMovies.uy">
     <title lang="es">La noche del demonio: Capítulo 2</title>
   </programme>
-  <programme start="20261031231900 -0500" stop="20261101010900 -0500" channel="SonyMovies.uy">
+  <programme start="20261101011900 -0500" stop="20261101030900 -0500" channel="SonyMovies.uy">
     <title lang="es">La Noche del Demonio: La Última Llave</title>
     <desc lang="es">La doctora Rainer se enfrenta a sus mayores y más terribles miedos personales, llevándolos consigo a su propia casa y familia.</desc>
   </programme>
-  <programme start="20261101010900 -0500" stop="20261101013900 -0500" channel="SonyMovies.uy">
+  <programme start="20261101030900 -0500" stop="20261101033900 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
   </programme>
-  <programme start="20261101013900 -0500" stop="20261102010900 -0500" channel="SonyMovies.uy">
+  <programme start="20261101033900 -0500" stop="20261102030900 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
   </programme>
-  <programme start="20261101222400 -0500" stop="20261102001400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102002400 -0500" stop="20261102021400 -0500" channel="SonyMovies.uy">
     <title lang="es">Resident Evil: Bienvenidos A Raccoon City</title>
     <desc lang="es">Los sobrevivientes de un ataque zombi en la ciudad Raccoon deben trabajar juntos para tratar de sobrevivir la noche y descubrir la verdad de Umbrella.</desc>
   </programme>
-  <programme start="20261102001400 -0500" stop="20261102020500 -0500" channel="SonyMovies.uy">
+  <programme start="20261102021400 -0500" stop="20261102040500 -0500" channel="SonyMovies.uy">
     <title lang="es">Slender Man</title>
     <desc lang="es">En un pequeño pueblo de Massachusetts cuatro chicas realizan un ritual para desmentir la leyenda de hombre conocido como "Slender Man".</desc>
   </programme>
-  <programme start="20261102010900 -0500" stop="20261102013900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102030900 -0500" stop="20261102033900 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
   </programme>
-  <programme start="20261102013900 -0500" stop="20261102020900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102033900 -0500" stop="20261102040900 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102020500 -0500" stop="20261102023500 -0500" channel="SonyMovies.uy">
+  <programme start="20261102040500 -0500" stop="20261102043500 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102020900 -0500" stop="20261102023500 -0500" channel="SonyMovies.uy">
+  <programme start="20261102040900 -0500" stop="20261102043500 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102023500 -0500" stop="20261102030000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102043500 -0500" stop="20261102050000 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102033000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102050000 -0500" stop="20261102053000 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
   </programme>
-  <programme start="20261102033000 -0500" stop="20261102040000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102053000 -0500" stop="20261102060000 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
   </programme>
-  <programme start="20261102040000 -0500" stop="20261102042400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102060000 -0500" stop="20261102062400 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102042400 -0500" stop="20261102045400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102062400 -0500" stop="20261102065400 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102043000 -0500" stop="20261102050000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102063000 -0500" stop="20261102070000 -0500" channel="SonyMovies.uy">
     <title lang="es">Enloqueciendo Contigo</title>
   </programme>
-  <programme start="20261102045400 -0500" stop="20261102051900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102065400 -0500" stop="20261102071900 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102050000 -0500" stop="20261102065000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102070000 -0500" stop="20261102085000 -0500" channel="SonyMovies.uy">
     <title lang="es">Los cazafantasmas</title>
   </programme>
-  <programme start="20261102051900 -0500" stop="20261102054400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102071900 -0500" stop="20261102074400 -0500" channel="SonyMovies.uy">
     <title lang="es">The Goldbergs</title>
   </programme>
-  <programme start="20261102054400 -0500" stop="20261102072400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102074400 -0500" stop="20261102092400 -0500" channel="SonyMovies.uy">
     <title lang="es">Mis huellas a casa</title>
   </programme>
-  <programme start="20261102065000 -0500" stop="20261102084400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102085000 -0500" stop="20261102104400 -0500" channel="SonyMovies.uy">
     <title lang="es">Los cazafantasmas II</title>
   </programme>
-  <programme start="20261102072400 -0500" stop="20261102091900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102092400 -0500" stop="20261102111900 -0500" channel="SonyMovies.uy">
     <title lang="es">Fuera de la ley</title>
   </programme>
-  <programme start="20261102084400 -0500" stop="20261102101400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102104400 -0500" stop="20261102121400 -0500" channel="SonyMovies.uy">
     <title lang="es">Lluvia de hamburguesas</title>
   </programme>
-  <programme start="20261102091900 -0500" stop="20261102113900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102111900 -0500" stop="20261102133900 -0500" channel="SonyMovies.uy">
     <title lang="es">Karate kid</title>
   </programme>
-  <programme start="20261102101400 -0500" stop="20261102115400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102121400 -0500" stop="20261102135400 -0500" channel="SonyMovies.uy">
     <title lang="es">Lluvia de hamburguesas 2: La venganza de las sobras</title>
   </programme>
-  <programme start="20261102113900 -0500" stop="20261102131900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102133900 -0500" stop="20261102151900 -0500" channel="SonyMovies.uy">
     <title lang="es">65: Al Borde de la Extinción</title>
     <desc lang="es">Tras un catastrófico accidente espacial, un piloto y una niña deberán sobrevivir a criaturas prehistorias que gobernaban la tierra hace 65 millones de años.</desc>
   </programme>
-  <programme start="20261102115400 -0500" stop="20261102133000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102135400 -0500" stop="20261102153000 -0500" channel="SonyMovies.uy">
     <title lang="es">Hotel Transilvania</title>
   </programme>
-  <programme start="20261102131900 -0500" stop="20261102145400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102151900 -0500" stop="20261102165400 -0500" channel="SonyMovies.uy">
     <title lang="es">Anaconda</title>
   </programme>
-  <programme start="20261102133000 -0500" stop="20261102150400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102153000 -0500" stop="20261102170400 -0500" channel="SonyMovies.uy">
     <title lang="es">Hotel Transilvania 2</title>
   </programme>
-  <programme start="20261102145400 -0500" stop="20261102165900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102165400 -0500" stop="20261102185900 -0500" channel="SonyMovies.uy">
     <title lang="es">Chappie</title>
   </programme>
-  <programme start="20261102150400 -0500" stop="20261102164400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102170400 -0500" stop="20261102184400 -0500" channel="SonyMovies.uy">
     <title lang="es">Hotel Transylvania 3: Monstruos de vacaciones</title>
   </programme>
-  <programme start="20261102164400 -0500" stop="20261102181400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102184400 -0500" stop="20261102201400 -0500" channel="SonyMovies.uy">
     <title lang="es">Hotel Transilvania 4: Transformanía</title>
   </programme>
-  <programme start="20261102165900 -0500" stop="20261102190400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102185900 -0500" stop="20261102210400 -0500" channel="SonyMovies.uy">
     <title lang="es">Lágrimas del sol</title>
   </programme>
-  <programme start="20261102181400 -0500" stop="20261102200400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102201400 -0500" stop="20261102220400 -0500" channel="SonyMovies.uy">
     <title lang="es">Los cazafantasmas</title>
   </programme>
-  <programme start="20261102190400 -0500" stop="20261102203900 -0500" channel="SonyMovies.uy">
+  <programme start="20261102210400 -0500" stop="20261102223900 -0500" channel="SonyMovies.uy">
     <title lang="es">Juego de Secretos</title>
   </programme>
-  <programme start="20261102200400 -0500" stop="20261102214000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102220400 -0500" stop="20261102234000 -0500" channel="SonyMovies.uy">
     <title lang="es">Juego de Secretos</title>
   </programme>
-  <programme start="20261102203900 -0500" stop="20261102222400 -0500" channel="SonyMovies.uy">
+  <programme start="20261102223900 -0500" stop="20261103002400 -0500" channel="SonyMovies.uy">
     <title lang="es">Monster Hunter: La Cacería Comienza</title>
     <desc lang="es">La capitana Artemis y su unidad son transportados a un nuevo mundo lleno de monstruos enormes, ahora buscan la manera de sobrevivir a este entorno hostil.</desc>
   </programme>
-  <programme start="20261102214000 -0500" stop="20261102233000 -0500" channel="SonyMovies.uy">
+  <programme start="20261102234000 -0500" stop="20261103013000 -0500" channel="SonyMovies.uy">
     <title lang="es">Fuera de la ley</title>
   </programme>
-  <programme start="20261102222400 -0500" stop="20261103001400 -0500" channel="SonyMovies.uy">
+  <programme start="20261103002400 -0500" stop="20261103021400 -0500" channel="SonyMovies.uy">
     <title lang="es">Resident Evil: Bienvenidos A Raccoon City</title>
     <desc lang="es">Los sobrevivientes de un ataque zombi en la ciudad Raccoon deben trabajar juntos para tratar de sobrevivir la noche y descubrir la verdad de Umbrella.</desc>
   </programme>
-  <programme start="20261102233000 -0500" stop="20261103010000 -0500" channel="SonyMovies.uy">
+  <programme start="20261103013000 -0500" stop="20261103030000 -0500" channel="SonyMovies.uy">
     <title lang="es">Hailey Dean Mysteries: A Prescription for Murder</title>
-  </programme>
-  <programme start="20261103010000 -0500" stop="20261103013000 -0500" channel="SonyMovies.uy">
-    <title lang="es">Designing Women</title>
-  </programme>
-  <programme start="20261103013000 -0500" stop="20261103020000 -0500" channel="SonyMovies.uy">
-    <title lang="es">Designing Women</title>
-  </programme>
-  <programme start="20261103020000 -0500" stop="20261103023000 -0500" channel="SonyMovies.uy">
-    <title lang="es">Casados con hijos México</title>
-  </programme>
-  <programme start="20261103023000 -0500" stop="20261103030000 -0500" channel="SonyMovies.uy">
-    <title lang="es">Enloqueciendo Contigo</title>
   </programme>
   <programme start="20261103030000 -0500" stop="20261103033000 -0500" channel="SonyMovies.uy">
     <title lang="es">Designing Women</title>
@@ -45521,132 +45349,144 @@
     <title lang="es">Casados con hijos México</title>
   </programme>
   <programme start="20261103043000 -0500" stop="20261103050000 -0500" channel="SonyMovies.uy">
-    <title lang="es">Casados con hijos México</title>
-  </programme>
-  <programme start="20261103050000 -0500" stop="20261103053000 -0500" channel="SonyMovies.uy">
     <title lang="es">Enloqueciendo Contigo</title>
   </programme>
-  <programme start="20261103053000 -0500" stop="20261103072400 -0500" channel="SonyMovies.uy">
+  <programme start="20261103050000 -0500" stop="20261103053000 -0500" channel="SonyMovies.uy">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20261103053000 -0500" stop="20261103060000 -0500" channel="SonyMovies.uy">
+    <title lang="es">Designing Women</title>
+  </programme>
+  <programme start="20261103060000 -0500" stop="20261103063000 -0500" channel="SonyMovies.uy">
+    <title lang="es">Casados con hijos México</title>
+  </programme>
+  <programme start="20261103063000 -0500" stop="20261103070000 -0500" channel="SonyMovies.uy">
+    <title lang="es">Casados con hijos México</title>
+  </programme>
+  <programme start="20261103070000 -0500" stop="20261103073000 -0500" channel="SonyMovies.uy">
+    <title lang="es">Enloqueciendo Contigo</title>
+  </programme>
+  <programme start="20261103073000 -0500" stop="20261103092400 -0500" channel="SonyMovies.uy">
     <title lang="es">Fuera de la ley</title>
   </programme>
-  <programme start="20261103072400 -0500" stop="20261103085900 -0500" channel="SonyMovies.uy">
+  <programme start="20261103092400 -0500" stop="20261103105900 -0500" channel="SonyMovies.uy">
     <title lang="es">Lluvia de hamburguesas</title>
   </programme>
-  <programme start="20261103085900 -0500" stop="20261103103900 -0500" channel="SonyMovies.uy">
+  <programme start="20261103105900 -0500" stop="20261103123900 -0500" channel="SonyMovies.uy">
     <title lang="es">Hotel Transilvania</title>
   </programme>
-  <programme start="20261103103900 -0500" stop="20261103125000 -0500" channel="SonyMovies.uy">
+  <programme start="20261103123900 -0500" stop="20261103145000 -0500" channel="SonyMovies.uy">
     <title lang="es">Chappie</title>
   </programme>
-  <programme start="20261103125000 -0500" stop="20261103144000 -0500" channel="SonyMovies.uy">
+  <programme start="20261103145000 -0500" stop="20261103164000 -0500" channel="SonyMovies.uy">
     <title lang="es">Glitter</title>
   </programme>
-  <programme start="20261103144000 -0500" stop="20261103170000 -0500" channel="SonyMovies.uy">
+  <programme start="20261103164000 -0500" stop="20261103190000 -0500" channel="SonyMovies.uy">
     <title lang="es">Un juego vs. el destino</title>
   </programme>
-  <programme start="20261103170000 -0500" stop="20261103192400 -0500" channel="SonyMovies.uy">
+  <programme start="20261103190000 -0500" stop="20261103212400 -0500" channel="SonyMovies.uy">
     <title lang="es">Foxcatcher</title>
     <desc lang="es">El hermano del más grande luchador en equipo de las olimpiadas entrena un equipo financiado un multimillonario para participar en las olimpiadas de 1988, una unión que terminará en tragedia.</desc>
   </programme>
-  <programme start="20261103192400 -0500" stop="20261103214000 -0500" channel="SonyMovies.uy">
+  <programme start="20261103212400 -0500" stop="20261103234000 -0500" channel="SonyMovies.uy">
     <title lang="es">La caida de la Casa Blanca</title>
   </programme>
-  <programme start="20261103214000 -0500" stop="20261103234400 -0500" channel="SonyMovies.uy">
+  <programme start="20261103234000 -0500" stop="20261104014400 -0500" channel="SonyMovies.uy">
     <title lang="es">Lágrimas del sol</title>
   </programme>
-  <programme start="20261103234400 -0500" stop="20261104013000 -0500" channel="SonyMovies.uy">
+  <programme start="20261104014400 -0500" stop="20261104033000 -0500" channel="SonyMovies.uy">
     <title lang="es">Monster Hunter: La Cacería Comienza</title>
     <desc lang="es">La capitana Artemis y su unidad son transportados a un nuevo mundo lleno de monstruos enormes, ahora buscan la manera de sobrevivir a este entorno hostil.</desc>
   </programme>
-  <programme start="20261031133300 -0500" stop="20261031161000 -0500" channel="Space.co">
+  <programme start="20261031153300 -0500" stop="20261031181000 -0500" channel="Space.co">
     <title lang="es">Karate kid</title>
   </programme>
-  <programme start="20261031161000 -0500" stop="20261031175900 -0500" channel="Space.co">
+  <programme start="20261031181000 -0500" stop="20261031195900 -0500" channel="Space.co">
     <title lang="es">Difícil de matar</title>
   </programme>
-  <programme start="20261031175900 -0500" stop="20261031200000 -0500" channel="Space.co">
+  <programme start="20261031195900 -0500" stop="20261031220000 -0500" channel="Space.co">
     <title lang="es">Por encima de la ley</title>
   </programme>
-  <programme start="20261031200000 -0500" stop="20261031220700 -0500" channel="Space.co">
+  <programme start="20261031220000 -0500" stop="20261101000700 -0500" channel="Space.co">
     <title lang="es">El Conjuro</title>
     <desc lang="es">Dos investigadores de actividad paranormal trabajan para ayudar a una familia aterrorizada por una presencia oscura que habita en la casa de su granja.</desc>
   </programme>
-  <programme start="20261031220700 -0500" stop="20261101002900 -0500" channel="Space.co">
+  <programme start="20261101000700 -0500" stop="20261101022900 -0500" channel="Space.co">
     <title lang="es">El conjuro 2</title>
   </programme>
-  <programme start="20261101002900 -0500" stop="20261101012200 -0500" channel="Space.co">
+  <programme start="20261101022900 -0500" stop="20261101032200 -0500" channel="Space.co">
     <title lang="es">El Conjuro 3: El Diablo me Obligó a Hacerlo</title>
     <desc lang="es">Ed y Lorrain Warren, dos experimentados investigadores paranormales, son llevados a un caso que podría estar relacionado con una posesión demoniaca.</desc>
   </programme>
-  <programme start="20261101012200 -0500" stop="20261101025700 -0500" channel="Space.co">
+  <programme start="20261101032200 -0500" stop="20261101045700 -0500" channel="Space.co">
     <title lang="es">La secta</title>
   </programme>
-  <programme start="20261101025700 -0500" stop="20261101030000 -0500" channel="Space.co">
+  <programme start="20261101045700 -0500" stop="20261101050000 -0500" channel="Space.co">
     <title lang="es">TNT Buzz</title>
   </programme>
-  <programme start="20261101030000 -0500" stop="20261101033900 -0500" channel="Space.co">
+  <programme start="20261101050000 -0500" stop="20261101053900 -0500" channel="Space.co">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20261101033900 -0500" stop="20261101035800 -0500" channel="Space.co">
+  <programme start="20261101053900 -0500" stop="20261101055800 -0500" channel="Space.co">
     <title lang="es">Tesoros de garaje</title>
   </programme>
-  <programme start="20261101035800 -0500" stop="20261101053800 -0500" channel="Space.co">
+  <programme start="20261101055800 -0500" stop="20261101073800 -0500" channel="Space.co">
     <title lang="es">Los renegados</title>
   </programme>
-  <programme start="20261101053800 -0500" stop="20261101072500 -0500" channel="Space.co">
+  <programme start="20261101073800 -0500" stop="20261101092500 -0500" channel="Space.co">
     <title lang="es">Rendirse jamás 2 Combate final</title>
   </programme>
-  <programme start="20261101072500 -0500" stop="20261101090100 -0500" channel="Space.co">
+  <programme start="20261101092500 -0500" stop="20261101110100 -0500" channel="Space.co">
     <title lang="es">Rendirse jamás 4 La revuelta</title>
   </programme>
-  <programme start="20261101090100 -0500" stop="20261101113200 -0500" channel="Space.co">
+  <programme start="20261101110100 -0500" stop="20261101133200 -0500" channel="Space.co">
     <title lang="es">Karate kid</title>
   </programme>
-  <programme start="20261101113200 -0500" stop="20261101131000 -0500" channel="Space.co">
+  <programme start="20261101133200 -0500" stop="20261101151000 -0500" channel="Space.co">
     <title lang="es">Furia salvaje</title>
   </programme>
-  <programme start="20261101131000 -0500" stop="20261101150300 -0500" channel="Space.co">
+  <programme start="20261101151000 -0500" stop="20261101170300 -0500" channel="Space.co">
     <title lang="es">Terreno salvaje</title>
   </programme>
-  <programme start="20261101150300 -0500" stop="20261101170800 -0500" channel="Space.co">
+  <programme start="20261101170300 -0500" stop="20261101190800 -0500" channel="Space.co">
     <title lang="es">Infierno bajo tierra</title>
   </programme>
-  <programme start="20261101170800 -0500" stop="20261101190000 -0500" channel="Space.co">
+  <programme start="20261101190800 -0500" stop="20261101210000 -0500" channel="Space.co">
     <title lang="es">Difícil de matar</title>
   </programme>
-  <programme start="20261101190000 -0500" stop="20261101205500 -0500" channel="Space.co">
+  <programme start="20261101210000 -0500" stop="20261101225500 -0500" channel="Space.co">
     <title lang="es">Por encima de la ley</title>
   </programme>
-  <programme start="20261101205500 -0500" stop="20261101225400 -0500" channel="Space.co">
+  <programme start="20261101225500 -0500" stop="20261102005400 -0500" channel="Space.co">
     <title lang="es">El Conjuro</title>
     <desc lang="es">Dos investigadores de actividad paranormal trabajan para ayudar a una familia aterrorizada por una presencia oscura que habita en la casa de su granja.</desc>
   </programme>
-  <programme start="20261101225400 -0500" stop="20261102011000 -0500" channel="Space.co">
+  <programme start="20261102005400 -0500" stop="20261102031000 -0500" channel="Space.co">
     <title lang="es">El conjuro 2</title>
   </programme>
-  <programme start="20261102011000 -0500" stop="20261102030000 -0500" channel="Space.co">
+  <programme start="20261102031000 -0500" stop="20261102050000 -0500" channel="Space.co">
     <title lang="es">Fuga de Pretoria</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102042900 -0500" channel="Space.co">
+  <programme start="20261102050000 -0500" stop="20261102062900 -0500" channel="Space.co">
     <title lang="es">SPL3 Paradoja</title>
   </programme>
-  <programme start="20261102042900 -0500" stop="20261102062700 -0500" channel="Space.co">
+  <programme start="20261102062900 -0500" stop="20261102082700 -0500" channel="Space.co">
     <title lang="es">Peligro en la montaña</title>
   </programme>
-  <programme start="20261102062700 -0500" stop="20261102085000 -0500" channel="Space.co">
+  <programme start="20261102082700 -0500" stop="20261102105000 -0500" channel="Space.co">
     <title lang="es">El plan perfecto</title>
   </programme>
-  <programme start="20261102085000 -0500" stop="20261102113000 -0500" channel="Space.co">
+  <programme start="20261102105000 -0500" stop="20261102133000 -0500" channel="Space.co">
     <title lang="es">Misión: Imposible - Repercusión</title>
     <desc lang="es">Tras la decisión de Ethan de salvar a su equipo sobre completar la misión, ahora debe unir fuerzas con un agente de la CIA para tratar de salvar al mundo.</desc>
   </programme>
-  <programme start="20261102113000 -0500" stop="20261102132200 -0500" channel="Space.co">
+  <programme start="20261102133000 -0500" stop="20261102152200 -0500" channel="Space.co">
     <title lang="es">Dunkerque</title>
   </programme>
-  <programme start="20261102132200 -0500" stop="20261102150100 -0500" channel="Space.co">
+  <programme start="20261102152200 -0500" stop="20261102170100 -0500" channel="Space.co">
     <title lang="es">Furia salvaje</title>
   </programme>
-  <programme start="20261102150100 -0500" stop="20261102165500 -0500" channel="Space.co">
+  <programme start="20261102170100 -0500" stop="20261102185500 -0500" channel="Space.co">
     <title lang="es">Terreno salvaje</title>
   </programme>
   <programme start="20261031140100 -0500" stop="20261031164400 -0500" channel="StarChannel.co">
@@ -45776,104 +45616,107 @@
     <title lang="es">La Reina del Concurso</title>
     <desc lang="es">Anne y su hermana Jenny, con quien está distanciada, deben unir fuerzas para ayudar a pagar las deudas de juego de su madre. Cuando secuestran al perro de Anne, ambas emprenden un viaje por el país para conseguir el dinero.</desc>
   </programme>
-  <programme start="20261031135000 -0500" stop="20261031154000 -0500" channel="StudioUniversal.co">
+  <programme start="20261031133500 -0500" stop="20261031155000 -0500" channel="StudioUniversal.co">
+    <title lang="es">Más notas perfectas</title>
+  </programme>
+  <programme start="20261031155000 -0500" stop="20261031174000 -0500" channel="StudioUniversal.co">
     <title lang="es">Pitch Perfect 3 La última nota</title>
   </programme>
-  <programme start="20261031154000 -0500" stop="20261031180000 -0500" channel="StudioUniversal.co">
+  <programme start="20261031174000 -0500" stop="20261031200000 -0500" channel="StudioUniversal.co">
     <title lang="es">Ad Astra: Hacia las Estrellas</title>
     <desc lang="es">Un astronauta que busca a su padre en borde exterior del sistema solar descubre un misterio que amenaza la supervivencia de nuestro planeta tierra.</desc>
   </programme>
-  <programme start="20261031180000 -0500" stop="20261031195000 -0500" channel="StudioUniversal.co">
+  <programme start="20261031200000 -0500" stop="20261031215000 -0500" channel="StudioUniversal.co">
     <title lang="es">Pesadilla en la Calle del Infierno</title>
   </programme>
-  <programme start="20261031195000 -0500" stop="20261031213500 -0500" channel="StudioUniversal.co">
+  <programme start="20261031215000 -0500" stop="20261031233500 -0500" channel="StudioUniversal.co">
     <title lang="es">Pesadilla en la calle del infierno 2 La venganza de Freddy</title>
   </programme>
-  <programme start="20261031213500 -0500" stop="20261031233500 -0500" channel="StudioUniversal.co">
+  <programme start="20261031233500 -0500" stop="20261101013500 -0500" channel="StudioUniversal.co">
     <title lang="es">Pesadilla en la calle del infierno 3 Los guerreros del sueño</title>
   </programme>
-  <programme start="20261031233500 -0500" stop="20261101012500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101013500 -0500" stop="20261101032500 -0500" channel="StudioUniversal.co">
     <title lang="es">Pesadilla en la calle del infierno 4 El amo de los sueños</title>
   </programme>
-  <programme start="20261101012500 -0500" stop="20261101021000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101032500 -0500" stop="20261101041000 -0500" channel="StudioUniversal.co">
     <title lang="es">Una receta navideña</title>
   </programme>
-  <programme start="20261101021000 -0500" stop="20261101023500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101041000 -0500" stop="20261101043500 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261101023500 -0500" stop="20261101030000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101043500 -0500" stop="20261101050000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261101030000 -0500" stop="20261101033000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101050000 -0500" stop="20261101053000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261101033000 -0500" stop="20261101040000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101053000 -0500" stop="20261101060000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261101040000 -0500" stop="20261101055500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101060000 -0500" stop="20261101075500 -0500" channel="StudioUniversal.co">
     <title lang="es">Legalmente Rubia</title>
   </programme>
-  <programme start="20261101055500 -0500" stop="20261101075500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101075500 -0500" stop="20261101095500 -0500" channel="StudioUniversal.co">
     <title lang="es">Escuela para idiotas</title>
   </programme>
-  <programme start="20261101075500 -0500" stop="20261101094000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101095500 -0500" stop="20261101114000 -0500" channel="StudioUniversal.co">
     <title lang="es">Johnny English</title>
   </programme>
-  <programme start="20261101094000 -0500" stop="20261101112500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101114000 -0500" stop="20261101132500 -0500" channel="StudioUniversal.co">
     <title lang="es">Johnny English 3.0</title>
   </programme>
-  <programme start="20261101112500 -0500" stop="20261101140500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101132500 -0500" stop="20261101160500 -0500" channel="StudioUniversal.co">
     <title lang="es">Batman inicia</title>
   </programme>
-  <programme start="20261101140500 -0500" stop="20261101170000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101160500 -0500" stop="20261101190000 -0500" channel="StudioUniversal.co">
     <title lang="es">Batman El caballero de la noche</title>
   </programme>
-  <programme start="20261101170000 -0500" stop="20261101195000 -0500" channel="StudioUniversal.co">
+  <programme start="20261101190000 -0500" stop="20261101215000 -0500" channel="StudioUniversal.co">
     <title lang="es">El Resplandor</title>
     <desc lang="es">Un escritor consigue trabajar como cuidador de un hotel en las montañas rocosas, él, su esposa y su hijo psíquico estarán aislados hasta la primavera.</desc>
   </programme>
-  <programme start="20261101195000 -0500" stop="20261101224500 -0500" channel="StudioUniversal.co">
+  <programme start="20261101215000 -0500" stop="20261102004500 -0500" channel="StudioUniversal.co">
     <title lang="es">Doctor Sueño</title>
     <desc lang="es">Una adolescente valiente busca la ayuda de Dan Torrance para enfrentarse a "Rose la del sombrero" y sus seguidores en una brutal batalla de vida o muerte.</desc>
   </programme>
-  <programme start="20261101224500 -0500" stop="20261102004000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102004500 -0500" stop="20261102024000 -0500" channel="StudioUniversal.co">
     <title lang="es">Pesadilla en la calle del infierno 6</title>
   </programme>
-  <programme start="20261102004000 -0500" stop="20261102023000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102024000 -0500" stop="20261102043000 -0500" channel="StudioUniversal.co">
     <title lang="es">Un inesperado cuento de Navidad</title>
   </programme>
-  <programme start="20261102023000 -0500" stop="20261102030000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102043000 -0500" stop="20261102050000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261102030000 -0500" stop="20261102033000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102050000 -0500" stop="20261102053000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261102033000 -0500" stop="20261102035500 -0500" channel="StudioUniversal.co">
+  <programme start="20261102053000 -0500" stop="20261102055500 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261102035500 -0500" stop="20261102042000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102055500 -0500" stop="20261102062000 -0500" channel="StudioUniversal.co">
     <title lang="es">Hollywood on Set</title>
   </programme>
-  <programme start="20261102042000 -0500" stop="20261102060500 -0500" channel="StudioUniversal.co">
+  <programme start="20261102062000 -0500" stop="20261102080500 -0500" channel="StudioUniversal.co">
     <title lang="es">Alvin y las ardillas 2</title>
   </programme>
-  <programme start="20261102060500 -0500" stop="20261102075000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102080500 -0500" stop="20261102095000 -0500" channel="StudioUniversal.co">
     <title lang="es">Alvin y las ardillas 3</title>
   </programme>
-  <programme start="20261102075000 -0500" stop="20261102094000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102095000 -0500" stop="20261102114000 -0500" channel="StudioUniversal.co">
     <title lang="es">Alvin y las Ardillas: Aventura Sobre Ruedas</title>
     <desc lang="es">Un malentendido hace que Alvin, Simón y Teodoro vayan en búsqueda de Dave para impedir que le proponga matrimonio a su novia.</desc>
   </programme>
-  <programme start="20261102094000 -0500" stop="20261102114500 -0500" channel="StudioUniversal.co">
+  <programme start="20261102114000 -0500" stop="20261102134500 -0500" channel="StudioUniversal.co">
     <title lang="es">Coraline y la puerta secreta</title>
   </programme>
-  <programme start="20261102114500 -0500" stop="20261102132500 -0500" channel="StudioUniversal.co">
+  <programme start="20261102134500 -0500" stop="20261102152500 -0500" channel="StudioUniversal.co">
     <title lang="es">El cadáver de la novia</title>
   </programme>
-  <programme start="20261102132500 -0500" stop="20261102151000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102152500 -0500" stop="20261102171000 -0500" channel="StudioUniversal.co">
     <title lang="es">Los locos Addams</title>
   </programme>
-  <programme start="20261102151000 -0500" stop="20261102170000 -0500" channel="StudioUniversal.co">
+  <programme start="20261102171000 -0500" stop="20261102190000 -0500" channel="StudioUniversal.co">
     <title lang="es">Los Locos Addams 2</title>
     <desc lang="es">La familia Addams emprende un viaje en la carroza embrujada a través de las carreteras de los Estados Unidos para tener unas últimas vacaciones familiares.</desc>
   </programme>
@@ -46146,10 +45989,6 @@
     <title lang="es">Desfile de Pascua</title>
     <desc lang="es">Un bailarín decide sustituir a su habitual pareja profesional por la primera bailarina que encuentre. El azar hace que se cruce en su camino una gran bailarina por la que se sentirá inmediatamente atraído.</desc>
     <category lang="es">Easter ParadeMusical / 1948 / 7.4</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="TeleVid.co">
-    <title lang="es">Coronilla</title>
-    <desc lang="es">La Coronilla de la Misericordia es una plegaria diaria que realizan los cristianos para recordar que fue a través de la Pasión y Muerte de Cristo, que dio redención.</desc>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031163000 -0500" channel="TeleVid.co">
     <title lang="es">Conferencias VID</title>
@@ -46541,11 +46380,6 @@
   <programme start="20261102234500 -0500" stop="20261103000000 -0500" channel="TeleVid.co">
     <title lang="es">Oración de la noche</title>
     <desc lang="es">Un espacio para crecer espiritualmente y acercarse al Señor, tomando un momento durante la noche para orar.</desc>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Teleantioquia.co">
-    <title lang="es">¿Quiere ser paisa?</title>
-    <desc lang="es">Un docureality que recorre Antioquia para descubrir, con humor, historias y mucha calle, qué significa ser paisa hoy. Una mirada divertida y crítica que rompe clichés y muestra que ser paisa es una forma de vida.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Teleantioquia.co">
     <title lang="es">Puebliando entre risas con risa loca</title>
@@ -47153,11 +46987,6 @@
     <title lang="es">Nocturnos</title>
     <desc lang="es">Un espacio seguro donde puedas aclarar tus dudas, expresar tus sentimientos y encontrar consuelo. En cada episodio exploraremos temas profundos de salud mental con claridad y cercanía, y estaremos listos para escucharte y apoyarte.</desc>
     <category lang="es">Salud</category>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Telecafe.co">
-    <title lang="es">Territorios y voces indígenas</title>
-    <desc lang="es">Un reconocimiento a las raíces y la importancia de la diversidad cultural de Colombia, además de hacer énfasis en el territorio y su mágica geografía.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Telecafe.co">
     <title lang="es">Raíces cafeteras</title>
@@ -48425,9 +48254,6 @@
     <title lang="es">Con las manos del Caribe</title>
     <category lang="es">Episodio 4</category>
   </programme>
-  <programme start="20261031142500 -0500" stop="20261031152000 -0500" channel="Telehit.co">
-    <title lang="es">Daebak K Pop</title>
-  </programme>
   <programme start="20261031152000 -0500" stop="20261031161500 -0500" channel="Telehit.co">
     <title lang="es">Reggaepop</title>
   </programme>
@@ -48961,11 +48787,6 @@
   </programme>
   <programme start="20261103185500 -0500" stop="20261103190000 -0500" channel="Teleislas.co">
     <title lang="es">Minuto Afro</title>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Telemedellin.co">
-    <title lang="es">EPM va camino al barrio</title>
-    <desc lang="es">David Sanín utiliza los servicios públicos para recorrer los barrios de Antioquía y hablar con sus habitantes. El público podrá explorar y descubrir la riqueza cultural de la ciudad a través de diversos testimonios.</desc>
-    <category lang="es">Entrevista</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Telemedellin.co">
     <title lang="es">Medellín te cuenta</title>
@@ -49648,11 +49469,6 @@
   </programme>
   <programme start="20261103180500 -0500" stop="20261103190000 -0500" channel="Telemundo.co">
     <title lang="es">Dedos de hielo; Almas gemelas asesinas</title>
-  </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="Telepacifico.co">
-    <title lang="es">Los nuestros</title>
-    <desc lang="es">Historia de 15 colombianos luchadores, defensores de los derechos humanos, artistas que rescatan tradiciones, emprendedores y más, que tienen en común el dar lo mejor de sí para transformar positivamente la sociedad.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Telepacifico.co">
     <title lang="es">Cuna ancestral</title>
@@ -52462,9 +52278,6 @@
     <desc lang="es">Un nuevo caso de asesinato conduce al equipo de Horatio hasta Nueva York. Allí conocen al equipo de la ciudad, dirigido por Rick Calucci. Juntos trabajan para resolver un extraño caso.</desc>
     <category lang="es">Temporada 2 Episodio 23 - Miami - Nueva York sin escala</category>
   </programme>
-  <programme start="20261031150600 -0500" stop="20261031153000 -0500" channel="Tooncast.co">
-    <title lang="es">Thundercats</title>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031154100 -0500" channel="Tooncast.co">
     <title lang="es">Hermano de Jorel</title>
   </programme>
@@ -53393,11 +53206,6 @@
   <programme start="20261102234200 -0500" stop="20261103000500 -0500" channel="Tooncast.co">
     <title lang="es">Scooby-Doo! Misterios S.A.</title>
   </programme>
-  <programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="TvAgro.co">
-    <title lang="es">Entre establos y praderas</title>
-    <desc lang="es">Un espacio en el podrás conocer sobre los cuidados correctos y necesarios de la industria ganadera, con herramientas que te servirán para mejorar la producción así como sistemas de manejo bovino.</desc>
-    <category lang="es">Agro</category>
-  </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="TvAgro.co">
     <title lang="es">Avances - TV Gan</title>
     <desc lang="es">Subasta en vivo de ganadería comercial y oferta de productos para el sector ganadero.</desc>
@@ -54212,9 +54020,6 @@
     <title lang="es">Así se hace en el campo</title>
     <desc lang="es">Descubra todas las actividades del sector agropecuario en Colombia. Los productores pecuarios y agrícolas podrán ver temas variados.</desc>
     <category lang="es">Agro</category>
-  </programme>
-  <programme start="20261031145500 -0500" stop="20261031153000 -0500" channel="TVE.co">
-    <title lang="es">Telediario 2</title>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031155500 -0500" channel="TVE.co">
     <title lang="es">Informe semanal</title>
@@ -57557,11 +57362,6 @@
   </programme>
   <programme start="20261103180000 -0500" stop="20261103200000 -0500" channel="WinSports+.co">
     <title lang="es">Real Cartagena vs. Deportes Quindío</title>
-  </programme>
-  <programme start="20261031151500 -0500" stop="20261031153000 -0500" channel="Zoom.co">
-    <title lang="es">Ecos de gigantes</title>
-    <desc lang="es">Una exhibición que invita a recorrer millones de años de historia natural en Colombia. A través de la paleontología y la arqueología, esta experiencia visual y tangible conecta ciencia, biodiversidad y cultura</desc>
-    <category lang="es">Educativo</category>
   </programme>
   <programme start="20261031153000 -0500" stop="20261031160000 -0500" channel="Zoom.co">
     <title lang="es">Historias de mujeres</title>
