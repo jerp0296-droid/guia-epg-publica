@@ -3491,11 +3491,6 @@
     <desc lang="es">Cuando una balsa cae por la borda, un legendario capitán de lancha motora entra en acción para salvar al hombre antes de que los rápidos del río se cobren otra víctima. Luego, las fuertes lluvias amenazan con destruir el rancho de Aubrey.</desc>
     <category lang="es">Temporada 1 Episodio 3 - Respuesta rápida</category>
   </programme>
-  <programme start="20261125072700 -0500" stop="20261125085800 -0500" channel="Antena3.co">
-    <title lang="es">Zapeando</title>
-    <desc lang="es">Zapeando ha rescatado un momento vivido con Tamara Falcó en 'El Hormiguero', después de que Pablo Motos desvelase una anécdota con Illia Topuria.</desc>
-    <category lang="es">Temporada 1 Episodio 3237</category>
-  </programme>
   <programme start="20261125085800 -0500" stop="20261125093000 -0500" channel="Antena3.co">
     <title lang="es">Noticias</title>
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
@@ -4619,11 +4614,6 @@
   </programme>
   <programme start="20261126173000 -0500" stop="20261126193000 -0500" channel="AzMundo.co">
     <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20261125085300 -0500" stop="20261125085600 -0500" channel="BabyTV.co">
-    <title lang="es">Mowgli: la primera aventura</title>
-    <desc lang="es">Mowgli se une a una joven estadounidense llamada Nahbiri en sus aventuras, quien ha acompañado a su padre, un médico viudo, a Jabalpur, India.</desc>
-    <category lang="es">- Buenas noches, Mowgli</category>
   </programme>
   <programme start="20261125085600 -0500" stop="20261125090200 -0500" channel="BabyTV.co">
     <title lang="es">La agencia de detectives de Zeina y otras historias</title>
@@ -17180,11 +17170,6 @@
     <desc lang="es">Es un programa de humor que lleva a las cámaras escondidas a otro nivel, poniendo a la gente común y corriente en situaciones extremadamente divertidas, mientras se graban sus reacciones espontáneas e impredecibles secretamente.</desc>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261125084600 -0500" stop="20261125085700 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Submarine Jim</title>
-    <desc lang="es">Jim se avergüenza frente a la tripulación porque no sabe cómo amarrarse su pajarita solo. Molesto, decide demostrar que no necesita la ayuda de nadie, hasta que accidentalmente se encierra en su oficina.</desc>
-    <category lang="es">Temporada 1 Episodio 34 - Captain All By Myself</category>
-  </programme>
   <programme start="20261125085700 -0500" stop="20261125092400 -0500" channel="CartoonNetwork.co">
     <title lang="es">Los Colorado</title>
     <desc lang="es">¡Ay, qué barbaridad! La abuela revela el accidente de Lina con la fórmula Chiquitolina en el laboratorio del Profesor Inventillo cuando era bebé.</desc>
@@ -29596,11 +29581,6 @@
   <programme start="20261126184800 -0500" stop="20261126191200 -0500" channel="DiscoveryWorld.co">
     <title lang="es">Mi casa en la montaña</title>
   </programme>
-  <programme start="20261125083000 -0500" stop="20261125085800 -0500" channel="DisneyChannel.co">
-    <title lang="es">El fantasma y Molly McGee</title>
-    <desc lang="es">Cuando a Libby le llega el periodo antes que a Molly, esta se siente "fuera de sincronía" con su mejor amiga. Cuando se cancelan las vacaciones de los McGee, Molly organiza unas vacaciones en casa.</desc>
-    <category lang="es">Temporada 2 Episodio 4 - Periodos y más / Siempre hay sol en Sunnyland</category>
-  </programme>
   <programme start="20261125085800 -0500" stop="20261125092800 -0500" channel="DisneyChannel.co">
     <title lang="es">StuGo</title>
     <desc lang="es">Los niños quedan atrapados en una candente telenovela de mutantes. / Sara intenta conseguir el peinado perfecto para poder ser la estrella del cuadro de Francis.</desc>
@@ -35899,13 +35879,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d158dafd0f61275048ba54776d7224f1?w=400" />
   </programme>
-  <programme start="20261125082907 -0500" stop="20261125085905 -0500" channel="entcomedy.cl">
-    <title lang="es">ALF</title>
-    <sub-title lang="es">El apostador</sub-title>
-    <desc lang="es">ALF discovers the alluring world of horse racing thanks to Kate's mom who bets on them. When the concept of a bookie is explained to ALF, he gets the bright idea of getting the Tanners some money through betting.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0526c00958de609fced6b639528b80e9?w=400" />
-  </programme>
   <programme start="20261125085905 -0500" stop="20261125092814 -0500" channel="entcomedy.cl">
     <title lang="es">Malcolm el de en Medio</title>
     <sub-title lang="es">El animador</sub-title>
@@ -37802,12 +37775,6 @@
     <desc lang="es">El aventurero Rick O'Connell y su familia desafían las antiguas maldiciones y se aventuran en China para enfrentarse al cruel emperador dragón, que ha sido despertado de su sueño milenario. En esta trepidante aventura, lucharán contra fuerzas oscuras y criaturas sobrenaturales...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/802cc27153ec877a8fb531537e307887?w=400" />
-  </programme>
-  <programme start="20261125082800 -0500" stop="20261125085815 -0500" channel="entfamily.cl">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">El lugar donde más se ponen inyecciones</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ad19aaef04a8cf9620cef7108b12a43?w=400" />
   </programme>
   <programme start="20261125085815 -0500" stop="20261125092911 -0500" channel="entfamily.cl">
     <title lang="es">ALF</title>
@@ -46871,11 +46838,6 @@
     <title lang="es">Lo mejor de El precio de la historia</title>
     <desc lang="es">Corey y Chum corren por sus vidas cuando el famoso Robosaurus de 31 toneladas llega a la tienda. Más tarde, Rick intenta conseguir un trato por el avión de combate A6 Texan.</desc>
     <category lang="es">Temporada 23 Episodio 53 - Mega máquinas y vehículos salvajes</category>
-  </programme>
-  <programme start="20261125082600 -0500" stop="20261125085600 -0500" channel="History2.co">
-    <title lang="es">Boys Toys</title>
-    <desc lang="es">Descubra el mejor simulador de carreras del mundo. Luego, un carro de golf que sabe redefinir el lujo. También te mostramos una bicicleta estática, que te conduce alrededor del mundo.</desc>
-    <category lang="es">Temporada 1 Episodio 13 - Need for Speed</category>
   </programme>
   <programme start="20261125085600 -0500" stop="20261125102800 -0500" channel="History2.co">
     <title lang="es">La guerra de las Cola</title>
@@ -62820,10 +62782,6 @@
     <title lang="es">La ley y el orden: UVE</title>
     <desc lang="es">Una mujer es golpeada hasta caer en coma. Como el único testigo del caso es la hija de la víctima, quien tiene problemas mentales, Benson y Stablen se niegan a tomar su testimonio. Así, los detectives inician la reconstrucción de la noche</desc>
     <category lang="es">Temporada 9 Episodio 4 - Sabio</category>
-  </programme>
-  <programme start="20261125084600 -0500" stop="20261125085900 -0500" channel="Tooncast.co">
-    <title lang="es">Escuadrón del Tiempo</title>
-    <desc lang="es">Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</desc>
   </programme>
   <programme start="20261125085900 -0500" stop="20261125090900 -0500" channel="Tooncast.co">
     <title lang="es">Las maravillosas desventuras de Flapjack</title>
