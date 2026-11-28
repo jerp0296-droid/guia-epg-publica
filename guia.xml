@@ -447,11 +447,6 @@
   <channel id="Zoom.co">
     <display-name lang="es">Zoom</display-name>
   </channel>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="24Horas.co">
-    <title lang="es">Noticias 24</title>
-    <desc lang="es">Resumen noticioso nacional e internacional.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="24Horas.co">
     <title lang="es">Noticias 24</title>
     <desc lang="es">Resumen noticioso nacional e internacional.</desc>
@@ -1859,9 +1854,6 @@
   <programme start="20261129175200 -0500" stop="20261129192600 -0500" channel="A&amp;EMundo.co">
     <title lang="es">El asesino de la cara feliz</title>
   </programme>
-  <programme start="20261127164600 -0500" stop="20261127171300 -0500" channel="AdultSwim.co">
-    <title lang="es">Blue Lock</title>
-  </programme>
   <programme start="20261127171300 -0500" stop="20261127173800 -0500" channel="AdultSwim.co">
     <title lang="es">Justice League</title>
   </programme>
@@ -2543,9 +2535,6 @@
     <desc lang="es">Inspirado en hechos reales ocurridos durante la feroz rivalidad entre Alemania (Audi) e Italia (Lancia) en el Campeonato Mundial de Rally de 1983.</desc>
     <category lang="es">Race for Glory - Audi vs. LanciaBiográfico / 2024 / 5.8</category>
   </programme>
-  <programme start="20261127161500 -0500" stop="20261127170500 -0500" channel="AMCSERIES.ar">
-    <title lang="es">Dispatches From Elsewhere</title>
-  </programme>
   <programme start="20261127170500 -0500" stop="20261127175500 -0500" channel="AMCSERIES.ar">
     <title lang="es">The Son</title>
     <desc lang="es">Abarca 150 años y tres generaciones de la familia más adinerada de Texas, una dinastía ganadera y petrolera con riquezas y privilegios insuperables.</desc>
@@ -2855,10 +2844,9 @@
   <programme start="20261130235000 -0500" stop="20261201004000 -0500" channel="AMCSERIES.ar">
     <title lang="es">Las brujas de Mayfair de Anne Rice</title>
   </programme>
-  <programme start="20261127162400 -0500" stop="20261127171200 -0500" channel="AnimalPlanet.co">
-    <title lang="es">Wild Frank en África</title>
-    <desc lang="es">Frank se acerca a un grupo de feroces cocodrilos del Nilo, que pesan 600 kilos y no dudan en atacarlo cuando este se aproxima hasta llegar a tocarlos.</desc>
-    <category lang="es">Temporada 1 Episodio 7 - Nadando con cocodrilos</category>
+  <programme start="20261201004000 -0500" stop="20261201013500 -0500" channel="AMCSERIES.ar">
+    <title lang="es">The Walking Dead</title>
+    <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</desc>
   </programme>
   <programme start="20261127171200 -0500" stop="20261127180000 -0500" channel="AnimalPlanet.co">
     <title lang="es">El acuario</title>
@@ -4395,36 +4383,6 @@
   </programme>
   <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="AzMundo.co">
     <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20261127165200 -0500" stop="20261127165800 -0500" channel="BabyTV.co">
-    <title lang="es">La agencia de detectives de Zeina y otras historias</title>
-    <desc lang="es">Un espacio que presenta las aventuras de diversos personajes para entretener a los más pequeños. El programa presenta también las investigaciones de Zeina y sus amigos mientras intentan recordar el funcionamiento de diversos elementos.</desc>
-    <category lang="es">- El maravilloso limpiacristales</category>
-  </programme>
-  <programme start="20261127165800 -0500" stop="20261127170400 -0500" channel="BabyTV.co">
-    <title lang="es">La agencia de detectives de Zeina y otras historias</title>
-    <desc lang="es">Un espacio que presenta las aventuras de diversos personajes para entretener a los más pequeños. El programa presenta también las investigaciones de Zeina y sus amigos mientras intentan recordar el funcionamiento de diversos elementos.</desc>
-    <category lang="es">- El cubo no sabe por dónde empezar</category>
-  </programme>
-  <programme start="20261127170400 -0500" stop="20261127170600 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones y rimas</title>
-    <desc lang="es">¡Disfruta de la colección de canciones y rimas de todo el mundo de BabyTV Aprende a decir hola en más de 10 idiomas diferentes con la Canción Hola, además de cantar los clásicos, incluyendo "Soy una Pequeña Tetera" y "Bee Bee Oveja Negra"</desc>
-    <category lang="es">- Vi osos</category>
-  </programme>
-  <programme start="20261127170600 -0500" stop="20261127170800 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones y rimas</title>
-    <desc lang="es">Una recopilación de canciones y rimas para celebrar un cumpleaños con música y diversión.</desc>
-    <category lang="es">- Hoy es mi cumpleaños</category>
-  </programme>
-  <programme start="20261127170800 -0500" stop="20261127171000 -0500" channel="BabyTV.co">
-    <title lang="es">Canciones y rimas</title>
-    <desc lang="es">¡Disfruta de la colección de canciones y rimas de todo el mundo de BabyTV Aprende a decir hola en más de 10 idiomas diferentes con la Canción Hola, además de cantar los clásicos, incluyendo "Soy una Pequeña Tetera" y "Bee Bee Oveja Negra"</desc>
-    <category lang="es">- El granjero en la cañada</category>
-  </programme>
-  <programme start="20261127171000 -0500" stop="20261127171600 -0500" channel="BabyTV.co">
-    <title lang="es">La bici de Mike</title>
-    <desc lang="es">Muestra la importancia de ayudar y apoyar a los amigos, y cómo buscar soluciones en la vida cotidiana utilizando la iniciativa y la imaginación. A lo largo del camino, Mikey y sus amigos idean ingeniosos inventos y divertidas ideas.</desc>
-    <category lang="es">- Bunny y la Carreta</category>
   </programme>
   <programme start="20261127171600 -0500" stop="20261127172200 -0500" channel="BabyTV.co">
     <title lang="es">La bici de Mike</title>
@@ -10618,11 +10576,6 @@
     <desc lang="es">A bailar, Kiku en casa, Canciones &amp; Rimas, Canciones &amp; Rimas, El patio de juegos del abuelo Joe, Canciones &amp; Rimas, Canciones &amp; Rimas, Canciones &amp; Rimas, Lale Ki Lolu, Musical Melody</desc>
     <category lang="es">- Hora de ir a la almohada</category>
   </programme>
-  <programme start="20261127165500 -0500" stop="20261127170000 -0500" channel="BBCWorld.co">
-    <title lang="es">The Travel Show</title>
-    <desc lang="es">Exploraremos varios destinos alrededor del planeta para descubrir el lado escondido de algunos de los sitios más populares del mundo.</desc>
-    <category lang="es">Turismo</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="BBCWorld.co">
     <title lang="es">BBC World News America</title>
     <desc lang="es">Informes detallados sobre las principales noticias internacionales y estadounidenses del día presentados desde Washington DC.</desc>
@@ -11398,11 +11351,6 @@
     <desc lang="es">Un programa que acerca las últimas noticias empresariales a través de análisis y debates.</desc>
     <category lang="es">Economía</category>
   </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Bloomberg.co">
-    <title lang="es">The Deal</title>
-    <desc lang="es">Espacio de encuentro conducido por Alex Rodriguez y Jason Kelly que exhibe conversaciones íntimas con titanes empresariales y campeones deportivos que revelan sus filosofías de inversión, oportunidades, pérdidas y algunos de sus consejos.</desc>
-    <category lang="es">Temporada 4 Episodio 12 - Nick Khan on Making WWE a Global Media Power</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="Bloomberg.co">
     <title lang="es">The Best of 2026 Bloomberg New Economy Forum</title>
     <desc lang="es">Erik Schatzker presenta entrevistas con líderes empresariales y gubernamentales reunidos en Nueva Delhi durante octubre de 2026, en una selección de conversaciones sobre la economía global.</desc>
@@ -11872,10 +11820,6 @@
     <title lang="es">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="es">La atención en el rápido crecimiento y los importantes acuerdos que se están produciendo en todo Oriente Medio y África. Vinculando los impulsores del mercado en EE. UU. y en toda Asia con un análisis profundo de las historias comerciales.</desc>
     <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="Cablenoticias.co">
-    <title lang="es">Especiales</title>
-    <category lang="es">Especial</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Cablenoticias.co">
     <title lang="es">La otra cara de la moneda</title>
@@ -12499,16 +12443,6 @@
     <desc lang="es">Un espacio que brinda en exclusiva la investigación, seguimiento y desarticulación de las bandas criminales más peligrosas del mundo.</desc>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261127160500 -0500" stop="20261127170000 -0500" channel="Canal1.co">
-    <title lang="es">Trending</title>
-    <desc lang="es">Un programa sobre los acontecimientos y fenómenos que realmente mueven al mundo contemporáneo. A través del espacio, el público podrá informarse sobre música, tecnología y mucho más, de forma simple y dinámica.</desc>
-    <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261127170000 -0500" stop="20261127170400 -0500" channel="Canal1.co">
-    <title lang="es">Noticentro 1 - En punto</title>
-    <desc lang="es">Segmento de actualización informativa con cobertura dinámica y sintetizada de los acontecimientos más relevantes.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
   <programme start="20261127170400 -0500" stop="20261127180000 -0500" channel="Canal1.co">
     <title lang="es">Cuando los ángeles caen</title>
     <desc lang="es">Un espacio que muestra testimonios de historias inspiradoras y cómo existen los ángeles en la tierra que impactan en la vida de las personas. El presentador recorre los distintos relatos y ofrece profundas reflexiones.</desc>
@@ -13001,11 +12935,6 @@
     <desc lang="es">Un espacio donde aprendemos cómo vencer las crisis y alcanzar la verdadera prosperidad a través de la fe, para poder ver las maravillas de Dios en nuestra vida.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261127153000 -0500" stop="20261127170000 -0500" channel="CanalCapital.co">
-    <title lang="es">Yoko</title>
-    <desc lang="es">Sigue las aventuras de tres niños: Mai, Oto y Vik que simplemente aman jugar afuera. Despiertan la curiosidad de un ser mágico llamado Yoko que toma los juegos de niños ordinarios y los convierte en aventuras mágicas.</desc>
-    <category lang="es">Animación</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127183000 -0500" channel="CanalCapital.co">
     <title lang="es">La doctora Sara</title>
     <desc lang="es">Un espacio en el que los animales son protagonistas y tienen un lugar central. Visitamos granjas y otros lugares fascinantes para conocer a distintos animales y promover su bienestar.</desc>
@@ -13275,9 +13204,6 @@
     <desc lang="es">Fin de transmisión.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127170000 -0500" channel="CanalCongreso.co">
-    <title lang="es">Comisión Séptima de Cámara</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="CanalCongreso.co">
     <title lang="es">Al Punto Afro</title>
   </programme>
@@ -13490,11 +13416,6 @@
   </programme>
   <programme start="20261130183000 -0500" stop="20261130190000 -0500" channel="CanalCongreso.co">
     <title lang="es">Noticias de la Cámara</title>
-  </programme>
-  <programme start="20261127150000 -0500" stop="20261127170000 -0500" channel="CanaldelasEstrellas.co">
-    <title lang="es">El Chavo</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
-    <category lang="es">Comedia</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127184000 -0500" channel="CanaldelasEstrellas.co">
     <title lang="es">Mi corazón es tuyo</title>
@@ -13759,11 +13680,6 @@
     <title lang="es">En punto con Enrique Acevedo</title>
     <desc lang="es">Entérate de los sucesos más relevantes de la actualidad en este segmento especial que te brinda un resumen general sobre los últimos acontecimientos ocurridos en México y el mundo.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="CanalInstitucional.co">
-    <title lang="es">Tardes de ficción</title>
-    <desc lang="es">Un espacio que presenta diversas ficciones para que disfrute todo el público.</desc>
-    <category lang="es">Especial</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="CanalInstitucional.co">
     <title lang="es">La lista de Erick</title>
@@ -14437,11 +14353,6 @@
     <desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="CanalTR3CE.co">
-    <title lang="es">Clave de sol</title>
-    <desc lang="es">Sol, una profesora de música, junto a Camilo, un joven ciego con la obstinada ambición de convertirse en pianista, ponen a andar una precaria academia musical que reúne a un dispar grupo de estudiantes con discapacidades físicas y mentales.</desc>
-    <category lang="es">Musical</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="CanalTR3CE.co">
     <title lang="es">Fanpesinos</title>
     <desc lang="es">Jóvenes citadinos viajan al campo para descubrir el origen de los productos que usan o consumen diariamente, desde el jugo de naranja en el desayuno hasta la mochila artesanal que llevan al trabajo.</desc>
@@ -14759,11 +14670,6 @@
     <title lang="es">Playlist</title>
     <desc lang="es">100% de música, 100% de vídeoclipes.</desc>
     <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="CanalTRO.co">
-    <title lang="es">Ciudadanos inteligentes</title>
-    <desc lang="es">Una visión crítica sobre el impacto de las tecnologías en la humanidad. A través de entrevistas, imágenes impactantes y animaciones, invita a reflexionar sobre cómo las nuevas tecnologías están transformando las vidas y el futuro.</desc>
-    <category lang="es">Episodio 23</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="CanalTRO.co">
     <title lang="es">Extrovertidos</title>
@@ -15760,16 +15666,6 @@
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Presenta diferentes secciones y entrevistas enfocadas al bienestar del ser, crecimiento personal, buen vivir, reflexiones y felicidad.</desc>
     <category lang="es">Magazine</category>
-  </programme>
-  <programme start="20261127165000 -0500" stop="20261127170200 -0500" channel="CartoonNetwork.co">
-    <title lang="es">Submarine Jim</title>
-    <desc lang="es">Bonnie se roba el diario de Jim y amenaza con revelar todos sus secretos a su tripulación, si él no cede ante sus exigencias.</desc>
-    <category lang="es">Temporada 1 Episodio 36 - Querido diario</category>
-  </programme>
-  <programme start="20261127170200 -0500" stop="20261127171700 -0500" channel="CartoonNetwork.co">
-    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
-    <desc lang="es">Gumball debe encontrar una manera de salvar su relación con Darwin, luego de que los chicos se ven obligados a vivir en habitaciones separadas.</desc>
-    <category lang="es">Temporada 1 Episodio 3 - La distancia</category>
   </programme>
   <programme start="20261127171700 -0500" stop="20261127172900 -0500" channel="CartoonNetwork.co">
     <title lang="es">El maravillosamente extraño mundo de Gumball</title>
@@ -17499,11 +17395,6 @@
     <title lang="es">Escandalosos</title>
     <desc lang="es">¿Viste cuando tienes un amigo que no entiende una indirecta? Ese es Charlie, Pie Grande. Los Osos lo conocen cuando Charlie se inscribe en un sitio web para personas que comparten su casa y se instala un fin de semana con ellos.</desc>
     <category lang="es">Temporada 1 Episodio 13 - Charlie</category>
-  </programme>
-  <programme start="20261127165400 -0500" stop="20261127170100 -0500" channel="Cartoonito.co">
-    <title lang="es">Pocoyó</title>
-    <desc lang="es">Pato ya quiere probar el trampolín nuevo de Pocoyo, pero con tanta emoción, se olvida de Bea y su pelota favorita.</desc>
-    <category lang="es">Temporada 5 Episodio 28 - Déjalo rodar - Parte 2</category>
   </programme>
   <programme start="20261127170100 -0500" stop="20261127172500 -0500" channel="Cartoonito.co">
     <title lang="es">La casa de muñecas de Gabby</title>
@@ -20539,11 +20430,6 @@
   <programme start="20261129173500 -0500" stop="20261129191000 -0500" channel="Cinelatino.co">
     <title lang="es">Nosotros, mi papá y el perro</title>
   </programme>
-  <programme start="20261127150500 -0500" stop="20261127165900 -0500" channel="Cinemax.co">
-    <title lang="es">Mi villano favorito 2</title>
-    <desc lang="es">Gru, el encantador villano, ha dejado de lado sus maldades para cuidar a sus tres pequeñas hijas: Margo, Agnes y Edith. Todo parece marchar tranquilamente hasta que una misteriosa mujer lo captura para hacerle una propuesta muy especial.</desc>
-    <category lang="es">Despicable Me 2Animación / 2013 / 7.5</category>
-  </programme>
   <programme start="20261127165900 -0500" stop="20261127184600 -0500" channel="Cinemax.co">
     <title lang="es">Kung Fu Panda</title>
     <desc lang="es">Po es un loco del kung-fu. Cuando el destino quiere que sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo de tal arte marcial para estudiar con sus ídolos.</desc>
@@ -21459,11 +21345,6 @@
     <desc lang="es">https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="CNNenEspanol.co">
-    <title lang="es">La historia completa con Anderson Cooper</title>
-    <desc lang="es">Mientras la UFC se prepara para una cartelera histórica en la Casa Blanca, Sara Sidner examina cómo ascendió desde la controversia hasta convertirse en una poderosa fuerza política.</desc>
-    <category lang="es">Episodio 73 - La UFC en la Casa Blanca</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="CNNenEspanol.co">
     <title lang="es">Directo USA</title>
     <desc lang="es">Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos.</desc>
@@ -21943,11 +21824,6 @@
     <title lang="es">Directo USA</title>
     <desc lang="es">Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261127165000 -0500" stop="20261127171500 -0500" channel="ComedyCentral.co">
-    <title lang="es">Póquer de reinas</title>
-    <desc lang="es">El reparto y el equipo de Hot in Cleveland explican cómo se desarrolla el programa a lo largo de la semana, desde la lectura del guion hasta los ensayos y el rodaje ante el público en vivo.</desc>
-    <category lang="es">Temporada 3 Episodio 21 - A algunos les gusta caliente</category>
   </programme>
   <programme start="20261127171500 -0500" stop="20261127173500 -0500" channel="ComedyCentral.co">
     <title lang="es">Póquer de reinas</title>
@@ -23082,10 +22958,6 @@
   <programme start="20261129173000 -0500" stop="20261129193000 -0500" channel="ConcertChannel.co">
     <title lang="es">U2 Rattle and Hum</title>
   </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Cristovision.co">
-    <title lang="es">Jesús al vuelo</title>
-    <category lang="es">- Tierra Santa</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Cristovision.co">
     <title lang="es">Santo Rosario</title>
     <desc lang="es">Rezo del Santo Rosario y recorrida por diferentes templos.</desc>
@@ -23966,9 +23838,6 @@
     <desc lang="es">Una mujer divorciada, de espíritu libre, pasa los días trabajando en una oficina, mientras que por las noches se desata bailando en discotecas de Los Ángeles. Cuando conoce a Arnold, su vida cambia radicalmente.</desc>
     <category lang="es">Drama / 2018 / 6.3</category>
   </programme>
-  <programme start="20261127161000 -0500" stop="20261127170000 -0500" channel="Discovery.co">
-    <title lang="es">Todos contra Ed Stafford</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127175000 -0500" channel="Discovery.co">
     <title lang="es">Todos contra Ed Stafford</title>
   </programme>
@@ -24145,11 +24014,6 @@
   </programme>
   <programme start="20261129183000 -0500" stop="20261129201000 -0500" channel="Discovery.co">
     <title lang="es">Supervivencia al desnudo Náufragos</title>
-  </programme>
-  <programme start="20261127161000 -0500" stop="20261127170000 -0500" channel="DiscoveryChannel.co">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <desc lang="es">Ed se enfrenta a un exintegrante de la Legión Extranjera Francesa. Ed y Xinlei juegan al gato y al ratón en unas enormes dunas. Ed debe encontrar agua.</desc>
-    <category lang="es">Temporada 2 Episodio 6 - Ed vs. Xinlei Wu</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127175000 -0500" channel="DiscoveryChannel.co">
     <title lang="es">Todos contra Ed Stafford</title>
@@ -24606,9 +24470,6 @@
     <desc lang="es">Un visitador médico y un sargento de la fuerza aérea se encuentran en las Montañas Humeantes de Tennessee. El dúo compite por los recursos con osos que se acercan a sus refugios. Deberán dejar sus miedos de lado si quieren salir con vida.</desc>
     <category lang="es">Temporada 4 Episodio 7 - La furia del oso</category>
   </programme>
-  <programme start="20261127161200 -0500" stop="20261127170200 -0500" channel="DiscoveryHome&amp;Health.co">
-    <title lang="es">Big Shot The Ozempic Revolution</title>
-  </programme>
   <programme start="20261127170200 -0500" stop="20261127175300 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Cuestión de mente mi Alzheimer</title>
   </programme>
@@ -24761,11 +24622,6 @@
   </programme>
   <programme start="20261129183600 -0500" stop="20261129192700 -0500" channel="DiscoveryHome&amp;Health.co">
     <title lang="es">Historias de peso clínica de obesidad</title>
-  </programme>
-  <programme start="20261127164100 -0500" stop="20261127170400 -0500" channel="DiscoveryKids.co">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Es un día con mucho viento y Peppa y su familia están volando una cometa cuando encuentran un pajarito que no vuela. Peppa y su familia llevan al ave a la Doctora Hámster. La Doctora Hámster les dice que el pajarito se llama vencejo.</desc>
-    <category lang="es">Temporada 10 Episodio 10 - Pequeño vencejo</category>
   </programme>
   <programme start="20261127170400 -0500" stop="20261127172900 -0500" channel="DiscoveryKids.co">
     <title lang="es">Peppa Pig</title>
@@ -26137,9 +25993,6 @@
     <desc lang="es">George va con Peppa a la guardería y al principio a ella no le gusta la idea. Pero a los compañeros de Peppa les cae muy bien George y les parece fabuloso. / Mummy Pig está ocupada trabajando con la computadora.</desc>
     <category lang="es">Temporada 1 Episodio 2 - La guardería / El trabajo de mamá / Lancemos el balón / Papá pierde sus gafas / La hortaliza</category>
   </programme>
-  <programme start="20261127162400 -0500" stop="20261127171200 -0500" channel="DiscoveryScience.co">
-    <title lang="es">Mysteries at the Museum</title>
-  </programme>
   <programme start="20261127171200 -0500" stop="20261127180000 -0500" channel="DiscoveryScience.co">
     <title lang="es">Productores de armas</title>
   </programme>
@@ -26887,9 +26740,6 @@
     <desc lang="es">Madera es un maestro fabricante de minibicicletas y trae suficientes bicicletas para hacer una carrera, por la gloria de la tienda. Brad tiene una idea de un video para redes sociales, en las calles de Pisco.</desc>
     <category lang="es">Temporada 1 Episodio 3 - Obsesión por las minibicicletas</category>
   </programme>
-  <programme start="20261127164800 -0500" stop="20261127171200 -0500" channel="DiscoveryWorld.co">
-    <title lang="es">Pantano Se vende</title>
-  </programme>
   <programme start="20261127171200 -0500" stop="20261127173600 -0500" channel="DiscoveryWorld.co">
     <title lang="es">Mi casa en la montaña</title>
   </programme>
@@ -27204,11 +27054,6 @@
   </programme>
   <programme start="20261129184800 -0500" stop="20261129191200 -0500" channel="DiscoveryWorld.co">
     <title lang="es">Mi casa en la montaña</title>
-  </programme>
-  <programme start="20261127163500 -0500" stop="20261127170200 -0500" channel="DisneyChannel.co">
-    <title lang="es">Dragon Striker</title>
-    <desc lang="es">Key llega a Kal Asterock para seguir los pasos de su madre y convertirse en el Dragon Striker.</desc>
-    <category lang="es">Temporada 1 Episodio 2 - Bienvenidos a Kal Asterock - Parte I</category>
   </programme>
   <programme start="20261127170200 -0500" stop="20261127184300 -0500" channel="DisneyChannel.co">
     <title lang="es">La era de hielo 3</title>
@@ -28049,11 +27894,6 @@
     <title lang="es">The Owl House - La Casa Búho</title>
     <desc lang="es">Cuando Gus introduce a Luz en la Escuela Hexside para presentarla en la Sociedad de Apreciación Humana, Luz ve un lado de la escuela que no esperaba.</desc>
     <category lang="es">Temporada 1 Episodio 9 - Una aventura, muchos engaños</category>
-  </programme>
-  <programme start="20261127163100 -0500" stop="20261127170000 -0500" channel="DisneyJunior.co">
-    <title lang="es">RoboGobo</title>
-    <desc lang="es">Cuando Pupsicle congela la fiesta del Día de la Marmota, Gus la Marmota ayuda a Allie a descubrir su lado tonto. / Wingo aprende a tener paciencia para ser más astuto que Slink.</desc>
-    <category lang="es">Temporada 1 Episodio 13 - Allie se relaja / La gran batalla del puente</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173200 -0500" channel="DisneyJunior.co">
     <title lang="es">Supergatitos</title>
@@ -29050,6 +28890,1086 @@
     <desc lang="es">El legendario pirata Capitán Salty Bones invita a Mickey, Minnie y sus amigos a unirse a la búsqueda del tesoro más grande de la historia para ver si pueden convertirse en verdaderos piratas.</desc>
     <category lang="es">Temporada 1 Episodio 20 - Aventura Pirata</category>
   </programme>
+  <programme start="20261127180000 -0500" stop="20261127190000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127200000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127210000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261127220000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261127230000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128010000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128010000 -0500" stop="20261128020000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128030000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128040000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128040000 -0500" stop="20261128050000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128060000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128070000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128080000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128090000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128100000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128100000 -0500" stop="20261128110000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128110000 -0500" stop="20261128120000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128130000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128130000 -0500" stop="20261128140000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128140000 -0500" stop="20261128150000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128160000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128160000 -0500" stop="20261128170000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128170000 -0500" stop="20261128180000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128190000 -0500" stop="20261128200000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128210000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261128220000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128230000 -0500" stop="20261129000000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129000000 -0500" stop="20261129010000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129010000 -0500" stop="20261129020000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129020000 -0500" stop="20261129030000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129030000 -0500" stop="20261129040000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129040000 -0500" stop="20261129050000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129050000 -0500" stop="20261129060000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129060000 -0500" stop="20261129070000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129070000 -0500" stop="20261129080000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129080000 -0500" stop="20261129090000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129090000 -0500" stop="20261129100000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129100000 -0500" stop="20261129110000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129110000 -0500" stop="20261129120000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129120000 -0500" stop="20261129130000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129130000 -0500" stop="20261129140000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129140000 -0500" stop="20261129150000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129150000 -0500" stop="20261129160000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129160000 -0500" stop="20261129170000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129170000 -0500" stop="20261129180000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129180000 -0500" stop="20261129190000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129190000 -0500" stop="20261129200000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129200000 -0500" stop="20261129210000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129210000 -0500" stop="20261129220000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129220000 -0500" stop="20261129230000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130000000 -0500" stop="20261130010000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130010000 -0500" stop="20261130020000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130020000 -0500" stop="20261130030000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130030000 -0500" stop="20261130040000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130040000 -0500" stop="20261130050000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130050000 -0500" stop="20261130060000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130060000 -0500" stop="20261130070000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130080000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130080000 -0500" stop="20261130090000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130090000 -0500" stop="20261130100000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130100000 -0500" stop="20261130110000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130110000 -0500" stop="20261130120000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130120000 -0500" stop="20261130130000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130130000 -0500" stop="20261130140000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130150000 -0500" stop="20261130160000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130160000 -0500" stop="20261130170000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130170000 -0500" stop="20261130180000 -0500" channel="DSports.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127190000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127200000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127210000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261127220000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261127230000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128010000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128010000 -0500" stop="20261128020000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128030000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128040000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128040000 -0500" stop="20261128050000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128060000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128070000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128080000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128090000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128100000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128100000 -0500" stop="20261128110000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128110000 -0500" stop="20261128120000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128130000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128130000 -0500" stop="20261128140000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128140000 -0500" stop="20261128150000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128160000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128160000 -0500" stop="20261128170000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128170000 -0500" stop="20261128180000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128190000 -0500" stop="20261128200000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128210000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261128220000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128230000 -0500" stop="20261129000000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129000000 -0500" stop="20261129010000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129010000 -0500" stop="20261129020000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129020000 -0500" stop="20261129030000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129030000 -0500" stop="20261129040000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129040000 -0500" stop="20261129050000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129050000 -0500" stop="20261129060000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129060000 -0500" stop="20261129070000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129070000 -0500" stop="20261129080000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129080000 -0500" stop="20261129090000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129090000 -0500" stop="20261129100000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129100000 -0500" stop="20261129110000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129110000 -0500" stop="20261129120000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129120000 -0500" stop="20261129130000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129130000 -0500" stop="20261129140000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129140000 -0500" stop="20261129150000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129150000 -0500" stop="20261129160000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129160000 -0500" stop="20261129170000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129170000 -0500" stop="20261129180000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129180000 -0500" stop="20261129190000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129190000 -0500" stop="20261129200000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129200000 -0500" stop="20261129210000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129210000 -0500" stop="20261129220000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129220000 -0500" stop="20261129230000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130000000 -0500" stop="20261130010000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130010000 -0500" stop="20261130020000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130020000 -0500" stop="20261130030000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130030000 -0500" stop="20261130040000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130040000 -0500" stop="20261130050000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130050000 -0500" stop="20261130060000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130060000 -0500" stop="20261130070000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130080000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130080000 -0500" stop="20261130090000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130090000 -0500" stop="20261130100000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130100000 -0500" stop="20261130110000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130110000 -0500" stop="20261130120000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130120000 -0500" stop="20261130130000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130130000 -0500" stop="20261130140000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130150000 -0500" stop="20261130160000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130160000 -0500" stop="20261130170000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130170000 -0500" stop="20261130180000 -0500" channel="DSports2.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127190000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127200000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261127210000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261127220000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261127230000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128010000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128010000 -0500" stop="20261128020000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128030000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128040000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128040000 -0500" stop="20261128050000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128050000 -0500" stop="20261128060000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128070000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128080000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128090000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128090000 -0500" stop="20261128100000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128100000 -0500" stop="20261128110000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128110000 -0500" stop="20261128120000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128130000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128130000 -0500" stop="20261128140000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128140000 -0500" stop="20261128150000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128150000 -0500" stop="20261128160000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128160000 -0500" stop="20261128170000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128170000 -0500" stop="20261128180000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128190000 -0500" stop="20261128200000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128200000 -0500" stop="20261128210000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128210000 -0500" stop="20261128220000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261128230000 -0500" stop="20261129000000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129000000 -0500" stop="20261129010000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129010000 -0500" stop="20261129020000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129020000 -0500" stop="20261129030000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129030000 -0500" stop="20261129040000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129040000 -0500" stop="20261129050000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129050000 -0500" stop="20261129060000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129060000 -0500" stop="20261129070000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129070000 -0500" stop="20261129080000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129080000 -0500" stop="20261129090000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129090000 -0500" stop="20261129100000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129100000 -0500" stop="20261129110000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129110000 -0500" stop="20261129120000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129120000 -0500" stop="20261129130000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129130000 -0500" stop="20261129140000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129140000 -0500" stop="20261129150000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129150000 -0500" stop="20261129160000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129160000 -0500" stop="20261129170000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129170000 -0500" stop="20261129180000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129180000 -0500" stop="20261129190000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129190000 -0500" stop="20261129200000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129200000 -0500" stop="20261129210000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129210000 -0500" stop="20261129220000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129220000 -0500" stop="20261129230000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130000000 -0500" stop="20261130010000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130010000 -0500" stop="20261130020000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130020000 -0500" stop="20261130030000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130030000 -0500" stop="20261130040000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130040000 -0500" stop="20261130050000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130050000 -0500" stop="20261130060000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130060000 -0500" stop="20261130070000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130080000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130080000 -0500" stop="20261130090000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130090000 -0500" stop="20261130100000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130100000 -0500" stop="20261130110000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130110000 -0500" stop="20261130120000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130120000 -0500" stop="20261130130000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130130000 -0500" stop="20261130140000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130150000 -0500" stop="20261130160000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130160000 -0500" stop="20261130170000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261130170000 -0500" stop="20261130180000 -0500" channel="DSports+.co">
+    <title lang="es">No Data</title>
+    <desc lang="es">https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
   <programme start="20261127180000 -0500" stop="20261127190000 -0500" channel="DW(Espanol).co">
     <title lang="es">No Data</title>
     <desc lang="es">https://iptv-epg.org/help</desc>
@@ -29410,9 +30330,6 @@
     <desc lang="es">https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261127161000 -0500" stop="20261127170000 -0500" channel="E!.co">
-    <title lang="es">Las Kardashian una dinastía multimillonaria</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127175000 -0500" channel="E!.co">
     <title lang="es">Las Kardashian una dinastía multimillonaria</title>
   </programme>
@@ -29586,11 +30503,6 @@
   </programme>
   <programme start="20261129185500 -0500" stop="20261129194500 -0500" channel="E!.co">
     <title lang="es">Vanderpump Rules</title>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="ElGourmet.co">
-    <title lang="es">Estefi dulce</title>
-    <desc lang="es">Estefi Colombo nos enseña a preparar una cheesecake de banana brulee, bocaditos de dulce de leche, nuez y scons. Son tres propuestas simples y ricas para disfrutar.</desc>
-    <category lang="es">Temporada 1 Episodio 20 - Cheesecake de banana brule</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="ElGourmet.co">
     <title lang="es">Fiestas con sabor mexicano</title>
@@ -30781,11 +31693,6 @@
     <title lang="es">Rollos de Fili</title>
     <desc lang="es">Esta crónica documental ha hecho. a través de los años, un extenso recorrido por los lugares más emblemáticos de Colombia, mostrando su riqueza cultural y natural.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Enlace.co">
-    <title lang="es">Cristo, la solución</title>
-    <desc lang="es">Para nosotros lo mas preciado es la vida espiritual, por eso queremos crecer en nuestro espiritu por encima de todas las cosas.</desc>
-    <category lang="es">- La vida importa</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="Enlace.co">
     <title lang="es">Oasis</title>
@@ -37157,9 +38064,6 @@
   <programme start="20261129233000 -0500" stop="20261130003000 -0500" channel="ESPN2.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261127145500 -0500" stop="20261127171000 -0500" channel="ESPN3.co">
-    <title lang="es">Nations Championship 2026</title>
-  </programme>
   <programme start="20261127171000 -0500" stop="20261127182000 -0500" channel="ESPN3.co">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
@@ -37267,9 +38171,6 @@
   </programme>
   <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="ESPN3.co">
     <title lang="es">Nations Championship 2026</title>
-  </programme>
-  <programme start="20261127145000 -0500" stop="20261127170000 -0500" channel="ESPN4.co">
-    <title lang="es">Levante vs. Racing de Santander</title>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="ESPN4.co">
     <title lang="es">Aguas Arriba</title>
@@ -37433,8 +38334,8 @@
   <programme start="20261130233000 -0500" stop="20261201003000 -0500" channel="ESPN4.co">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20261127145000 -0500" stop="20261127170000 -0500" channel="ESPN5.co">
-    <title lang="es">Southampton vs. Middlesbrough</title>
+  <programme start="20261201003000 -0500" stop="20261201013000 -0500" channel="ESPN4.co">
+    <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="ESPN5.co">
     <title lang="es">UEFA Champions League Highlights</title>
@@ -38035,11 +38936,6 @@
   </programme>
   <programme start="20261129234000 -0500" stop="20261130011000 -0500" channel="Eurochannel.co">
     <title lang="es">Presas</title>
-  </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="EWTN.co">
-    <title lang="es">Lo mejor de la madre Angélica</title>
-    <desc lang="es">Mother Angelica welcomes author Dale Ahlquist to the show; they discuss the life and writings of one of the most creative thinkers of the 20th Century, G.K. Chesterton.</desc>
-    <category lang="es">- Dale Ahlquist, Series on G.K. Chesterton</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="EWTN.co">
     <title lang="es">En la herida está la misión</title>
@@ -38817,9 +39713,6 @@
   <programme start="20261129230000 -0500" stop="20261130013000 -0500" channel="film&amp;arts.co">
     <title lang="es">Respect La historia de Aretha</title>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="FOXNewsInternacional.co">
-    <title lang="es">The Will Cain Show</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="FOXNewsInternacional.co">
     <title lang="es">The five</title>
   </programme>
@@ -38984,11 +39877,6 @@
   </programme>
   <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="FOXNewsInternacional.co">
     <title lang="es">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme start="20261127145000 -0500" stop="20261127170000 -0500" channel="FOXSports.co">
-    <title lang="es">Southampton vs. Middlesbrough</title>
-    <desc lang="es">Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
-    <category lang="es">Fecha 18, St. Mary's Stadium</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="FOXSports.co">
     <title lang="es">Goles de la Champions League</title>
@@ -39475,11 +40363,6 @@
     <desc lang="es">Loretta McLaughlin, una periodista, se convierte en la primera en relacionar los asesinatos del estrangulador de Boston. A medida que el misterioso asesino reclama más víctimas, Loretta intenta continuar su investigación junto a su colega.</desc>
     <category lang="es">Boston StranglerDrama / 2023 / 6.5</category>
   </programme>
-  <programme start="20261127145200 -0500" stop="20261127171500 -0500" channel="Golden.co">
-    <title lang="es">El guardaespaldas</title>
-    <desc lang="es">Un guardaespaldas es contratado por una cantante famosa para protegerla de las insistentes amenazas de muerte. Éste empleará todos los recursos y medios materiales para protegerla en desacuerdo con la cantante.</desc>
-    <category lang="es">The BodyguardRomántica / 1992 / 6.0</category>
-  </programme>
   <programme start="20261127171500 -0500" stop="20261127190300 -0500" channel="Golden.co">
     <title lang="es">Mis huellas a casa</title>
     <desc lang="es">Una perra viaja cuatrocientas millas en busca de su dueño a través de un desierto de Colorado. Hay lazos que la distancia no puede romper.</desc>
@@ -39685,11 +40568,6 @@
     <desc lang="es">El día de su aniversario, Nick informa que su esposa ha desaparecido. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse, y su extraña conducta lo convierte en sospechoso.</desc>
     <category lang="es">Gone GirlCrimen / 2014 / 8.2</category>
   </programme>
-  <programme start="20261127145300 -0500" stop="20261127170200 -0500" channel="GoldenEdge.co">
-    <title lang="es">El justiciero 2</title>
-    <desc lang="es">Robert McCall se entera de que una de sus amigas, Susan, ha sido asesinada. McCall decide volver a sus viejos métodos y buscar, encontrar y castigar a los perpetradores.</desc>
-    <category lang="es">The Equalizer 2Acción / 2018 / 6.7</category>
-  </programme>
   <programme start="20261127170200 -0500" stop="20261127184900 -0500" channel="GoldenEdge.co">
     <title lang="es">Operación panda - Misión rescate</title>
     <desc lang="es">La superestrella de acción internacional Jackie Chan participa en una operación de rescate de un querido panda de zoológico llamado Hu Hu.</desc>
@@ -39889,9 +40767,6 @@
     <title lang="es">Escupiré sobre tu tumba 2</title>
     <desc lang="es">Katie inocentemente acepta una oferta para tomarse nuevas fotos para su portfolio, pero es violada, torturada y secuestrada. Ahora, ella tendrá que encontrar la fuerza para exigir su venganza brutal.</desc>
     <category lang="es">I Spit on Your Grave 2Thriller / 2013 / 5.7</category>
-  </programme>
-  <programme start="20261127153100 -0500" stop="20261127170600 -0500" channel="GoldenPremier.co">
-    <title lang="es">0719 La Hora del Temblor</title>
   </programme>
   <programme start="20261127170600 -0500" stop="20261127184400 -0500" channel="GoldenPremier.co">
     <title lang="es">El aro</title>
@@ -40291,9 +41166,6 @@
     <desc lang="es">¿Es el mundo lo que parece? Thomas Anderson, programador de una importante empresa de software y asaltador informático de alias Neo, averiguará que no. Con él contactará un extraño grupo encabezado por Morfeo, quien le mostrará la verdad.</desc>
     <category lang="es">The MatrixC.Ficción / 1999 / 8.7</category>
   </programme>
-  <programme start="20261127143600 -0500" stop="20261127170800 -0500" channel="HBO2.co">
-    <title lang="es">Wicked Por siempre</title>
-  </programme>
   <programme start="20261127170800 -0500" stop="20261127190800 -0500" channel="HBO2.co">
     <title lang="es">Sé lo que hicieron el verano</title>
   </programme>
@@ -40383,11 +41255,6 @@
   </programme>
   <programme start="20261129220000 -0500" stop="20261130000000 -0500" channel="HBO2.co">
     <title lang="es">El Conjuro 3</title>
-  </programme>
-  <programme start="20261127144100 -0500" stop="20261127170800 -0500" channel="HBO2.mx">
-    <title lang="es">Wicked: Por siempre</title>
-    <desc lang="es">Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad para cambiar el destino de todo Oz.</desc>
-    <category lang="es">Wicked: For GoodFantasía / 2025 / 6.6</category>
   </programme>
   <programme start="20261127170800 -0500" stop="20261127190800 -0500" channel="HBO2.mx">
     <title lang="es">Sé lo que hicieron el verano pasado</title>
@@ -43623,11 +44490,6 @@
     <desc lang="es">Según sus creyentes, el líder religioso Valdemiro Santiago de Oliveira en San Pablo, Brasil posee poderes con curativos. Como en el caso de Eliseth, quien fue curada de lepra.</desc>
     <category lang="es">Temporada 1 Episodio 1 - Serpentes / Virgem / Xamãs</category>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="HOLATV.co">
-    <title lang="es">Viaja x México</title>
-    <desc lang="es">Christian Carabias explora distintas regiones, culturas, tradiciones, gastronomía y personajes de la República Mexicana.</desc>
-    <category lang="es">Episodio 8</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="HOLATV.co">
     <title lang="es">La lista VIP</title>
     <desc lang="es">Un espacio que nos permite espiar el día a día de los ricos y los famosos. Una mirada íntima a sus hobbies, rutinas de belleza, vacaciones y todo lo que disfrutan en su vida cotidiana.</desc>
@@ -44927,11 +45789,6 @@
   <programme start="20261203180000 -0500" stop="20261204000000 -0500" channel="Lakalle.co">
     <title lang="es">El Desmadre</title>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127170000 -0500" channel="LasEstrellas.co">
-    <title lang="es">El Chavo</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127184000 -0500" channel="LasEstrellas.co">
     <title lang="es">Mi corazón es tuyo</title>
     <desc lang="es">Fernando Lascuráin es un hombre de negocios rico y viudo con siete hijos rebeldes, el cual busca una nueva niñera para sus hijos. Ana es contratada, y Fernando se enamora al integrarse a la mansión.</desc>
@@ -45500,11 +46357,6 @@
     <title lang="es">Feliz NaviDAD</title>
     <desc lang="es">Tras perder a su esposa durante la Navidad, un director de escuela ha perdido el espíritu navideño. Pero sus hijas están dispuestas a que lo recupere a toda costa.</desc>
     <category lang="es">Drama / 2020 / 6.1</category>
-  </programme>
-  <programme start="20261127162000 -0500" stop="20261127170500 -0500" channel="MTV.co">
-    <title lang="es">Catfish</title>
-    <desc lang="es">Después de 7 años de intenso drama, Gemini está desesperado por encontrar a Myranda. Pero todo cambia cuando Nev y Kamie terminan siendo los que necesitan ayuda y preparan una intervención para un infame Catfish que sigue volviendo.</desc>
-    <category lang="es">Temporada 8 Episodio 10 - Gemini y Myranda</category>
   </programme>
   <programme start="20261127170500 -0500" stop="20261127175000 -0500" channel="MTV.co">
     <title lang="es">Catfish</title>
@@ -46713,9 +47565,6 @@
     <desc lang="es">En este episodio descubriremos cómo capturó Hollywood la imaginación del mundo y estableció una de las industrias más exitosas de Estados Unidos.</desc>
     <category lang="es">Temporada 4 Episodio 2 - Hollywood</category>
   </programme>
-  <programme start="20261127165500 -0500" stop="20261127171500 -0500" channel="Nick.co">
-    <title lang="es">The Loud House</title>
-  </programme>
   <programme start="20261127171500 -0500" stop="20261127174000 -0500" channel="Nick.co">
     <title lang="es">The Marsupilamis</title>
   </programme>
@@ -47352,10 +48201,14 @@
   <programme start="20261130234000 -0500" stop="20261201000000 -0500" channel="Nick.co">
     <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
   </programme>
-  <programme start="20261127164000 -0500" stop="20261127170500 -0500" channel="NickJr.co">
-    <title lang="es">Patrulla canina</title>
-    <desc lang="es">Carlos y Tracker hacen jugo con la patrulla canina, cuando se dan cuenta de que la Alcaldesa Goodway y Gallileta están en problemas.</desc>
-    <category lang="es">Temporada 5 Episodio 10 - Los cachorros salvan las pawpaws / Los cachorros salvan el cubierta del silo</category>
+  <programme start="20261201000000 -0500" stop="20261201002500 -0500" channel="Nick.co">
+    <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+  </programme>
+  <programme start="20261201002500 -0500" stop="20261201004500 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20261201004500 -0500" stop="20261201011000 -0500" channel="Nick.co">
+    <title lang="es">SpongeBob SquarePants</title>
   </programme>
   <programme start="20261127170500 -0500" stop="20261127173000 -0500" channel="NickJr.co">
     <title lang="es">Patrulla canina</title>
@@ -48882,9 +49735,6 @@
     <desc lang="es">Un programa que aborda lo más destacado de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="Pasiones.co">
-    <title lang="es">Mi adorado encuentro</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Pasiones.co">
     <title lang="es">Bahar</title>
   </programme>
@@ -48962,11 +49812,6 @@
   </programme>
   <programme start="20261128180000 -0500" stop="20261128190000 -0500" channel="Pasiones.co">
     <title lang="es">Tres hermanas</title>
-  </programme>
-  <programme start="20261127153000 -0500" stop="20261127170000 -0500" channel="RCN.co">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
-    <category lang="es">Talk Show</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127190000 -0500" channel="RCN.co">
     <title lang="es">La rosa de Guadalupe</title>
@@ -49257,11 +50102,6 @@
     <desc lang="es">Joaquín es un hombre humilde que vive en Isla Hermosa y que se gana la vida pescando. Sin embargo, cuando vea televisión por primera vez en su vida y conozca la belleza de la conductora Luciana Rivas, viajará a Bogotá para encontrarla.</desc>
     <category lang="es">Romántica</category>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="RCNNovelas.co">
-    <title lang="es">Regreso a la Guaca</title>
-    <desc lang="es">Porras, Venegas, Lloreda y Perlaza, pertenecientes a un grupo de soldados del Ejército Nacional de Colombia, encuentran una caleta con millones de dólares.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="RCNNovelas.co">
     <title lang="es">Así es la vida</title>
     <desc lang="es">Celos, amor, infidelidad, engaños y ambición son algunos de los catalizadores detrás de cada historia desarrollada a lo largo de una semana con una intensidad dramática que mantiene a la audiencia en vilo capítulo a capítulo.</desc>
@@ -49481,11 +50321,6 @@
     <title lang="es">Novia para dos</title>
     <desc lang="es">Margarita Vera es una arquitecta que vive electrizada por cuenta de su relación con Adrian Zea, un hombre simpático pero insoportablemente impredecible. Pero a su vida llega Antonio Ríos, el gemelo de Adrián, y cambiará todo.</desc>
     <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="RCNNuestraTele.co">
-    <title lang="es">La previa de la Liga FPC</title>
-    <desc lang="es">Vive un anticipo con lo más destacado de la Liga del Fútbol Profesional Colombiano.</desc>
-    <category lang="es">La previa de la Liga FPC</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="RCNNuestraTele.co">
     <title lang="es">Garzón</title>
@@ -49896,16 +50731,6 @@
     <title lang="es">Mujeres sin filtro</title>
     <desc lang="es">Un espacio donde las mujeres hablan como realmente piensan. Relaciones, maternidad, amistad, libertad, duelo, redes sociales y los dilemas de la vida cotidiana se ponen sobre la mesa sin miedo y sin censura.</desc>
     <category lang="es">Cultural</category>
-  </programme>
-  <programme start="20261127164500 -0500" stop="20261127170000 -0500" channel="SenalColombia.co">
-    <title lang="es">¿Qué harías tú?</title>
-    <desc lang="es">Niños y niñas de diferentes ciudades de Colombia se ponen en el lugar de los protagonistas de diferentes problemáticas, reflexionan y expresan su opinión frente a cómo actuarían en esos momentos. Si fueras alguno de ellos, ¿Qué harías tú?.</desc>
-    <category lang="es">- Adiós a casa</category>
-  </programme>
-  <programme start="20261127170000 -0500" stop="20261127170500 -0500" channel="SenalColombia.co">
-    <title lang="es">Avance informativo</title>
-    <desc lang="es">Un espacio que actualiza las noticias más relevantes de Bogotá y Colombia antes de sus emisiones principales.</desc>
-    <category lang="es">Político</category>
   </programme>
   <programme start="20261127170500 -0500" stop="20261127173000 -0500" channel="SenalColombia.co">
     <title lang="es">Patrulla médica</title>
@@ -50959,6 +51784,10 @@
   <programme start="20261130224400 -0500" stop="20261201005900 -0500" channel="SonyMovies.co">
     <title lang="es">Donnie Brasco</title>
   </programme>
+  <programme start="20261201005900 -0500" stop="20261201030400 -0500" channel="SonyMovies.co">
+    <title lang="es">Sicario: El Día del Soldado</title>
+    <desc lang="es">El agente Matt debe detener a los carteles de droga que comienzan a traficar terroristas en la frontera, para detenerlos vuelve a necesitar de Alejandro.</desc>
+  </programme>
   <programme start="20261127161000 -0500" stop="20261127175000 -0500" channel="SonyMovies.uy">
     <title lang="es">La colonia</title>
   </programme>
@@ -51156,6 +51985,10 @@
   </programme>
   <programme start="20261130224400 -0500" stop="20261201005900 -0500" channel="SonyMovies.uy">
     <title lang="es">Donnie Brasco</title>
+  </programme>
+  <programme start="20261201005900 -0500" stop="20261201030400 -0500" channel="SonyMovies.uy">
+    <title lang="es">Sicario: El Día del Soldado</title>
+    <desc lang="es">El agente Matt debe detener a los carteles de droga que comienzan a traficar terroristas en la frontera, para detenerlos vuelve a necesitar de Alejandro.</desc>
   </programme>
   <programme start="20261127155000 -0500" stop="20261127172600 -0500" channel="Space.co">
     <title lang="es">Primer Impacto</title>
@@ -51718,9 +52551,6 @@
     <desc lang="es">Un excéntrico millonario invita a cinco personas a su mansión, donde se dice que se han cometido crímenes en el pasado. Les ofrece 10.000 dólares si pasan allí una noche entera, incomunicados, hasta que vuelvan los criados.</desc>
     <category lang="es">House on Haunted HillTerror / 1959 / 6.7</category>
   </programme>
-  <programme start="20261127152500 -0500" stop="20261127170000 -0500" channel="TeleVid.co">
-    <title lang="es">En Hora Buena</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127172500 -0500" channel="TeleVid.co">
     <title lang="es">A bordo con Tele VID</title>
     <desc lang="es">Una vivencia de experiencias de fe de la mano de sacerdotes, quienes guían espiritualmente en peregrinaciones nacionales e internacionales.</desc>
@@ -52086,10 +52916,6 @@
   <programme start="20261129234500 -0500" stop="20261130000000 -0500" channel="TeleVid.co">
     <title lang="es">Oración de la noche</title>
     <desc lang="es">Un espacio para crecer espiritualmente y acercarse al Señor, tomando un momento durante la noche para orar.</desc>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Teleantioquia.co">
-    <title lang="es">Clave de retiro</title>
-    <category lang="es">Variedades</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Teleantioquia.co">
     <title lang="es">Foro Antioquia impacta y transforma</title>
@@ -52611,11 +53437,6 @@
     <title lang="es">Nocturnos</title>
     <desc lang="es">Un espacio seguro donde puedas aclarar tus dudas, expresar tus sentimientos y encontrar consuelo. En cada episodio exploraremos temas profundos de salud mental con claridad y cercanía, y estaremos listos para escucharte y apoyarte.</desc>
     <category lang="es">Salud</category>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Telecafe.co">
-    <title lang="es">Historias de mentes</title>
-    <desc lang="es">Serie que retrata de manera documental a varios de los científicos más ilustres de la región Pacífico colombiana, basándose en los pasos del método científico como hilo conductor.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="Telecafe.co">
     <title lang="es">RPM</title>
@@ -53175,11 +53996,6 @@
     <title lang="es">Telecafé noticias</title>
     <desc lang="es">Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="Telecaribe.co">
-    <title lang="es">KC Music</title>
-    <desc lang="es">Un espacio de entretenimiento y radio digital que combina elementos musicales, culturales. El público podrá bailar y cantar junto a nuevos talentos y artistas consagrados mientras el presentador Kevin Coba visibiliza su talento.</desc>
-    <category lang="es">Musical</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Telecaribe.co">
     <title lang="es">Dale Play Music</title>
@@ -54292,10 +55108,6 @@
   <programme start="20261130185500 -0500" stop="20261130190000 -0500" channel="Teleislas.co">
     <title lang="es">Minuto afro</title>
   </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="Telemedellin.co">
-    <title lang="es">Materia prima</title>
-    <category lang="es">Agro</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Telemedellin.co">
     <title lang="es">Cambio de frente</title>
     <desc lang="es">Un programa de corte informativo y de opinión conducido por Juan Felipe Mejía junto a su equipo. El conductor se reúne con diversos expertos para debatir los acontecimientos más destacados del mundo deportivo en Colombia.</desc>
@@ -54747,9 +55559,6 @@
     <desc lang="es">El espacio para todos aquellos realizadores audiovisuales nayaritas, en el que nos platican sus experiencias en producciones de cine, haciéndonos viajar con sus cortometrajes y documentales.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20261127161000 -0500" stop="20261127170000 -0500" channel="Telemundo.co">
-    <title lang="es">Victoria</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127175000 -0500" channel="Telemundo.co">
     <title lang="es">Victoria</title>
   </programme>
@@ -54914,11 +55723,6 @@
   </programme>
   <programme start="20261129184000 -0500" stop="20261129193000 -0500" channel="Telemundo.co">
     <title lang="es">Historias de la vírgen morena</title>
-  </programme>
-  <programme start="20261127164000 -0500" stop="20261127170000 -0500" channel="Telepacifico.co">
-    <title lang="es">Regiones sin límites</title>
-    <desc lang="es">Los colores de la diversidad están presentes en esta nueva producción de reciente estreno.</desc>
-    <category lang="es">Interés general</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127175500 -0500" channel="Telepacifico.co">
     <title lang="es">Venga le digo</title>
@@ -57663,12 +58467,6 @@
     <desc lang="es">Sara desaparece sin rastro tras una fiesta en una discoteca. En el coche alquilado por ella, Horatio localiza un rastro de sangre, pero también vómito en las cercanías, lo que le induce a pensar que al menos salió viva del vehículo.</desc>
     <category lang="es">Temporada 4 Episodio 3 - La presa</category>
   </programme>
-  <programme start="20261127165300 -0500" stop="20261127170300 -0500" channel="Tooncast.co">
-    <title lang="es">El campamento de Lazlo</title>
-  </programme>
-  <programme start="20261127170300 -0500" stop="20261127171500 -0500" channel="Tooncast.co">
-    <title lang="es">El campamento de Lazlo</title>
-  </programme>
   <programme start="20261127171500 -0500" stop="20261127172600 -0500" channel="Tooncast.co">
     <title lang="es">El campamento de Lazlo</title>
   </programme>
@@ -58563,11 +59361,6 @@
   </programme>
   <programme start="20261129233800 -0500" stop="20261130000200 -0500" channel="Tooncast.co">
     <title lang="es">Scooby-Doo! Misterios S.A.</title>
-  </programme>
-  <programme start="20261127163000 -0500" stop="20261127170000 -0500" channel="TvAgro.co">
-    <title lang="es">Así se hace en el campo</title>
-    <desc lang="es">Descubra todas las actividades del sector agropecuario en Colombia. Los productores pecuarios y agrícolas podrán ver temas variados.</desc>
-    <category lang="es">Agro</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127173000 -0500" channel="TvAgro.co">
     <title lang="es">Transformadores de campo</title>
@@ -59537,11 +60330,6 @@
   <programme start="20261129235500 -0500" stop="20261130020000 -0500" channel="TVE.co">
     <title lang="es">Plano general</title>
   </programme>
-  <programme start="20261127150000 -0500" stop="20261127170000 -0500" channel="TyCSports.co">
-    <title lang="es">La previa de los 4tos de final del Torneo Clausura</title>
-    <desc lang="es">El servicio de noticias de TyC Sports marca la agenda deportiva del día con toda la cobertura del fútbol argentino y la actualidad deportiva nacional e internacional.</desc>
-    <category lang="es">Sportia</category>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127190000 -0500" channel="TyCSports.co">
     <title lang="es">La previa de los 4tos de final del Torneo Clausura</title>
     <desc lang="es">Los temas más candentes del futbol argentino bajo la mirada y el análisis del equipo que presiona en toda la cancha.</desc>
@@ -59841,11 +60629,6 @@
     <title lang="es">Sportia</title>
     <desc lang="es">La actualidad deportiva del fin de semana con la previa y el post de los partidos de la Liga Profesional, móviles en vivo, la cobertura del fútbol internacional, los goles argentinos y toda la actividad nacional e internacional.</desc>
     <category lang="es">Sportia</category>
-  </programme>
-  <programme start="20261127161000 -0500" stop="20261127170000 -0500" channel="UniversalTV.co">
-    <title lang="es">Chicago Fire</title>
-    <desc lang="es">Mientras Mouch hace un salvamento increíble, todas las miradas están puestas en el misterioso hombre que ayudó a salvar a su vecino. A Casey le preocupa su futuro en el Departamento de Bomberos de Chicago.</desc>
-    <category lang="es">Temporada 9 Episodio 12 - Bombero nato</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127175000 -0500" channel="UniversalTV.co">
     <title lang="es">Chicago Fire</title>
@@ -60331,11 +61114,6 @@
     <title lang="es">Chicago Fire</title>
     <desc lang="es">Severide y Casey intentan encontrar la mejor opción para Kidd. Por otro lado, Ritter, Gallo y Violet ayudan a planificar un evento para Mouch.</desc>
     <category lang="es">Temporada 9 Episodio 15 - Un pánico aterrador</category>
-  </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="Univision.co">
-    <title lang="es">El gordo y la flaca</title>
-    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
-    <category lang="es">Espectáculo</category>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="Univision.co">
     <title lang="es">Primer impacto</title>
@@ -61129,9 +61907,6 @@
   <programme start="20261130181000 -0500" stop="20261130190000 -0500" channel="USANetwork.co">
     <title lang="es">Suits</title>
   </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="VePlusTV.co">
-    <title lang="es">Somos tu y yo</title>
-  </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="VePlusTV.co">
     <title lang="es">Sabor al día</title>
   </programme>
@@ -61296,11 +62071,6 @@
   </programme>
   <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="VePlusTV.co">
     <title lang="es">El Palenque</title>
-  </programme>
-  <programme start="20261127140600 -0500" stop="20261127171800 -0500" channel="WarnerChannel.co">
-    <title lang="es">Harry Potter y la cámara secreta</title>
-    <desc lang="es">Harry ya quiere abandonar la casa de sus tíos, pero inesperadamente se presenta Dobby, un elfo doméstico que le anuncia que correrá un gran peligro si vuelve a Hogwarts. La tranquilidad de Harry desaparecerá cuando llegué a la escuela.</desc>
-    <category lang="es">Harry Potter and the Chamber of SecretsFantasía / 2002 / 7.3</category>
   </programme>
   <programme start="20261127171800 -0500" stop="20261127193900 -0500" channel="WarnerChannel.co">
     <title lang="es">Miss Simpatía</title>
@@ -62042,16 +62812,6 @@
   <programme start="20261129223000 -0500" stop="20261130000000 -0500" channel="WinSports+.co">
     <title lang="es">Mucho + Fútbol</title>
     <desc lang="es">Resumen y análisis de los partidos tras la finalización de la jornada, con el apoyo de herramientas tecnológicas para extraer las situaciones críticas de juego de cada equipo.</desc>
-  </programme>
-  <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="Zoom.co">
-    <title lang="es">Microbios al aire</title>
-    <desc lang="es">Un programa de la U.D.C.A que busca promover el bienestar integral de la comunidad universitaria. A través de entrevistas, testimonios y cápsulas informativas, aborda temas como salud física y mental</desc>
-    <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261127170000 -0500" stop="20261127171500 -0500" channel="Zoom.co">
-    <title lang="es">Cortos</title>
-    <desc lang="es">Espacio dedicado para ver los mejor del séptimo arte, en formato corto. Historias, personajes y universos increíbles en un abrir y cerrar de ojos.</desc>
-    <category lang="es">Cortometrajes</category>
   </programme>
   <programme start="20261127171500 -0500" stop="20261127173000 -0500" channel="Zoom.co">
     <title lang="es">Iberoamérica en órbita - Noticiero</title>
